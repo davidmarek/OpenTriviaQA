@@ -444,8 +444,8 @@ B The result is zero
 C There is remainder
 D The result is twice your original number
 
-#Q Two dice are randomly thrown. What is the possibility that the number, formed by the two digits that come form the dice, is a prime?
-^ 
+#Q Two dice are randomly thrown. What is the possibility that the number, formed by the two digits that come from the dice, is a prime?
+^ 2:9
 A 2:17
 B 35:36
 C 2:9

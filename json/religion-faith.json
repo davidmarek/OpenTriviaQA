@@ -1,0 +1,6151 @@
+[
+    {
+        "content": "What Hollywood actor portrayed Casanova in the 2005 movie entitled Casanova, based on the life of the popular adventurer?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Johnny Depp", 
+            "Antonio Banderas", 
+            "Heath Ledger", 
+            "Ryan Phillippe"
+        ]
+    }, 
+    {
+        "content": "Which of these is NOT a son of Adam and Eve?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Enoch", 
+            "Cain", 
+            "Abel", 
+            "Seth"
+        ]
+    }, 
+    {
+        "content": "Noah sent these two birds out of the ark to search for land:", 
+        "correct_answer": 2, 
+        "answers": [
+            "raven and hawk", 
+            "hawk and jay", 
+            "raven and dove", 
+            "dove and hawk"
+        ]
+    }, 
+    {
+        "content": "Jacob had 12 sons.  Which of his wives/maids bore the most babies?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Zilpah", 
+            "Leah", 
+            "Rachel", 
+            "Bilhah"
+        ]
+    }, 
+    {
+        "content": "Which of these animals did the Israelites worship while Moses was on the mountain?", 
+        "correct_answer": 1, 
+        "answers": [
+            "bull", 
+            "calf", 
+            "duck", 
+            "ram"
+        ]
+    }, 
+    {
+        "content": "Many of King Solomons wise sayings are recorded in Book 10 of Proverbs.  Which of these is NOT found there?", 
+        "correct_answer": 0, 
+        "answers": [
+            "When you see trouble coming, dont be stupid and walk right into it--be smart and hide.", 
+            "Good people are remembered long after they are gone, but the wicked are soon forgotten.", 
+            "Children with good sense make their parents happy, but foolish children make them sad.", 
+            "You will say the wrong thing if you talk too much--so be sensible and watch what you say."
+        ]
+    }, 
+    {
+        "content": "Mary was visited by this angel.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Uriel", 
+            "Raphael", 
+            "Gabriel", 
+            "Michael"
+        ]
+    }, 
+    {
+        "content": "Jesus was fond of using parables to give his messages.  Which of these was NOT one he used?", 
+        "correct_answer": 1, 
+        "answers": [
+            "The Parable of the Mustard Seed", 
+            "The Parable of the Old Men and the Young", 
+            "The Parable of the Prodigal Son", 
+            "The Parable of the Ten Servants"
+        ]
+    }, 
+    {
+        "content": "Which of the Horsemen of the Apocalypse is the first to be called out?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Black Horse (Famine)", 
+            "Red Horse (War)", 
+            "White Horse (Conquest )", 
+            "Pale/Green Horse (Death)"
+        ]
+    }, 
+    {
+        "content": "Complete the following quote from Matthew 5:3: Blessed are the poor in spirit, for ________", 
+        "correct_answer": 3, 
+        "answers": [
+            "they shall be comforted.", 
+            "shall be called children of God.", 
+            "they shall see Heaven.", 
+            "theirs is the Kindgom of Heaven."
+        ]
+    }, 
+    {
+        "content": "Who wrote the first five books of the Bible?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Adam", 
+            "Joseph", 
+            "Moses", 
+            "Abraham"
+        ]
+    }, 
+    {
+        "content": "In the Bible, how many wives and concubines did Solomon have?", 
+        "correct_answer": 2, 
+        "answers": [
+            "2000", 
+            "500", 
+            "1000", 
+            "100"
+        ]
+    }, 
+    {
+        "content": "Who wrote most of the books in the New Testament?", 
+        "correct_answer": 3, 
+        "answers": [
+            "David", 
+            "John", 
+            "Peter", 
+            "Paul"
+        ]
+    }, 
+    {
+        "content": "Who wrote the Book of Revelation while in exile?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Paul", 
+            "Peter", 
+            "James", 
+            "John"
+        ]
+    }, 
+    {
+        "content": "According to the accepted theory, how old was Jesus when He was crucified?", 
+        "correct_answer": 0, 
+        "answers": [
+            "33", 
+            "27", 
+            "40", 
+            "30"
+        ]
+    }, 
+    {
+        "content": "How old was Jesus when He performed His first miracle (Biblical, not Apocriphal)?", 
+        "correct_answer": 3, 
+        "answers": [
+            "40", 
+            "33", 
+            "27", 
+            "30"
+        ]
+    }, 
+    {
+        "content": "David, the famous ancient King of Israel, was the oldest child in the family.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "It is stated in the Bible that God told Moses to build the Temple in Jerusalem.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "According to the New Testament, who obtained permission to take Jesus Christs body down from the cross and place it in the tomb?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Joseph of Arimathea", 
+            "Joseph of Antioch", 
+            "Mary Magdalene", 
+            "Apostle Peter"
+        ]
+    }, 
+    {
+        "content": "Apostle Paul was a kind, friendly and peace-loving man who always helped Christians even before his conversion to Christianity.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Seven people went on the ark with Noah according to the Bible, Genesis, chapters 6 to 9.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "What was the profession of Luke the Apostle according to the New Testament?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Tax collector", 
+            "Carpenter", 
+            "Physician", 
+            "Boat builder"
+        ]
+    }, 
+    {
+        "content": "Who committed the first murder in the Bible?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Cain", 
+            "Solomon", 
+            "Adam", 
+            "Abel"
+        ]
+    }, 
+    {
+        "content": "Who was Gods son according to the Bible?", 
+        "correct_answer": 3, 
+        "answers": [
+            "John", 
+            "Peter", 
+            "Solomon", 
+            "Jesus"
+        ]
+    }, 
+    {
+        "content": "What is the name of the angel that God sent to tell Mary she was to conceive Jesus?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Abraham", 
+            "Gabriel", 
+            "Michael", 
+            "Peter"
+        ]
+    }, 
+    {
+        "content": "Who was Jesus earthly father according to the Bible?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Solomon", 
+            "Joseph", 
+            "no one", 
+            "David"
+        ]
+    }, 
+    {
+        "content": "Which of the following is not generally considered one of the seven deadly sins?", 
+        "correct_answer": 0, 
+        "answers": [
+            "obfuscation", 
+            "hatred", 
+            "lust", 
+            "envy"
+        ]
+    }, 
+    {
+        "content": "According to Matthew and Luke, in what city was Jesus born?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Jerusalem", 
+            "Bethlehem", 
+            "Babylon", 
+            "Nazareth"
+        ]
+    }, 
+    {
+        "content": "Can a deacon get married?", 
+        "correct_answer": 1, 
+        "answers": [
+            "No", 
+            "Yes"
+        ]
+    }, 
+    {
+        "content": "You drink the coffee and turn the cup upside down.  The reader predicts the future, deciphering various patterns formed inside the cup.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Hakata", 
+            "Scrying", 
+            "I Ching", 
+            "Tasseomancy"
+        ]
+    }, 
+    {
+        "content": "This is a deck of 78 cards with pictures and inscriptions on them. They are divided into several suits and the person extracts cards that the reader interprets.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Tarot", 
+            "Cartopedy", 
+            "Belote", 
+            "Cledonism"
+        ]
+    }, 
+    {
+        "content": "This method of divination uses air and water. The person covers their head with a cloth, fill a vase with water and expose it to the air.  They whisper a wish over the vase. If bubbles show on the water surface, this is considered a positive sign and the wish will probably come true.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Water scrying", 
+            "Critomancy", 
+            "Dowsing", 
+            "Eromancy"
+        ]
+    }, 
+    {
+        "content": "This method includes hexagrams which consist of six lines either solid or broken. Solid lines are considered strong and active, and broken lines stand for weak and acquiescent. These lines define the meaning of the hexagrams. Each hexagram has a different meaning. You determine your own hexagram by tossing 3 coins 3 times.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Tarot", 
+            "I Ching", 
+            "Aura information", 
+            "Astrology"
+        ]
+    }, 
+    {
+        "content": "This method of divination uses a set of 24 alphabet letters that are usually carved on small tiles, so that the person could extract one of all 24 and to interpret its meaning. They were also carved and drawn building walls for protection.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Runes", 
+            "Tarot", 
+            "Palm reading", 
+            "Shell scrying"
+        ]
+    }, 
+    {
+        "content": "This is the careful screening of your palm, its shapes and lines in order to guess some events from the past and see events in the future.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Palmistry", 
+            "Cledonism", 
+            "Tasseomancy", 
+            "Cartopedy"
+        ]
+    }, 
+    {
+        "content": "This method uses climate conditions to predict the future. It was considered that climate is the attitude of gods towards men, and that each atmospheric event had its own meaning.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Cephalomancy", 
+            "Aeromancy", 
+            "Graphology", 
+            "Bibliomancy"
+        ]
+    }, 
+    {
+        "content": "This method uses books for predicting ones future. The person should take a book, open to a random page and read a passage. Then he should interpret it.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Geomancy", 
+            "Bibliomancy", 
+            "Hydromancy", 
+            "Chiromancy"
+        ]
+    }, 
+    {
+        "content": "This way of divination uses onion sprouts. First a ritual is held in order to state what the divination is about. Then the onion sprouts are put on an altar. It is thought that onion sprouts can tell you about friends and relatives who are far away, give love advice and answer yes or no questions about the future.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Cromniomancy", 
+            "Crystallomancy", 
+            "Chirognomy", 
+            "Cyclomancy"
+        ]
+    }, 
+    {
+        "content": "This method uses birds to predict the future. The divinator scatters grains and then he carefully observes the way the birds peck at the grain.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Austromancy", 
+            "Captopromancy", 
+            "Botanomancy", 
+            "Alectryomancy"
+        ]
+    }, 
+    {
+        "content": "In ancient times people thought that illnesses were caused by demons, possessing the soul of a person. So they cured those illnesses with exorcism. Exorcism is derived from the Greek word  exorkizein. What does this word mean?", 
+        "correct_answer": 3, 
+        "answers": [
+            "To kill the soul", 
+            "To kill the ghost", 
+            "To expel the demon", 
+            "To bind by oath"
+        ]
+    }, 
+    {
+        "content": "Ancient Babylonian priests were one of the first exorcists. They meant to destroy the evil spirit, possessing the victim, by performing this ritual.", 
+        "correct_answer": 1, 
+        "answers": [
+            "They killed the possessed person by stabbing them with a sacrificial knife.", 
+            "They destroyed a wax or clay image of a demon.", 
+            "They drew mighty symbols on the forehead of the victim.", 
+            "They drilled a hole in the skull of the possessed."
+        ]
+    }, 
+    {
+        "content": "Exorcism is not popular among religions nowadays.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Jesus Christ is considered to be an exorcist. One of the legends tells of Jesus casting out multiple demons from a madman. The spirits then entered the bodies of some animals. What kind of animals were they?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Vultures", 
+            "Pigs", 
+            "Crows", 
+            "Cows"
+        ]
+    }, 
+    {
+        "content": "Jesus Christ gave the power to exorcise demons to his disciples.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "In Judaism the evil spirit that possesses the soul of its victim is called dybbuk. It is exorcised through this part of the body.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Mouth", 
+            "Chest", 
+            "Small toe", 
+            "Left Arm"
+        ]
+    }, 
+    {
+        "content": "The exorcist must feel as free of sin as possible. Why?", 
+        "correct_answer": 2, 
+        "answers": [
+            "So the exorcist does not die", 
+            "So the exorcist can easily absorb the demons", 
+            "So demons cannot easily possess the exorcist", 
+            "So the possessed victim does not die"
+        ]
+    }, 
+    {
+        "content": "Exorcism is related to ASC. What does ASC stand for?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Affecting Spirit of Cataclysm", 
+            "Affected Soul by Craziness", 
+            "Affected Soul by Cabala", 
+            "Altered State Of Consciousness"
+        ]
+    }, 
+    {
+        "content": "During Christian exorcism, the victim is to hold a crucifix and the exorcist is encouraged to use holy water and relics. These  two other objects should also be present.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Skull and Bones", 
+            "Salt and Wine", 
+            "Feather and Ink-pot", 
+            "Sword and Shield"
+        ]
+    }, 
+    {
+        "content": "Although all exorcisms proceed differently, some stages are common. There are five common stages - The Presence, Break-point, The Voice, The Clash and this.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Expatriation", 
+            "Expulsion", 
+            "Deportation", 
+            "Redemption"
+        ]
+    }, 
+    {
+        "content": "Adam was the first human made by God according to the Bible texts.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "The Ten Commandments can be found in the book of Exodus, New Testament.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, Gods laws were given to Moses on Mount Rushmore.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Moses talked to God on the mountain and received the Ten Commandments in 40 days.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Moses broke the tablets on which the Ten Commandments were written when he slipped on the rocky mountainside.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "According to the Bible texts, Jesus earthly father Joseph was sheep herder.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "In the Bible texts, \u00e2\u0080\u009cAm I my brother\u00e2\u0080\u0099s keeper?\u00e2\u0080\u009d was a question asked by Cain to God.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "This line from the Bible is from an address by God to Noah: \u00e2\u0080\u009cAnd the bow shall be in the cloud and I will look upon it that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth.\u00e2\u0080\u009d", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, Judas Iscariot was paid 30 pieces of gold to betray Jesus.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "In Genesis, we can read that Joseph was sold into slavery by his brothers.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "The magic wand is a must have accessory of every witch, if she wants to work wonders. What is the wand is made of?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Glass", 
+            "Metal", 
+            "Chestnut", 
+            "Hazel"
+        ]
+    }, 
+    {
+        "content": "Every new witch receives a special craft name, which they only disclose to coven members and keep a secret from everyone else.  Why?", 
+        "correct_answer": 3, 
+        "answers": [
+            "It would bring ill fate upon the person", 
+            "It would take away the magical powers of the coven", 
+            "It would kill the person who knows the secret name", 
+            "Knowing the craft name gives magical powers"
+        ]
+    }, 
+    {
+        "content": "Incense is often used in witchcraft.  What is the meaning of jasmine scented incense?", 
+        "correct_answer": 1, 
+        "answers": [
+            "To ease hurt caused by love", 
+            "Luck in love", 
+            "True love", 
+            "Intense desire"
+        ]
+    }, 
+    {
+        "content": "This is one of the most widely used religious symbols. It is generally used for protection. Even though it is often associated with witchcraft, it was also used in Christianity, symbolizing the five wounds of Christ.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Hazel", 
+            "Sword", 
+            "Pentagram", 
+            "Chalice"
+        ]
+    }, 
+    {
+        "content": "This is when the spell casting powers are at their fullest.  It is the hour of midnight on a full moon.", 
+        "correct_answer": 2, 
+        "answers": [
+            "The Midnight Hour", 
+            "The Power Hour", 
+            "The Witching Hour", 
+            "The Moon Hour"
+        ]
+    }, 
+    {
+        "content": "It is  the magical power of this herb: In the event of some kind of troublesome misfortune, gather the root with care during the descent of the lions cub and hang it around your neck.  It will drive away cares and cause a merry heart. - Syrenius (1540 - 1611).", 
+        "correct_answer": 3, 
+        "answers": [
+            "Wormwood", 
+            "Barberry", 
+            "Betony", 
+            "Angelica"
+        ]
+    }, 
+    {
+        "content": "An ancient tradition was to distinguish witches by their color. There were white, red, green, etc. witches. The tradition doesnt exist any more but the meaning of the colors is still applied in various practices. What is the color for these magical uses: divination, spirituality, protection, psychic powers, healing, truth, peace?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Green", 
+            "Pink", 
+            "White", 
+            "Yellow"
+        ]
+    }, 
+    {
+        "content": "When you collect flowers or herbs for magical purposes you should have in mind the hour at which you gather them. What are the magical hours?", 
+        "correct_answer": 0, 
+        "answers": [
+            "3, 6, 9 and 12", 
+            "4, 6, 8 and 11", 
+            "1, 7, 9 and 11", 
+            "1, 4, 5 and 10"
+        ]
+    }, 
+    {
+        "content": "This ancient pagan ritual was practiced in Scotland until the end of the 19th century. It allows a couple to make a commitment to each other within their own spiritual path. This commitment lasts for one year and a day. After that the couple can go their own way or renew their bond.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Handfasting", 
+            "Faerie", 
+            "Anam cara", 
+            "A prayer of passage"
+        ]
+    }, 
+    {
+        "content": "What is this spell used for?  Dear Father, tsar fire, be gentle and kind to me.  Burn away all my aches  pains, tears  worries.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Love", 
+            "Happiness", 
+            "Wealth", 
+            "Faith"
+        ]
+    }, 
+    {
+        "content": "Every Catholic can receive any of the seven sacraments, but no one can receive all seven.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "What is the Catholic term describing a place of purification after bodily death, but before the soul enters heaven?", 
+        "correct_answer": 2, 
+        "answers": [
+            "apocalypse", 
+            "limbo", 
+            "purgatory", 
+            "apocrypha"
+        ]
+    }, 
+    {
+        "content": "This part of the Catholic mass, in which the priest asks God to change the bread and wine into Jesus body and blood, is called what?", 
+        "correct_answer": 1, 
+        "answers": [
+            "invocation", 
+            "consecration", 
+            "offertory", 
+            "communion"
+        ]
+    }, 
+    {
+        "content": "The Hail Mary is a biblical prayer.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "What was the church council that revised the prayers used in the Catholic mass and authorized masses to be said in the language of the local people?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Nicea", 
+            "Vatican II", 
+            "Vatican I", 
+            "Trent"
+        ]
+    }, 
+    {
+        "content": "A schism in the Christian church culminated in two bishops excommunicating each other in 1054, resulting in what?", 
+        "correct_answer": 0, 
+        "answers": [
+            "the division between Catholicism and Orthodoxy", 
+            "the Protestant Reformation", 
+            "the ecumenical movement", 
+            "the Crusades"
+        ]
+    }, 
+    {
+        "content": "There are ten holy days of obligation, days other than Sunday on which all the worlds Catholics are required to attend mass.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "What is the Catholic term for a person who, after death, goes to heaven?", 
+        "correct_answer": 0, 
+        "answers": [
+            "saint", 
+            "cherub", 
+            "seraph", 
+            "angel"
+        ]
+    }, 
+    {
+        "content": "What does the Catholic church teach about Mary, Jesus mother?", 
+        "correct_answer": 3, 
+        "answers": [
+            "She was a virgin when Jesus was born, but not necessarily after.", 
+            "Joseph divorced her quietly after Jesus was born.", 
+            "She was a virgin when Jesus was conceived, but not necessarily after.", 
+            "She was a virgin until her death."
+        ]
+    }, 
+    {
+        "content": "According to the Bibles description of the creation of the world, on what day of the week were the sun, moon, and stars formed?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Second", 
+            "Third", 
+            "Fifth", 
+            "Fourth"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, Sarah and Abraham have a common relative by blood.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Who begged for the body of Jesus to give it a proper burial?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Joseph of Arimathaea", 
+            "Peter", 
+            "Mark", 
+            "Matthew"
+        ]
+    }, 
+    {
+        "content": "What scripture of the King James Bible is most noted for the story of the birth of Jesus?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Luke, Chapter 1", 
+            "Luke, Chapter 3", 
+            "Luke, Chapter 2", 
+            "Matthew, Chapter 2"
+        ]
+    }, 
+    {
+        "content": "According to the biblical texts, whom do these words belong to: Thou shalt have no other gods before me!?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Moses", 
+            "Aaron", 
+            "Miriam", 
+            "God"
+        ]
+    }, 
+    {
+        "content": "The first of the 10 commandments that also contains a promise was Honor thy Father and Mother.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Who was Ruths mother-in-law according to biblical texts?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Mara", 
+            "Naomi", 
+            "Orpah", 
+            "Boaz"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, Ruth was the great grandmother of David.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Who wrote Epistle to the Romans, included in the New Testament canon of the Christian Bible?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Peter", 
+            "Paul", 
+            "Mark", 
+            "Luke"
+        ]
+    }, 
+    {
+        "content": "According to Christian beliefs, what was the nature of the first sin man ever committed?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Greed", 
+            "Murder", 
+            "Disobedience", 
+            "Blasphemy"
+        ]
+    }, 
+    {
+        "content": "According to the Bibles interpretation of Moses life, who ran along the bank to make sure that Moses was alright in his basket after he was set adrift on the Nile river?", 
+        "correct_answer": 2, 
+        "answers": [
+            "His brother", 
+            "His mother", 
+            "His sister", 
+            "His father"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, did the Pharaoh\u00e2\u0080\u0099s wife find little Moses who was drifting along the Nile in a basket.", 
+        "correct_answer": 0, 
+        "answers": [
+            "No", 
+            "Yes"
+        ]
+    }, 
+    {
+        "content": "What does the name Moses mean according to the Biblical texts?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Found", 
+            "Child of the river", 
+            "Conceived by a Hebrew", 
+            "Drawn out"
+        ]
+    }, 
+    {
+        "content": "What was the name of Mosess brother according to the Bible?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Clive", 
+            "Aaron", 
+            "Peter", 
+            "John"
+        ]
+    }, 
+    {
+        "content": "According to Exodus, what was the ninth plague that God inflicted on Egypt in order to convince Pharaoh to let the Israelite slaves leave?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Death of First Born Child", 
+            "Lice", 
+            "Darkness", 
+            "Frogs"
+        ]
+    }, 
+    {
+        "content": "Why did Moses have to flee out of Egypt and settle on the Sinai Peninsula according to the Bible?", 
+        "correct_answer": 0, 
+        "answers": [
+            "He killed an Egyptian", 
+            "He was banned for disrespectable behaviour towards the Pharaoh.", 
+            "None of these", 
+            "He killed the Pharaoh"
+        ]
+    }, 
+    {
+        "content": "According to the last chapters of Exodus, what was the Tabernacle, which was built after the Israelites passed safely the Red Sea with Gods help?", 
+        "correct_answer": 2, 
+        "answers": [
+            "A vehicle with a prayer altar", 
+            "A portable prayer altar", 
+            "A portable place of worship", 
+            "A portable irrigating system"
+        ]
+    }, 
+    {
+        "content": "Who is the second oldest living man according to the Bible?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Enoch", 
+            "Mahalalel", 
+            "Jared", 
+            "Methuselah"
+        ]
+    }, 
+    {
+        "content": "What is the name of the only Archangel mentioned in the Bible?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Lucifer", 
+            "Jesus", 
+            "Michael", 
+            "Gabriel"
+        ]
+    }, 
+    {
+        "content": "Who was emperor of Rome at the time of Jesus death?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Augustus", 
+            "Tiberius", 
+            "Caligula", 
+            "Claudius"
+        ]
+    }, 
+    {
+        "content": "King Solomon had 300 wives and 700 concubines.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "This tradition was founded in England in the 1960s by Alex Sanders, who referred to himself as the King of his Witches.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Strega", 
+            "Gardnerian", 
+            "Celtic", 
+            "Alexandrian"
+        ]
+    }, 
+    {
+        "content": "Caledonii tradition comes from this country.", 
+        "correct_answer": 3, 
+        "answers": [
+            "France", 
+            "Italy", 
+            "England", 
+            "Scotland"
+        ]
+    }, 
+    {
+        "content": "This system is indigenous to South Central Pennsylvania, USA.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Strega", 
+            "Satanic", 
+            "Pow-Wow", 
+            "Seax-Wica"
+        ]
+    }, 
+    {
+        "content": "This tradition was founded by Raymond Buckland in 1973.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Seax-Wica", 
+            "Dianic", 
+            "Teutonic", 
+            "Hereditary"
+        ]
+    }, 
+    {
+        "content": "This tradtion is also know as the Nordic tradition.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Eclectic", 
+            "British Traditional Witch", 
+            "Pictish", 
+            "Teutonic"
+        ]
+    }, 
+    {
+        "content": "The International Red Garters are an organization of British traditional witches.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "If I practice the Craft by myself,  not as part of a coven, I am said to be this.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Strega", 
+            "Solitary", 
+            "Alexandrian", 
+            "Pictish"
+        ]
+    }, 
+    {
+        "content": "An eclectic witch strictly follows his or her chosen tradition.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Voodoo is actually a religion, which originated in Africa. Voodoo comes from the West African word vodun. What does vodun mean?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Revenge", 
+            "Spirit", 
+            "Doll", 
+            "Death"
+        ]
+    }, 
+    {
+        "content": "The structure of Voodoo, as we know it today, was developed after the Europeans started slavery. Where was Voodoo born?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Jamaica", 
+            "Hawaii", 
+            "Taiti", 
+            "Haiti"
+        ]
+    }, 
+    {
+        "content": "Voodoo rituals include animal sacrifice.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "The French rulers persecuted Voodoo priests and practitioners. In 1791 a revolution exploded, which was led by the Voodoo priests. It ended in the year of Napoleons crowning.", 
+        "correct_answer": 1, 
+        "answers": [
+            "1784", 
+            "1804", 
+            "1754", 
+            "1854"
+        ]
+    }, 
+    {
+        "content": "The high Voodoo priest and priestess are often called this.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Papa and Maman", 
+            "Supreme Magicians", 
+            "Son and Daughter of the Serpent", 
+            "Dad and Mum"
+        ]
+    }, 
+    {
+        "content": "Voodoo Dancing is just a prelude to sexual frenzy.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "In Voodoo, God is considered to be too distant for people to communicate with. Therefore, Voodoo priests communicate with God through Loa. What is Loa?", 
+        "correct_answer": 0, 
+        "answers": [
+            "The spirits", 
+            "The dolls", 
+            "The drums", 
+            "The demons"
+        ]
+    }, 
+    {
+        "content": "Voodoo dolls are commonly used for voodoo.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Voodoos equivalent in Cuba is Santeria. Do you know which the equivalent of Voodoo in Brazil is?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Maabaa", 
+            "Mooboo", 
+            "Macumba", 
+            "Mojo"
+        ]
+    }, 
+    {
+        "content": "Nowadays Voodoo is no longer a religion.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "How is New Year referred to in Judaism?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Tzom Gedalia", 
+            "Rosh Hashannah", 
+            "Yom KIppur", 
+            "Shabbat"
+        ]
+    }, 
+    {
+        "content": "At Passover, Jews eat a special meal done in a special order.  What is that meal called?", 
+        "correct_answer": 1, 
+        "answers": [
+            "A festavus for the rest of us", 
+            "A seder", 
+            "A Shidduch", 
+            "A circumcision"
+        ]
+    }, 
+    {
+        "content": "What is the traditional Jewish prayer book called?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Siddur", 
+            "Seder", 
+            "The United Psalmistry", 
+            "Shofar"
+        ]
+    }, 
+    {
+        "content": "How many letters are in the hebrew alphabet?", 
+        "correct_answer": 1, 
+        "answers": [
+            "24", 
+            "22", 
+            "25", 
+            "20"
+        ]
+    }, 
+    {
+        "content": "How many vowels are in the Hebrew alphabet ?", 
+        "correct_answer": 1, 
+        "answers": [
+            "8", 
+            "0", 
+            "5", 
+            "6"
+        ]
+    }, 
+    {
+        "content": "We consider there to be three Patriarchs in Judaism. Who were they?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Moses, David, Abraham", 
+            "Abraham, David, Moses", 
+            "Abraham, Issac, Jacob", 
+            "David, Joshua, Solomon"
+        ]
+    }, 
+    {
+        "content": "In Judaism, who was Joshuas father?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Abraham", 
+            "Solomon", 
+            "Nun", 
+            "Moses"
+        ]
+    }, 
+    {
+        "content": "On the first day of which month do Jews celebrate New Year?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Cheshvan", 
+            "Adar", 
+            "Tishrei", 
+            "Av"
+        ]
+    }, 
+    {
+        "content": "Which Hebrew phrase is most commonly associated with the English expression Good Luck and/or Congratulations?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Laych lGehinnom", 
+            "Hayem Yankel", 
+            "Oy Vey", 
+            "Mazel Tov"
+        ]
+    }, 
+    {
+        "content": "Who was the Baal Shem Tov ?", 
+        "correct_answer": 2, 
+        "answers": [
+            "The founder of the Bnai Brith", 
+            "The first Premier of  Israel", 
+            "The founder of Chassidism", 
+            "The first President of Israel"
+        ]
+    }, 
+    {
+        "content": "According to the second half of the Acts of the Apostles, what was Pauls name before God changed it?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Peter", 
+            "Luke", 
+            "Saul", 
+            "John"
+        ]
+    }, 
+    {
+        "content": "The second chapter of the Gospel of Luke, Luke 2, tells us the story of Christs birth.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "In the Old Testament, a man is said to have lived to be 969 years old.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "There is a man in the Bible named Rehoboam who had 88 children.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "There was an army mentioned in the Old Testament that consisted of men who were all left-handed and numbered 700.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Does the Bible ever speak of the sun moving backwards?", 
+        "correct_answer": 1, 
+        "answers": [
+            "No", 
+            "Yes"
+        ]
+    }, 
+    {
+        "content": "Which line gives the correct order of the first 5 books of the Old Testament?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Genesis, Leviticus, Numbers, Deuteronomy, Exodus", 
+            "Genesis, Exodus, Numbers, Deuteronomy, Leviticus", 
+            "Genesis, Exodus, Leviticus, Deuteronomy, Numbers", 
+            "Genesis, Exodus, Leviticus, Numbers, Deuteronomy"
+        ]
+    }, 
+    {
+        "content": "What tribe of Israel was Moses born into?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Reubon", 
+            "Benjamin", 
+            "Jacob", 
+            "Levite"
+        ]
+    }, 
+    {
+        "content": "Eye of newt and toe of frog\nWool of bat and tongue of dog\nis one of the most famous spells in English literature. In what Shakespeare play do the three witches cast their evil spells?", 
+        "correct_answer": 3, 
+        "answers": [
+            "The Tempest", 
+            "Hamlet", 
+            "A Midsummers Night Dream", 
+            "Macbeth"
+        ]
+    }, 
+    {
+        "content": "She held me spellbound in the night\nwith a silver spoon.\nWhat group sings about a Witchy Woman with the moon in her eyes?", 
+        "correct_answer": 4, 
+        "answers": [
+            "ncing shadows and firelight", 
+            "azy laughter in another room", 
+            "d she drove herself to madness", 
+            "J Giles Band", 
+            "The Eagles", 
+            "The Zombies", 
+            "Grateful Dead"
+        ]
+    }, 
+    {
+        "content": "Do you think God knew what He was doing when he created woman? Or do you think it was another one of his minor mistakes like tidal waves, earthquakes or FLOODS!, asked Daryl Van Horne in The Witches of Eastwick. What actor played Daryl Van Horne, just your average horny little devil?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Dennis Hopper", 
+            "Harvey Keitel", 
+            "Christopher Walken", 
+            "Jack Nicholson"
+        ]
+    }, 
+    {
+        "content": "Ding dong the witch is dead.\nWhich old witch?\nThe wicked witch.", 
+        "correct_answer": 4, 
+        "answers": [
+            "l you could see under the house was two shrivelled up legs and a pair of ruby slippers. Which wicked witchs demise brought forth such joy to the citizens of Oz in the book The Wizard of Oz?", 
+            "The Wicked Witch of the West", 
+            "The Wicked Witch of the North", 
+            "The Wicked Witch of the South", 
+            "The Wicked Witch of the East"
+        ]
+    }, 
+    {
+        "content": "The movie An American Haunting was based on one of the most famous hauntings in American folklore. A Tennessee farmer shot at a strange animal with the body of a dog and the head of a rabbit.  What name was given to the entity that haunted the family and was said to have murdered the Tennessee farmer?", 
+        "correct_answer": 3, 
+        "answers": [
+            "The Blair Witch", 
+            "The White Witch", 
+            "Mother Shipton", 
+            "The Bell Witch"
+        ]
+    }, 
+    {
+        "content": "The works of this Jewish thinker formed the basis of the writings of Thomas Aquinas.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Rashi", 
+            "Bal Shem Tov", 
+            "Maimonides", 
+            "Ibn Gabriol"
+        ]
+    }, 
+    {
+        "content": "What is prayer shawl worn by Jews in the morning Jewish services, during the Torah service, on Yom Kippur, and other holidays called?", 
+        "correct_answer": 3, 
+        "answers": [
+            "A kippah", 
+            "A mohel", 
+            "A mezzuzah", 
+            "A tallit"
+        ]
+    }, 
+    {
+        "content": "Even when Jewish men are not reading Torah, they wear a garment with fringes with knots. It is worn under the shirt with the fringes exposed. What is this garment called ?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Yarmulka", 
+            "Tephilin", 
+            "Tallit katan", 
+            "Kippah"
+        ]
+    }, 
+    {
+        "content": "The night before Yom Kippur, called this,  is the most important night service in Judaism.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Rosh Hashannah", 
+            "Musaff", 
+            "Shabbat  HaGadol", 
+            "Kol Nidre"
+        ]
+    }, 
+    {
+        "content": "The most important prayer in Judaism is called the Shema. What does it affirm?", 
+        "correct_answer": 1, 
+        "answers": [
+            "That we will not be moved", 
+            "Our faith that there is one and only God.", 
+            "That everyday problems will eventually solve if we have faith", 
+            "We thank God for delivering us from at least some of our problems"
+        ]
+    }, 
+    {
+        "content": "What is the first letter of the Hebrew alphabet?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Dalet", 
+            "Gimmel", 
+            "Bet", 
+            "Aleph"
+        ]
+    }, 
+    {
+        "content": "What do Jews do when the case which houses the Torah is opened?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Become quiet", 
+            "Close eyes", 
+            "Bow heads", 
+            "Stand up"
+        ]
+    }, 
+    {
+        "content": "On the Holy Day of Yom Kippur, Jews ask that all their sins be forgiven.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "On which Holy Day do Jews feast on unleavened bread?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Rosh Hashannah", 
+            "Channukah", 
+            "Passover", 
+            "Yom Kippur"
+        ]
+    }, 
+    {
+        "content": "There are two ways to pronounce Hebrew words. One is called Ashkanazi and the other one, this", 
+        "correct_answer": 3, 
+        "answers": [
+            "Galut", 
+            "Asian", 
+            "Sawphateet", 
+            "Sephardic"
+        ]
+    }, 
+    {
+        "content": "These fundamental statements have led to the formulation of the Buddhist philosophy, and contain the basic principles of the spiritual teacher, Buddha.", 
+        "correct_answer": 3, 
+        "answers": [
+            "The Seven Articles of Faith", 
+            "The Three Scrolls", 
+            "The Ten Paths", 
+            "The Four Noble Truths"
+        ]
+    }, 
+    {
+        "content": "What is the central theme of the teachings of religious teacher Buddha and of Buddhist philosophy as a whole?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Happiness", 
+            "Achieving perfection", 
+            "Achieving unity with nature", 
+            "Suffering"
+        ]
+    }, 
+    {
+        "content": "What was the birth name of the historic figure known as Buddha, the founder of the Buddhist religion?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Siddhartha Gautama", 
+            "Jakili Saruputa", 
+            "Elkini Baros", 
+            "Malik Mohammed"
+        ]
+    }, 
+    {
+        "content": "What is the formula to end or reduce suffering according to the principles of Buddhism?", 
+        "correct_answer": 2, 
+        "answers": [
+            "The Ten Righteous Practices", 
+            "Deep Meditation", 
+            "The Noble Eightfold Path", 
+            "The Six Cures"
+        ]
+    }, 
+    {
+        "content": "After completing his religious reawakening, Buddha considered himself to be which of these?", 
+        "correct_answer": 0, 
+        "answers": [
+            "a man, who woke up to the nature of reality", 
+            "a god", 
+            "a prophet, sent by a supreme being to deliver the universal truth", 
+            "pure spiritual energy"
+        ]
+    }, 
+    {
+        "content": "The beginning of the Buddhist religion can be traced back to the fifth century BC in which country?", 
+        "correct_answer": 2, 
+        "answers": [
+            "China", 
+            "Thailand", 
+            "India", 
+            "Pakistan"
+        ]
+    }, 
+    {
+        "content": "What is the Japanese variation of Buddhism, that emphasizes on the role of sitting meditation in pursuing enlightenment?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Mahayana", 
+            "Thervada", 
+            "Zen", 
+            "Tantric"
+        ]
+    }, 
+    {
+        "content": "What is the definition of Zen Koan, one of the important aspects of Buddhist religious practices?", 
+        "correct_answer": 0, 
+        "answers": [
+            "A question, meant to challenge rational thinking", 
+            "A clan of spiritual leaders in the Zen Buddhist religious community", 
+            "A sitting pillow, used during mediation", 
+            "An robe worn by Zen Buddhist monks"
+        ]
+    }, 
+    {
+        "content": "Creating complex, radial, and symbolic sand paintings is a practice typical for which branch of Buddhism?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Theravadic Buddhism", 
+            "Tibetan Buddhism", 
+            "Nichiren Buddhism", 
+            "Zen Buddhism"
+        ]
+    }, 
+    {
+        "content": "Which of the following statements best describes the essence of Buddhism?", 
+        "correct_answer": 0, 
+        "answers": [
+            "It is a means for people to save themselves.", 
+            "It is the legacy of a prophet, sent to earth with a message of universal love.", 
+            "It is a religion that seeks to attract and convert others.", 
+            "It is a tradition aimed at spreading peace in the world."
+        ]
+    }, 
+    {
+        "content": "Son of a Jewish immigrant from Breslau, Prussia, Lucius Nathan Littauer was born in Gloversville, Upstate New York, in 1859. Being a politician wasnt his only occupation; what is Lucius Littauers other achievement with which he remained in history?", 
+        "correct_answer": 2, 
+        "answers": [
+            "The first Jewish  basketball coach in Oxford", 
+            "The first professional Jewish baseball player", 
+            "The first Jewish football coach at Harvard", 
+            "The first Jewish professional football coach"
+        ]
+    }, 
+    {
+        "content": "Julius Vogel, a London born Jew, who first became involved in politics in 1862, was the first Jew to be on this political post.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Prime Minister of Australia", 
+            "Prime Minister of Canada", 
+            "Prime Minister of New Zealand", 
+            "Governor General of Canada"
+        ]
+    }, 
+    {
+        "content": "During the 1968 presidential campaign, Rabbi Baruch Korff developed a personal relationship with this American president, who even referred to Korff as My Rabbi.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Gerald Ford", 
+            "Lyndon Johnson", 
+            "Richard Nixon", 
+            "Jimmy Carter"
+        ]
+    }, 
+    {
+        "content": "In 1927 Charles A. Levine was the first Jew to do what?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Fly the Atlantic", 
+            "Fly a USAF fighter", 
+            "Get a degree in aerospace engineering", 
+            "Build a monoplane"
+        ]
+    }, 
+    {
+        "content": "In what business did John M. Brunswick and his two half brothers, David and Emmanuel, make their fortune?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Entertaining industry", 
+            "Aircraft industry", 
+            "Billiard table business", 
+            "Cell phone business"
+        ]
+    }, 
+    {
+        "content": "The music for Somewhere Over the Rainbow, one of the most famous and beloved songs of the late 1930s, was based on a Jewish Cantorial theme.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Isachar Zacharie, an English born Jew, who was related to important American politicians, worked as what?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Lincolns podiatrist", 
+            "Al Gores press secretary", 
+            "The first Jewish Prime Minister", 
+            "Washingtons lawyer in Virginia"
+        ]
+    }, 
+    {
+        "content": "Why was Rabbi David Einhorn, a German rabbi and later leader of the Jewish reform movement in the United States, forced to leave Baltimore in 1861, during the Civil War?", 
+        "correct_answer": 3, 
+        "answers": [
+            "He expressed too radical views", 
+            "He insulted the Governor of Maryland,Thomas Hicks", 
+            "He insulted the Mayor of Baltimore, George Williams", 
+            "He preached against slavery"
+        ]
+    }, 
+    {
+        "content": "A famous and talented composer was almost bankrupt when he wrote one of his best-known works, Judas Maccabaeus - an oratorio based on a Jewish theme. Who was this classical composer?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Hayden", 
+            "Handel", 
+            "Chopin", 
+            "Mozart"
+        ]
+    }, 
+    {
+        "content": "Marty Glickman and Sam Stoller were great 100-yard runners in the 1930s. They were to be on the 4x100 meter relay race team for the USA in the 1936 Olympics, but eventually did not take part in the race. What was the reason?", 
+        "correct_answer": 3, 
+        "answers": [
+            "They were late to the field", 
+            "They refused to run on Saturday (Shabbos)", 
+            "They were caught using steroids", 
+            "Hitler demanded their exclusion"
+        ]
+    }, 
+    {
+        "content": "Bodhisattva is consciously seeking what?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Tranquility", 
+            "Enlightenment", 
+            "Thangka", 
+            "Buddha"
+        ]
+    }, 
+    {
+        "content": "What is Dharma?", 
+        "correct_answer": 0, 
+        "answers": [
+            "The cosmic principles of existence", 
+            "The Hindu Goddess of happiness", 
+            "The extinction of desire and individual consciousness", 
+            "Same as Adharma"
+        ]
+    }, 
+    {
+        "content": "Buddhist believe that this depends on the actions that we have taken in the past.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Our Nirvana", 
+            "Our happiness", 
+            "Our births", 
+            "Our Karma"
+        ]
+    }, 
+    {
+        "content": "In Buddhism the cycle of rebirths is known as what?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Bodhi", 
+            "Dharma", 
+            "Samsara", 
+            "Thangka"
+        ]
+    }, 
+    {
+        "content": "Which saint is known as the patron of children?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Anthony", 
+            "Nicholas", 
+            "Barbara", 
+            "Martha"
+        ]
+    }, 
+    {
+        "content": "Who is known as the patron of India?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Francis Xavier", 
+            "John the Divine", 
+            "Giles", 
+            "Catherine"
+        ]
+    }, 
+    {
+        "content": "St. Benedict is known as the patron of which of these groups of people?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Monks", 
+            "Librarians", 
+            "Musicians", 
+            "Fishermen"
+        ]
+    }, 
+    {
+        "content": "Who was the first Italian-American woman to be canonized as a saint of the Catholic Church?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Mother Catherine", 
+            "Dorothea of the Angels", 
+            "Frances Cabrini", 
+            "Agnes of God"
+        ]
+    }, 
+    {
+        "content": "Which saint is referred to as the patron of fishermen?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Andrew the Apostle", 
+            "Raphael the Archangel", 
+            "Jerome", 
+            "Sebastian"
+        ]
+    }, 
+    {
+        "content": "Which  saint is most often invoked for the recovery of a lost object?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Josephine", 
+            "Rebecca", 
+            "Anthony", 
+            "Jude"
+        ]
+    }, 
+    {
+        "content": "Who used to be the patron saint of travelers?", 
+        "correct_answer": 1, 
+        "answers": [
+            "St. Michael", 
+            "St. Christopher", 
+            "St. Theresa", 
+            "St. Andrew"
+        ]
+    }, 
+    {
+        "content": "Which saint is the patron of all animals and living creatures?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Francsis of Asissi", 
+            "Francis de Salles", 
+            "Francis of Rome", 
+            "Francis Xavier"
+        ]
+    }, 
+    {
+        "content": "Who is the patron saint of writers and librarians?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Jerome", 
+            "Thomas Aquinas", 
+            "Gregory", 
+            "Edward the Confessor"
+        ]
+    }, 
+    {
+        "content": "To which saint does one pray for healthy eyes?", 
+        "correct_answer": 1, 
+        "answers": [
+            "St. Mary of Naples", 
+            "St. Lucy, Virgin", 
+            "St. Frances of the Holy Redeemer", 
+            "St. Anne"
+        ]
+    }, 
+    {
+        "content": "What is the Hindu Trinity?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Shiva, Brahma, Krishna", 
+            "Shiva, Lakshmi, Ganesh", 
+            "Vishnu, Brahma, Shiva", 
+            "Buddha, Brahma, Ganesh"
+        ]
+    }, 
+    {
+        "content": "Hinduism is a monotheistic religion.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "What is the most sacred river for Hindus?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Jamuna", 
+            "Gange", 
+            "Siddharta", 
+            "Goa"
+        ]
+    }, 
+    {
+        "content": "How many women-followers did the Hindu deity Lord Krishna have?", 
+        "correct_answer": 0, 
+        "answers": [
+            "108", 
+            "2", 
+            "1", 
+            "167"
+        ]
+    }, 
+    {
+        "content": "What are the main characters of the ancient Sanskrit epic Ramayana?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Brahma and Vishnu", 
+            "Rama and Krishna", 
+            "Rama and Sita", 
+            "Krishna and Shiva"
+        ]
+    }, 
+    {
+        "content": "Who is the founder of the International Society for Krishna Consciousness, known as the Hare Krishna?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Prabhupada", 
+            "George Harrison", 
+            "Sai Baba", 
+            "Dalai Lama"
+        ]
+    }, 
+    {
+        "content": "Lord Ganesh, one of the most worshipped divinities in Hinduism, has the head of what animal?", 
+        "correct_answer": 3, 
+        "answers": [
+            "cobra", 
+            "lion", 
+            "bear", 
+            "elephant"
+        ]
+    }, 
+    {
+        "content": "Which of these belonged to the highest-ranking Hindu caste?", 
+        "correct_answer": 2, 
+        "answers": [
+            "widows", 
+            "warriors", 
+            "priests", 
+            "workers"
+        ]
+    }, 
+    {
+        "content": "Krishna is an incarnation of which Hindu god?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Vishnu", 
+            "Buddha", 
+            "Shiva", 
+            "Brahma"
+        ]
+    }, 
+    {
+        "content": "The Swastika is a solar symbol for Hindus.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "According to the Book of Esther, Esther replaced this disobedient Biblical queen.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Queen Ruth", 
+            "Queen Vashti", 
+            "Queen Mary", 
+            "Queen of Sheba"
+        ]
+    }, 
+    {
+        "content": "This brave Biblical woman led the Israelites to victory in the battle against Sisera.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Rebecah", 
+            "Leah", 
+            "Sarah", 
+            "Deborah"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, King David saw this beautiful woman bathing, and immediately desired her, but she was married.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Ahinoam", 
+            "Abigail", 
+            "Michal", 
+            "Bathsheba"
+        ]
+    }, 
+    {
+        "content": "This Biblical woman couldnt have children, but finally God granted her a son, who was to be named Samuel and become one of the Bibles most prolific prophets of all time.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Hannah", 
+            "Abigail", 
+            "Peninnah", 
+            "Hagar"
+        ]
+    }, 
+    {
+        "content": "According to the New Testament, this woman had a son called John the Baptist.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Martha", 
+            "Elizabeth", 
+            "Maacah", 
+            "Mary"
+        ]
+    }, 
+    {
+        "content": "According to the Book of Exodus, this brave mother hid her young baby son, Moses, in a basket along the Nile River, so that no one could kill him.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Jochebed", 
+            "Miriam", 
+            "Martha", 
+            "Zipporah"
+        ]
+    }, 
+    {
+        "content": "This biblical heroine hid two Israelite spies in her house under stalks of flax.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Leah", 
+            "Rehab", 
+            "Naomi", 
+            "Rachel"
+        ]
+    }, 
+    {
+        "content": "In the Bible, this woman gave birth to male twins and as she was in labor the twins jostled each other, one babys hand grasping the heel of the other infants foot.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Rachel", 
+            "Rebekah", 
+            "Leah", 
+            "Hagar"
+        ]
+    }, 
+    {
+        "content": "This Biblical woman poured perfume on Jesus feet and wiped them with her hair.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Mary", 
+            "Keturah", 
+            "Samaritan woman", 
+            "Sarah"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, this woman became a widow and decided to live with her mother-in-law instead of going home to her family. She then married Boaz.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Ruth", 
+            "Naomi", 
+            "Oprah", 
+            "Esther"
+        ]
+    }, 
+    {
+        "content": "Which of these architects designed St. Peters Basilica in Rome?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Carlo Marchionni", 
+            "Donato di Niccol\u0102\u02db di Betto Bardi", 
+            "Michelangelo di Lodovico Buonarroti Simoni", 
+            "Gian Lorenzo Bernini"
+        ]
+    }, 
+    {
+        "content": "Raphael Santi was the original architect of the Chigi Chapel but Gian Bernini finished it, after Raphael became a father.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "St. Peters Basilica is both the Popes principal church and his official ecclesiastical seat.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "The Temple of Vespasian was begun by Titus after whose death?", 
+        "correct_answer": 1, 
+        "answers": [
+            "his brother-in-law, Jesus", 
+            "his father, Vespasian", 
+            "his brother, Domitian", 
+            "his best friend, Tiberius"
+        ]
+    }, 
+    {
+        "content": "Following Michelangelos death, his student, Giacomo della Porta continued with the unfinished portions of Palazzo Farnese.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Did Leonardo Da Vinci design the facade for the church of Santa Bibiana.", 
+        "correct_answer": 0, 
+        "answers": [
+            "No", 
+            "Yes"
+        ]
+    }, 
+    {
+        "content": "When Michelangelo was still an apprentice, he made an imitation of a famous Roman statue that was sold in Rome as an ancient Roman original. What was the name of the original statue?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Cherubini", 
+            "Bacchus", 
+            "Il Putto Dormiente", 
+            "Moses"
+        ]
+    }, 
+    {
+        "content": "All originals of Leonardo da Vincis Leda and the Swan have been either lost or destroyed.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "How  many books are in the Torah?", 
+        "correct_answer": 1, 
+        "answers": [
+            "18", 
+            "5", 
+            "21", 
+            "10"
+        ]
+    }, 
+    {
+        "content": "Jason Marquis (Cardinals), Shawn Green (Arizona),and Brad Asmus (Houston) are all Jewish.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "What was the only automobile brand named after a Jew?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Oldsmobile", 
+            "Citroen", 
+            "Duesenberg", 
+            "Auburn"
+        ]
+    }, 
+    {
+        "content": "Which of these great home run hitters was Jewish?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Tony Gwynn", 
+            "Hank Greenberg", 
+            "Jimmy Foxx", 
+            "King Kong Keller"
+        ]
+    }, 
+    {
+        "content": "Except for Saturday, how many times a day must an Orthodox Jew pray?", 
+        "correct_answer": 1, 
+        "answers": [
+            "19", 
+            "3", 
+            "1", 
+            "5"
+        ]
+    }, 
+    {
+        "content": "On front of the home of every Jew, there is a special decoration or religious symbol. It is also found inside the home at very doorpost and every gate. In each one, there are three sections of the (Old) Testament.  What do we call these religious objects?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Moshiach", 
+            "Mohels", 
+            "Mezzuzas", 
+            "Torahs"
+        ]
+    }, 
+    {
+        "content": "On Columbus first trip to the new world, many Jews were employed by Columbus. What was the highest job held by a Jew?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Weatherman", 
+            "Translator", 
+            "Treasurer", 
+            "Supply commander"
+        ]
+    }, 
+    {
+        "content": "What religious article must every unmarried Jewish woman wear?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Red String", 
+            "Star of David", 
+            "None", 
+            "Fringes"
+        ]
+    }, 
+    {
+        "content": "In Judaism locusts are kosher, which means that they are allowed to be eaten.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "In every synagogue, in every country in the world, there are the same number of statues. How many?", 
+        "correct_answer": 2, 
+        "answers": [
+            "10", 
+            "5", 
+            "0", 
+            "3"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, God forbade Adam and Eve to eat the fruit of the apple tree.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Who is the first human who murdered a human according to the Bible?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Eve", 
+            "Cain", 
+            "Adam", 
+            "Abel"
+        ]
+    }, 
+    {
+        "content": "According to the Book of Revelation, there are angels of the Devil.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "It is written in the Bible, that false Christs and prophets will arise and will show great signs and wonders.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "According to Christian theology, Jesus Christ is a person with an entirely human nature.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "What Biblical figure built an ark on top of a mountain?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Moses", 
+            "Jacob", 
+            "Noah", 
+            "Joseph"
+        ]
+    }, 
+    {
+        "content": "What Biblical hero split the sea so that he and his people could go across?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Noah", 
+            "Joseph", 
+            "Jacob", 
+            "Moses"
+        ]
+    }, 
+    {
+        "content": "What does the name Moses mean according to the Bible?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Prince of Egypt", 
+            "taken from the water", 
+            "beautiful", 
+            "sour"
+        ]
+    }, 
+    {
+        "content": "How many books are there in the Bible?", 
+        "correct_answer": 3, 
+        "answers": [
+            "64", 
+            "65", 
+            "59", 
+            "66"
+        ]
+    }, 
+    {
+        "content": "How many times a year is a healthy, adult Jew required to fast?", 
+        "correct_answer": 2, 
+        "answers": [
+            "0", 
+            "13", 
+            "6", 
+            "2"
+        ]
+    }, 
+    {
+        "content": "Historically, Golda Meir was the first female Jewish leader.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "What is the subject of the first Book of the  Talmud ?", 
+        "correct_answer": 1, 
+        "answers": [
+            "There is no first book", 
+            "Blessings", 
+            "Civil Torts", 
+            "Shabbat"
+        ]
+    }, 
+    {
+        "content": "It is considered that the Jewish Golden Age occurred in this country.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Spain", 
+            "France", 
+            "Israel", 
+            "India"
+        ]
+    }, 
+    {
+        "content": "In 1776, when we Jews declared themselves free from England, which British colony had the most Jews?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Union of South Africa", 
+            "Australia", 
+            "Jamaica", 
+            "Canada"
+        ]
+    }, 
+    {
+        "content": "On the holy day, Simchat Torah, Jews finish reading the five books of the Torah and do what immediately after?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Throw a party", 
+            "Start again", 
+            "Discuss the days events", 
+            "Have a meal"
+        ]
+    }, 
+    {
+        "content": "Jews build temporary huts for this holy day.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Hannukah", 
+            "Yom Kippur", 
+            "Sukkot", 
+            "Rosh Hashannah"
+        ]
+    }, 
+    {
+        "content": "What does the Hebrew expression Mazel Tov mean?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Have a great day", 
+            "Have an easy fast", 
+            "Sorry", 
+            "Good luck"
+        ]
+    }, 
+    {
+        "content": "The Jewish calender is a lunar calender.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Judaism divides The Old Testament into three parts, called this in English.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Torah, Pentatuch, Prophets", 
+            "Torah, Histories, Pentatuch", 
+            "Torah, Prophets, Wisdom Literature", 
+            "Torah, Chronicles, Major Prophets"
+        ]
+    }, 
+    {
+        "content": "In what book of The New Testament was John the Baptist beheaded?", 
+        "correct_answer": 3, 
+        "answers": [
+            "John", 
+            "Luke", 
+            "Mark", 
+            "Matthew"
+        ]
+    }, 
+    {
+        "content": "In The New Testament, Romans was written by the apostle Paul.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "How many books are in the New Testament?", 
+        "correct_answer": 1, 
+        "answers": [
+            "25", 
+            "27", 
+            "20", 
+            "31"
+        ]
+    }, 
+    {
+        "content": "It is believed by many that the Gospel of Luke is the most beautiful book ever written.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Which of the laws in  the Ten Commandments of the New Testament is conceived to be the greatest one?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Honor your father and your mother", 
+            "You shall not steal", 
+            "Love the Lord with all your heart, soul and mind", 
+            "Love your neighbor as yourself"
+        ]
+    }, 
+    {
+        "content": "In the New Testament, Acts is the next book after Romans.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "What is the third book of the New Testament?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Mark", 
+            "Matthew", 
+            "Jonh", 
+            "Luke"
+        ]
+    }, 
+    {
+        "content": "What did Jesus do to the man with leprosy, according to The New Testament?", 
+        "correct_answer": 3, 
+        "answers": [
+            "ignored him", 
+            "gave him medicine", 
+            "prayed for him", 
+            "touched him and cured him"
+        ]
+    }, 
+    {
+        "content": "Paul is acknowledged as the author of  First Epistle to the Corinthians book in The New Testament.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "In which book of The New Testament is the following passage found Ask and it will be given to you;seek and you will find;knock and the door will be opened to you?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Psalms", 
+            "Matthew", 
+            "Acts", 
+            "Luke"
+        ]
+    }, 
+    {
+        "content": "What was the name of Abrahams wife according to the book of Genesis?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Rebekah", 
+            "Rachel", 
+            "Leah", 
+            "Sarah"
+        ]
+    }, 
+    {
+        "content": "In the book of Genesis, how old was Abraham when Isaac was born?", 
+        "correct_answer": 2, 
+        "answers": [
+            "101 years old", 
+            "95 years old", 
+            "100 years old", 
+            "99 years old"
+        ]
+    }, 
+    {
+        "content": "Isaac was Abrahams first son according to the Torah.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "What was the name of Isaacs wife according to the book of Genesis?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Leah", 
+            "Rachel", 
+            "Sarah", 
+            "Rebekah"
+        ]
+    }, 
+    {
+        "content": "The book of Genesis tells that when Esau and Jacob were born, Jacob grabbed hold of what?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Esaus hand", 
+            "Esaus hair", 
+            "Esaus heel", 
+            "Esaus food"
+        ]
+    }, 
+    {
+        "content": "According to the Torah, what did Esau trade his birthright with Jacob for?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Bread and wild game", 
+            "Bread and vegetables", 
+            "Bread and lentil stew", 
+            "Manna"
+        ]
+    }, 
+    {
+        "content": "Who was Jacobs first wife in the book of Genesis?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Leah", 
+            "Sarah", 
+            "Rebekah", 
+            "Rachel"
+        ]
+    }, 
+    {
+        "content": "How many years did Jacob have to work for each of his wives according to the Torah?", 
+        "correct_answer": 1, 
+        "answers": [
+            "3 years each", 
+            "7 years each", 
+            "1 year each", 
+            "14 years each"
+        ]
+    }, 
+    {
+        "content": "Who founded the Scientology philosophy and religion?", 
+        "correct_answer": 0, 
+        "answers": [
+            "L. Ron Hubbard", 
+            "Marion Davis", 
+            "Jason Beghue", 
+            "Judson Lord"
+        ]
+    }, 
+    {
+        "content": "This actor, who made it big as a high school gang member, delivering paint and flying airplanes, is one of the most famous Scientologists.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Hayward Nelson", 
+            "John Travolta", 
+            "Christian Slater", 
+            "Brad Pitt"
+        ]
+    }, 
+    {
+        "content": "Which of these voice actors/actresses from The Simpsons series, is a Scientologist?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Dan Castellaneta", 
+            "Nancy Cartwright", 
+            "Hank Azaria", 
+            "Harry Shearer"
+        ]
+    }, 
+    {
+        "content": "These two brothers are Scientologists who acted on famous comedy sitcoms. One was on That 70s Show and the other one was the oldest brother on Malcolm in the Middle. What is their last name?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Prepon", 
+            "Masterson", 
+            "Ribisi", 
+            "Kidman"
+        ]
+    }, 
+    {
+        "content": "Which Scientologist played the wife of \u00e2\u0080\u009cThe King of Queens?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Juliette Lewis", 
+            "Mimi Rogers", 
+            "Ann Archer", 
+            "Leah Remini"
+        ]
+    }, 
+    {
+        "content": "Lisa Marie Presley and her mother Priscilla Presley are both Scientologists.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Which of these musicians is not a Scientologist?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Chick Correa", 
+            "Beck", 
+            "Brandy", 
+            "Michael Bolton"
+        ]
+    }, 
+    {
+        "content": "What Scientologist started the EST movement?", 
+        "correct_answer": 1, 
+        "answers": [
+            "David Miscavige", 
+            "Werner Erhard", 
+            "Greta  Van Susteren", 
+            "Sonny Bono"
+        ]
+    }, 
+    {
+        "content": "What was Operation Snow White?", 
+        "correct_answer": 1, 
+        "answers": [
+            "An attempt by Scientology to gain publicity by hiring writers to give it a better image", 
+            "An attempt by Scientology to infiltrate the US government", 
+            "An attempt by Scientology to gain new members by holding events in several large cities in the USA and Canada", 
+            "Anattempt by the IRS to get back taxes from the main Scientology group"
+        ]
+    }, 
+    {
+        "content": "The title of what book in the Bible means departure?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Lamentations", 
+            "Exodus", 
+            "Genesis", 
+            "Deuteronomy"
+        ]
+    }, 
+    {
+        "content": "Deuteronomy, the title of the fifth book of the Hebrew Bible, means second law.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "What is the meaning of the book title Genesis?", 
+        "correct_answer": 2, 
+        "answers": [
+            "God", 
+            "man", 
+            "beginning", 
+            "creation"
+        ]
+    }, 
+    {
+        "content": "Does The Book of Numbers from the Old Testament begin with the numbering of the people in Sinai?", 
+        "correct_answer": 1, 
+        "answers": [
+            "No", 
+            "Yes"
+        ]
+    }, 
+    {
+        "content": "What book in the Bible was named after the successor of Moses?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Isaiah", 
+            "Ezekiel", 
+            "Joshua", 
+            "Jeremiah"
+        ]
+    }, 
+    {
+        "content": "Where can you find the story of Adam and Eve?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Book of Jeremiah", 
+            "Book of Genesis", 
+            "Book of Lamentations", 
+            "Book of Exodus"
+        ]
+    }, 
+    {
+        "content": "The story of Moses birth can be found in the Book of Deuteronomy.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Was Moses still alive in the Book of Numbers?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Yes", 
+            "No"
+        ]
+    }, 
+    {
+        "content": "What was the age of Joshua (Moses successor) when he died?", 
+        "correct_answer": 2, 
+        "answers": [
+            "120 years old", 
+            "105 years old", 
+            "110 years old", 
+            "115 years old"
+        ]
+    }, 
+    {
+        "content": "Which 10th century Ashkenazi Rabbi outlawed polygamy?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Rabbi Levi Ben-Meir", 
+            "Rabbi Judah", 
+            "Rabbi Gershom", 
+            "Rabbi Feinstein"
+        ]
+    }, 
+    {
+        "content": "The first international Jewish athletic competition, known as Maccabiah Games, was held in what year?", 
+        "correct_answer": 2, 
+        "answers": [
+            "1896", 
+            "1964", 
+            "1932", 
+            "1956"
+        ]
+    }, 
+    {
+        "content": "What is the name of the collection of stories, legends, and allegorical interpretations of the Hebrew Bible Tanach?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Gemara", 
+            "Midrash", 
+            "Kislev", 
+            "Mishnah"
+        ]
+    }, 
+    {
+        "content": "The first day of the Jewish New Year, Rosh Hashanah, can only occur on which of these days?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Sunday, Tuesday, Wednesday or Friday", 
+            "Sunday, Monday, Wednesday or Friday", 
+            "Monday, Tuesday, Thursday or Saturday", 
+            "Monday, Thursday or Friday"
+        ]
+    }, 
+    {
+        "content": "The first female Rabbi, Berlin-born Regina Jonas, was ordained in what year?", 
+        "correct_answer": 0, 
+        "answers": [
+            "1935", 
+            "1905", 
+            "1964", 
+            "1789"
+        ]
+    }, 
+    {
+        "content": "Four Jewish jobs require ordination (or Smeecha). Which of these is not one of them?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Cantor", 
+            "Mohel", 
+            "Shochet", 
+            "Scribe"
+        ]
+    }, 
+    {
+        "content": "Jewish American Sidney Franklin was greatly admired by Ernest Hemingway, as he was the first American to become successful in what occupation?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Boxer", 
+            "Bullfighter", 
+            "Police officer", 
+            "Politician"
+        ]
+    }, 
+    {
+        "content": "One of the most important prayers in Jewish liturgy is the the Shemoneh Esreh (The Eighteen) This prayer, which must be said every day at almost every service, is also known by what other name?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Shochain Od", 
+            "The Amidah", 
+            "The Shema", 
+            "The Kol Nidrei"
+        ]
+    }, 
+    {
+        "content": "Mike Epstein, Norm Sherry, Larry Sherry, and Barry Latman were all Jewish baseball players. What do they have in common?", 
+        "correct_answer": 2, 
+        "answers": [
+            "They all played for the Dodgers.", 
+            "They all played for the Yankees.", 
+            "They all went to the same high school.", 
+            "The were all assassinated for political motives."
+        ]
+    }, 
+    {
+        "content": "When did the Six Day War between Israel and the Arab states of Egypt, Jordan, and Syria begin?", 
+        "correct_answer": 1, 
+        "answers": [
+            "June 5, 1971", 
+            "June 5, 1967", 
+            "June 5, 1963", 
+            "June 5, 1969"
+        ]
+    }, 
+    {
+        "content": "In 1825, Jewish American diplomat and journalist Mordecai Manuel Noah tried to found what Jewish institution in the United States?", 
+        "correct_answer": 1, 
+        "answers": [
+            "A Jewish rebellion organization in the United States", 
+            "A Jewish homeland in the United States", 
+            "A Jewish government in the United States", 
+            "A Jewish independent church in the United States"
+        ]
+    }, 
+    {
+        "content": "Who was the first Jewish player in the United States National Hockey League?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Sam Rothschild", 
+            "Mathieu Schneider", 
+            "Ernie Grunfield", 
+            "Issac Berger"
+        ]
+    }, 
+    {
+        "content": "Which of these terms is used by Jews to refer to the Old Testament?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Torah", 
+            "Tehillim", 
+            "Tanakh", 
+            "Schmuel"
+        ]
+    }, 
+    {
+        "content": "The most important religious document for the Jews, Torah, is written in what language?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Arabic", 
+            "Syriac", 
+            "Aramaic", 
+            "Hebrew"
+        ]
+    }, 
+    {
+        "content": "How many commandments are there in the central document of Judaism, Torah?", 
+        "correct_answer": 2, 
+        "answers": [
+            "1075", 
+            "24", 
+            "613", 
+            "215"
+        ]
+    }, 
+    {
+        "content": "According to Judaism, even non-Jews are morally bound to observe how many laws from the Torah?", 
+        "correct_answer": 1, 
+        "answers": [
+            "10", 
+            "7", 
+            "313", 
+            "613"
+        ]
+    }, 
+    {
+        "content": "Which of these prayers is traditionally sung before sunset on Yom Kippur, the Jewish Day of Atonement?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Slichot", 
+            "Tanaim", 
+            "Kol Nidre", 
+            "Dor v Dor"
+        ]
+    }, 
+    {
+        "content": "Every morning and evening, Jews must recite a prayer, which is also said at  the moment before death. What is the name of this prayer?", 
+        "correct_answer": 3, 
+        "answers": [
+            "The Hoshannah Rabbah", 
+            "The Kaddish", 
+            "The Kiddush", 
+            "The Shema Yisrael"
+        ]
+    }, 
+    {
+        "content": "This is the holiest city in Judaism and the spiritual center of the Jewish people. It also plays an important role in Christianity and Islam.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Constantinople", 
+            "Jerusalem", 
+            "Medina", 
+            "Mecca"
+        ]
+    }, 
+    {
+        "content": "The Temple Mount, the Church of Holy Sepulchre and the Western Wall are landmarks found in this city.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Baghdad", 
+            "Ohrid", 
+            "Jerusalem", 
+            "Constantinople"
+        ]
+    }, 
+    {
+        "content": "Who built the Temple of Jerusalem also known as the Holy Temple?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Constantine I Emperor", 
+            "King Ferdinand", 
+            "Justinian Emperor", 
+            "King Solomon"
+        ]
+    }, 
+    {
+        "content": "When was Jerusalem conquered by the Islamic Caliphate?", 
+        "correct_answer": 3, 
+        "answers": [
+            "In 1500", 
+            "In 340", 
+            "In 1040", 
+            "In 638"
+        ]
+    }, 
+    {
+        "content": "After the Arabic-Israeli War (1948-1949) Jerusalem was divided between Israel (West part) and Jordan (East part).", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "What is Jesus birthplace according to the Bible?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Bethlehem", 
+            "Jerusalem", 
+            "Constantinople", 
+            "Nazareth"
+        ]
+    }, 
+    {
+        "content": "Where is The Milk Grotto Church of Virgin Mary located?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Bethlehem", 
+            "Jerusalem", 
+            "Nazareth", 
+            "Baghdad"
+        ]
+    }, 
+    {
+        "content": "In Bethlehem, Christmas ceremonies are held on three different dates.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "According to New Testament, the home of Joseph and Mary was in Jerusalem.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "The Church of the Annunciation was built in Nazareth.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "According to the Book of Matthew, Jacob was the father of Issac.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Who was king when Jesus was born?", 
+        "correct_answer": 2, 
+        "answers": [
+            "King Solomon", 
+            "King David", 
+            "King Herod", 
+            "None of these"
+        ]
+    }, 
+    {
+        "content": "Jesus was baptized by John the Baptist.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "In the Book of Matthew, what did Jesus say to the man with leprosy when he touched him?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Be cured!", 
+            "Be Clean!", 
+            "Be Healed!", 
+            "None of these"
+        ]
+    }, 
+    {
+        "content": "Whose mother-in-law was lying in bed with a fever in the Book of Matthew?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Peter", 
+            "James", 
+            "John", 
+            "Mark"
+        ]
+    }, 
+    {
+        "content": "According to the Book of Matthew, how many disciples did Jesus give authority to heal the sick and drive out evil spirits?", 
+        "correct_answer": 2, 
+        "answers": [
+            "10", 
+            "7", 
+            "12", 
+            "5"
+        ]
+    }, 
+    {
+        "content": "Which of the apostles betrayed Jesus?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Simon the Zealot", 
+            "Philip", 
+            "Matthew", 
+            "Judas Iscariot"
+        ]
+    }, 
+    {
+        "content": "Where did Ruth live when she met her first husband according to the Book of Ruth?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Bethlehem", 
+            "Moab", 
+            "Jerusalem", 
+            "Judah"
+        ]
+    }, 
+    {
+        "content": "In the Book of Ruth, who was Ruths mother-in-law that she would not abandon?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Naomi", 
+            "Mary", 
+            "Orpah", 
+            "Rahab"
+        ]
+    }, 
+    {
+        "content": "Who was Ruths sister-in-law according to the Book of Ruth?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Oprah", 
+            "Rahab", 
+            "Orpah", 
+            "Naomi"
+        ]
+    }, 
+    {
+        "content": "In the Book of Ruth, after the deaths of Naomis husband and her two sons, Naomi wanted to leave Moab. Where did she go?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Bethlehem", 
+            "Joppa", 
+            "Jerusalem", 
+            "Ninevah"
+        ]
+    }, 
+    {
+        "content": "In the Book of Ruth, what did Ruth do to indicate that she wanted to be redeemed?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Bow down to Boaz", 
+            "Wash Boaz feet.", 
+            "Sing to Boaz", 
+            "Sleep at Boaz feet."
+        ]
+    }, 
+    {
+        "content": "In the Book of Ruth, Boaz was the closest relative thats why he came forward as the kinsman-redeemer.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "According to the Book of Ruth, what did the kinsman-redeemer give to Boaz to indicate that Boaz would be the redeemer of Ruth?", 
+        "correct_answer": 3, 
+        "answers": [
+            "A signed piece of paper", 
+            "500 shekels", 
+            "His cloak", 
+            "His sandal"
+        ]
+    }, 
+    {
+        "content": "What was the name of Ruth and Boazs son in the Book of Ruth?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Jesse", 
+            "David", 
+            "Salmon", 
+            "Obed"
+        ]
+    }, 
+    {
+        "content": "The Book of Ruth comes after this book.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Joshua", 
+            "Esther", 
+            "Daniel", 
+            "Judges"
+        ]
+    }, 
+    {
+        "content": "How many books are there in the Old Testament of the Bible?", 
+        "correct_answer": 0, 
+        "answers": [
+            "39", 
+            "43", 
+            "20", 
+            "35"
+        ]
+    }, 
+    {
+        "content": "Finish the title of this book of the Old Testament: The Song of _____", 
+        "correct_answer": 0, 
+        "answers": [
+            "Solomon", 
+            "Job", 
+            "Ruth", 
+            "Joel"
+        ]
+    }, 
+    {
+        "content": "Which book of the Old Testament of the Bible has the least number of chapters?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Obadiah", 
+            "Haggai", 
+            "Zephaniah", 
+            "Habakkuk"
+        ]
+    }, 
+    {
+        "content": "Which book of the Old Testament has the most chapters?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Psalms", 
+            "Genesis", 
+            "Isaiah", 
+            "Jeremiah"
+        ]
+    }, 
+    {
+        "content": "The first two books in the Old Testament are Genesis and Exodus. What is the name of the third book?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Deuteronomy", 
+            "Numbers", 
+            "Joshua", 
+            "Leviticus"
+        ]
+    }, 
+    {
+        "content": "What is the title of the last book of the Old Testament?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Job", 
+            "Malachi", 
+            "Zechariah", 
+            "Haggai"
+        ]
+    }, 
+    {
+        "content": "Which of these books doesnt belong with the others?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Ezekiel", 
+            "Lamentations", 
+            "Jude", 
+            "Genesis"
+        ]
+    }, 
+    {
+        "content": "Amos is the first book of the Old Testament alphabetically.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Which of these books of the Old Testament is not divided into parts I and II?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Kings", 
+            "Numbers", 
+            "Samuel", 
+            "Chronicles"
+        ]
+    }, 
+    {
+        "content": "There are 32 chapters in the Book of Proverbs.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Who was the first US President whose name appeared on the charter of a synagogue?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Millard Fillmore", 
+            "George Washington", 
+            "Franklin Pierce", 
+            "John F. Kennedy"
+        ]
+    }, 
+    {
+        "content": "Who was the  first Jew to serve as a  diplomat for the USA?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Harvey Lembeck", 
+            "Mordechai Noah", 
+            "Judah Benjamin", 
+            "Noah Hershey"
+        ]
+    }, 
+    {
+        "content": "Who was the first Jew to be offered a position on the US Supreme Court?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Benjamin Cardoza", 
+            "August Belmont", 
+            "Louis Brandeis", 
+            "Judah Benjamin"
+        ]
+    }, 
+    {
+        "content": "Who was the  first Jew to serve as US Minister to The Hague?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Judah Benjamin", 
+            "August Belmont", 
+            "John Hays", 
+            "Henry Androwsky"
+        ]
+    }, 
+    {
+        "content": "What was the approximate Jewish population of the United States in 1790?", 
+        "correct_answer": 2, 
+        "answers": [
+            "5200-5500", 
+            "2500-2700", 
+            "1300-1500", 
+            "3950-4300"
+        ]
+    }, 
+    {
+        "content": "During the Revolutionary War many Jews volunteered to fight the British and there was even a Jew Company. Where were the members of this company  from?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Philadelphia, PA.", 
+            "Boston, MA.", 
+            "Charleston, S.C.", 
+            "New York City, NY."
+        ]
+    }, 
+    {
+        "content": "How many years did Golda Meir serve as President of Israel?", 
+        "correct_answer": 0, 
+        "answers": [
+            "0", 
+            "3", 
+            "4", 
+            "6"
+        ]
+    }, 
+    {
+        "content": "Who was the first President of Israel?", 
+        "correct_answer": 1, 
+        "answers": [
+            "David ben -Gurion", 
+            "Chaim Weizmann", 
+            "Golda Meir", 
+            "Mosahe Dayan"
+        ]
+    }, 
+    {
+        "content": "Who was famous for saying We will fight the War [WWII] as if there were no White Paper and the White paper as if there were no war.?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Menachem Begin", 
+            "Moshe Dayan", 
+            "Golda Meir", 
+            "David Ben-Gurion"
+        ]
+    }, 
+    {
+        "content": "Which successful Israeli General lost an eye and was famous for wearing an eye patch?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Moshe Malone", 
+            "Moshe ben-Aram", 
+            "Moshe Sharrett", 
+            "Moshe Dayan"
+        ]
+    }, 
+    {
+        "content": "What does the term Chabad, as in Chabad Hasidism, mean?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Its the name of the place where this form of Hasidism began", 
+            "Its the name of the first Chabad Rabbi.", 
+            "It stands for wisdaom, understanding and knowledge.", 
+            "It stands for healing the World."
+        ]
+    }, 
+    {
+        "content": "This great American Army officer helped form the Israeli Army. He was responsible for organizing the army along modern lines and for leading the effort  to save Jerusalem in the 1948 war.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Moshe Dayan", 
+            "Modechai Manual", 
+            "Eddie Jacobson", 
+            "Mickey Marcus"
+        ]
+    }, 
+    {
+        "content": "What king of Babylon took over Jerusalem in the first chapter of the Book of Daniel?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Nebuchadnezzar", 
+            "Jehoiakim", 
+            "Darius", 
+            "Belshazzar"
+        ]
+    }, 
+    {
+        "content": "According to the Book of Daniel, upon his arrival in Babylon, what was Daniels name changed to?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Meshach", 
+            "Belshazzar", 
+            "Belteshazzar", 
+            "Shadrach"
+        ]
+    }, 
+    {
+        "content": "What were the Hebrew names of Shadrach, Meshach and Abednego according to the Book of Daniel?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Hananiah, Michael and Amos", 
+            "Hananiah, Mark and Amos", 
+            "Hananiah, Michael and Abraham", 
+            "Hananiah, Mishael and Azariah"
+        ]
+    }, 
+    {
+        "content": "In the second chapter of the Book of Daniel, what did King Nebuchadnezzar have a dream about?", 
+        "correct_answer": 3, 
+        "answers": [
+            "A tree", 
+            "A goat", 
+            "A temple", 
+            "A statue"
+        ]
+    }, 
+    {
+        "content": "In King Nebuchadnezzars dream from the second chapter of the Book of Daniel, what kingdom does the head of gold represent?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Roman Empire", 
+            "Babylonian Empire", 
+            "Medo-Persia Empire", 
+            "Greek Empire"
+        ]
+    }, 
+    {
+        "content": "What kingdom do the legs of iron represent in King Nebuchadnezzars dream in the second chapter of the Book of Daniel?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Roman Empire", 
+            "Medo-Persian Empire", 
+            "Greek Empire", 
+            "Babylonian Empire"
+        ]
+    }, 
+    {
+        "content": "In the Book of Daniel, in King Nebuchadnezzars dream, the Greek Empire was represented by the chest and arms of silver.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "In the Book of Daniel, what would Shadrach, Meshach and Abednego not bow down to?", 
+        "correct_answer": 0, 
+        "answers": [
+            "An image of gold", 
+            "An image of silver", 
+            "King Nebuchadnezzar", 
+            "King Xerxes"
+        ]
+    }, 
+    {
+        "content": "Since they did not bow down, as King Nebuchadnezzar commanded, what happened to Shadrach, Meshach and Abednego in the Book of Daniel?", 
+        "correct_answer": 2, 
+        "answers": [
+            "They were sent to the gallows.", 
+            "They were thrown into a den of lions.", 
+            "They were thrown into a fiery furnace.", 
+            "They were stoned with rocks."
+        ]
+    }, 
+    {
+        "content": "Who was king of Babylon when Darius the Mede took over?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Nebuchadnezzar", 
+            "Belshazzar", 
+            "Belteshazzar", 
+            "Xerxes"
+        ]
+    }, 
+    {
+        "content": "In the Book of Daniel, what did King Darius decree would happen if anyone prayed to any god or person, except for him for a period of 30 days?", 
+        "correct_answer": 1, 
+        "answers": [
+            "They would be beheaded.", 
+            "They would be thrown into the lions den.", 
+            "They would be stoned.", 
+            "They would be thrown into a fiery furnace."
+        ]
+    }, 
+    {
+        "content": "What period was marked by the Great Jewish Revolt against the Roman Empire?", 
+        "correct_answer": 2, 
+        "answers": [
+            "120-110 b.c.e.", 
+            "250-223 b.c.e.", 
+            "66-70", 
+            "211-216"
+        ]
+    }, 
+    {
+        "content": "Who led the Jewish revolt against the Roman Empire in the period from 132 to 135?", 
+        "correct_answer": 2, 
+        "answers": [
+            "The Savoraim", 
+            "Judas Maccabee and his family", 
+            "Bar Kochba and Rabbi Akiva", 
+            "Eliezer Ben Ephraim"
+        ]
+    }, 
+    {
+        "content": "What does the number 613 refer to in Judaism?", 
+        "correct_answer": 1, 
+        "answers": [
+            "The number of Israelites who went into Egypt to survive while famine plagued the Holy  Land", 
+            "The number of commandments in the Torah", 
+            "The number of Israelites who left Egypt with Moses", 
+            "The days in a Jewish lunar year"
+        ]
+    }, 
+    {
+        "content": "What distinction does Moses Alexander hold?", 
+        "correct_answer": 0, 
+        "answers": [
+            "He was the first Jewish governor in the USA.", 
+            "He was the first Jew to get an M.D. degree in the USA.", 
+            "He was the first Jewish candidate for the American Presidency.", 
+            "He was the first Jewish US Senator."
+        ]
+    }, 
+    {
+        "content": "What distinction does Frank Wolf hold?", 
+        "correct_answer": 3, 
+        "answers": [
+            "He was the first  Jewish general in the US Army.", 
+            "He was the first Jewish recipient of the Pulitzer Prize.", 
+            "He was the first Jewish member of the House of Representatives.", 
+            "He produced the first Yiddish play in then USA."
+        ]
+    }, 
+    {
+        "content": "What was the name of the first union for actors in the US?", 
+        "correct_answer": 3, 
+        "answers": [
+            "The Screen Actors Guild", 
+            "The Yiddish Actors Union", 
+            "The Jewish Actors Guild", 
+            "The Hebrew Actors Union"
+        ]
+    }, 
+    {
+        "content": "What did Rose and Morris Michtom create in 1902?", 
+        "correct_answer": 0, 
+        "answers": [
+            "The Teddy Bear", 
+            "The endoscope", 
+            "The credit card", 
+            "The vacuum tube"
+        ]
+    }, 
+    {
+        "content": "What is Victor David Brenner remembered for?", 
+        "correct_answer": 3, 
+        "answers": [
+            "He was the first Jewish mayor in the USA.", 
+            "He painted the painting Washington Crossing the Delaware.", 
+            "He was the first Jewish general in the US Army.", 
+            "He made the portrait of Lincoln found on the US penny."
+        ]
+    }, 
+    {
+        "content": "Which settlement is famous as the location of one of the most spectacular craters in Israel?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Kfar Yaackov", 
+            "Mitzpeh Ramon", 
+            "Kiryat Shemona", 
+            "Acre"
+        ]
+    }, 
+    {
+        "content": "Which organization was founded by Rabbi Ben Frankel in 1923?", 
+        "correct_answer": 2, 
+        "answers": [
+            "The Jewish National Fund", 
+            "Hebrew Union College", 
+            "The Hillel Foundation", 
+            "Hadassah"
+        ]
+    }, 
+    {
+        "content": "The circled-U symbol found on the labels of certain products shows that the Union of Orthodox Congregations have found the food is kosher. What was the first food product to have this symbol?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Breakstones sour cream", 
+            "Heinz ketchup", 
+            "Manischewitz matzot", 
+            "Empire chicken"
+        ]
+    }, 
+    {
+        "content": "Which Israeli city is a sister city of New York City?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Haifa", 
+            "Netanya", 
+            "Tel Aviv", 
+            "Jerusalem"
+        ]
+    }, 
+    {
+        "content": "Can an egg laid on a holy day (a Yom Tov) be eaten?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Definitely no", 
+            "Rabbi Hillel says no, but Rabbi Shammai says yes.", 
+            "Definitely yes", 
+            "Rabbi Hillel says yes, but  Rabbi Shammai says no."
+        ]
+    }, 
+    {
+        "content": "An Israeli has invented a gun that can shoot around corners.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "This Jewish woman is often considered the First Lady in Television  News.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Hannah Senesh", 
+            "Barbara Walters", 
+            "Dorothy Fuldheim", 
+            "Glickl  von Hamelin"
+        ]
+    }, 
+    {
+        "content": "This man and his partner, Mort Shuman, wrote almost 1,500 songs. His writings include: Viva Las Vegas, Prisoner of Love, Sweets for My Sweets, This Magic Moment, and Suspicion.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Alex Bernstein", 
+            "Davis Fuldheim", 
+            "Brian Epstein", 
+            "Doc Pomus"
+        ]
+    }, 
+    {
+        "content": "What is strange about the edible vegetable Salicornia, which Israel exports to Europe?", 
+        "correct_answer": 3, 
+        "answers": [
+            "It can only be eaten cooked.", 
+            "The plant is 100% edible.", 
+            "It is completely salt-free.", 
+            "The vegetable is also used in glass-making."
+        ]
+    }, 
+    {
+        "content": "What city is called The capital of the Negev (desert)?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Beer Sheva", 
+            "Netanya", 
+            "Haifa", 
+            "Jaffa"
+        ]
+    }, 
+    {
+        "content": "Who is Gal Friedman?", 
+        "correct_answer": 2, 
+        "answers": [
+            "He was the first Israeli UN Ambassador.", 
+            "She was Israels first  Ambassador to the USA.", 
+            "He was the first Israeli to win an Olympic gold  medal.", 
+            "She was the first Israeli to win a Nobel Prize."
+        ]
+    }, 
+    {
+        "content": "This Israeli city, which features many beautiful beaches and beautiful seashore views, is also the site of the first IKEA in Israel.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Jaffa", 
+            "Netanya", 
+            "Hadera", 
+            "Kiryat Shemona"
+        ]
+    }, 
+    {
+        "content": "You can go snow skiing in the area of which Israeli mountain?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Mt. Nebo", 
+            "Mt. Hermon", 
+            "Mt. Carmel", 
+            "Mt. Sinai"
+        ]
+    }, 
+    {
+        "content": "The Knesset is the Israeli parliament. In the Knesset building there is a tapestry by this famous artist.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Ginsberg", 
+            "Willensky", 
+            "Picasso", 
+            "Chagal"
+        ]
+    }, 
+    {
+        "content": "This great proponent for peace and understanding, who was Mayor of Jerusalem for 28 years, died in January , 2007.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Moshe Tellek", 
+            "Teddy  Kollek", 
+            "Ariel Sharon", 
+            "Illiyon Golan"
+        ]
+    }, 
+    {
+        "content": "Which of these holidays does not have a fast associated with it?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Sukkot", 
+            "Tisha BAv", 
+            "Purim", 
+            "Passover"
+        ]
+    }, 
+    {
+        "content": "Who was Ilon Ramon?", 
+        "correct_answer": 0, 
+        "answers": [
+            "The first Israeli astronaut", 
+            "The first Israeli to win the Nobel Prize in Literature", 
+            "The first Israeli tomplay in the NBA.", 
+            "The first Israeli Ambassador to Egypt since Moses"
+        ]
+    }, 
+    {
+        "content": "What did these six people have in common: Roderigo De Trianna, Luis De Torres, Maestre Bernal, Alfonso De La Calle, Marco the Surgeon, and Roderigo Sanchez De Segovia?", 
+        "correct_answer": 2, 
+        "answers": [
+            "They were the first Jews to be killed by the Spanish Inquisition.", 
+            "They were the only Jews, or Muslims, who were allowed to remain in Spain after the Expulsion Notice of 1492 in order to attend to the health of King Ferdinand First.", 
+            "They all sailed with Columbus.", 
+            "They were Marranos who feigned to disavow Judaism so they could remain in Spain after the Expulsion Notice of 1492."
+        ]
+    }, 
+    {
+        "content": "Jewish women often wear a piece of jewelry with the shape of human hand and sometimes writings on it. What is it called?", 
+        "correct_answer": 1, 
+        "answers": [
+            "TziTzit", 
+            "Hamsa", 
+            "Aron", 
+            "Mezzuzah"
+        ]
+    }, 
+    {
+        "content": "In Jewish traditions, what is the ceremony for the naming of a female baby on the evening of her fifth day?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Sarahs Ceremony", 
+            "The Confirmation", 
+            "Pinyin Ha-ben", 
+            "The Eve of the Sixth"
+        ]
+    }, 
+    {
+        "content": "During Jewish wedding ceremonies, the bride and groom stay under a canopy. What is this canopy called?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Chutzpah", 
+            "Chanukia", 
+            "Tallit katan", 
+            "Chupah"
+        ]
+    }, 
+    {
+        "content": "The word Channukah, which refers to a Jewish tradition, means what in Hebrew?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Dedication", 
+            "Celebration", 
+            "Winter", 
+            "Pilgrimage"
+        ]
+    }, 
+    {
+        "content": "What meals are typically eaten during the celebrations of the Channukah holiday?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Potato pancakes and flat bread", 
+            "Potato pancakes and jelly doughnuts", 
+            "Boiled chicken and dumplings", 
+            "Jelly doughnuts and flat bread"
+        ]
+    }, 
+    {
+        "content": "What is the traditional food for Shavuot, a major festival in Judaism?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Boiled chicken", 
+            "Fish", 
+            "Potato dishes", 
+            "Dairy products"
+        ]
+    }, 
+    {
+        "content": "Which line contains the correct names of the three Pilgrimage Festivals in Judaism?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Passover, Channukah, and Shavuot", 
+            "Rosh Hashannah, Yom Kippur, and Channukah", 
+            "Rosh Hashannah, Yom Kippur, and Sukkot", 
+            "Sukkot, Passover, and Shavuot"
+        ]
+    }, 
+    {
+        "content": "Which line represents the correct beginning of the Shema prayer?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Hear, O Israel! Bless the Lord who gave us the Torah!", 
+            "Hear, O Israel! The Lord is our God! The Lord is One!", 
+            "Blessed be the name of the glory of His kingdom!", 
+            "Blessed be the name of the Lord who made our bread!"
+        ]
+    }, 
+    {
+        "content": "Which of these people do Jews consider to be their historical religious Patriarchs?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Abraham, Moses, and David", 
+            "Abraham, Issac, and Jacob", 
+            "Abraham, Moses, and Solomon", 
+            "Moses, David, and Solomon"
+        ]
+    }, 
+    {
+        "content": "Who is considered the father of the Jewish political movement and ideology of Zionism?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Theodor Herzl", 
+            "Alfred Dreyfus", 
+            "I .L. Peretz", 
+            "Sholom Aleichem"
+        ]
+    }, 
+    {
+        "content": "Jewish children are considered  grown up enough to be responsible for their actions at what age?", 
+        "correct_answer": 1, 
+        "answers": [
+            "All children above 13", 
+            "Boys at 13, girls at 12", 
+            "Boys at 14, girls at 13", 
+            "Boys at 13, girls at 14"
+        ]
+    }, 
+    {
+        "content": "What is the meaning of the Hebrew toast lChaim!?", 
+        "correct_answer": 0, 
+        "answers": [
+            "To life!", 
+            "To our country!", 
+            "To health!", 
+            "To success!"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, God commanded this prophet to anoint David as king.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Abiathar", 
+            "Samuel", 
+            "Ahimelech", 
+            "Saul"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, David played this instrument to Israels first king, Saul.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Bongos", 
+            "Harp", 
+            "Flute", 
+            "Guitar"
+        ]
+    }, 
+    {
+        "content": "Who was Davids father according to the Bible?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Jesse", 
+            "Samuel", 
+            "Solomon", 
+            "Eliab"
+        ]
+    }, 
+    {
+        "content": "In the Bible, David fought the giant Goliath of Gath with a staff in his hand, a sling, and a shepherds bag which contained this number of stones.", 
+        "correct_answer": 2, 
+        "answers": [
+            "6", 
+            "4", 
+            "5", 
+            "3"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, David was very close friends with this son of King Saul.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Shammah", 
+            "Jonathan", 
+            "Joshua", 
+            "Abner"
+        ]
+    }, 
+    {
+        "content": "The Biblical king Saul became jealous of David because he was victorious in battle and was loved by all Israel. One day when David was playing the harp for him, Saul did which of the following in an attempt to kill him?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Hurled a spear", 
+            "Threw a heavy rock", 
+            "Tried to choke him", 
+            "Tried to poison him"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, David married this daughter of Saul.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Michal", 
+            "Merab", 
+            "Serah", 
+            "Ruth"
+        ]
+    }, 
+    {
+        "content": "In the Bible, David once killed a lion and a bear.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "What Jewish tribe did David belong to?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Judah", 
+            "Naphtali", 
+            "Benjamin", 
+            "Simon"
+        ]
+    }, 
+    {
+        "content": "How many years did David reign as king of Israel?", 
+        "correct_answer": 3, 
+        "answers": [
+            "25", 
+            "45", 
+            "35", 
+            "40"
+        ]
+    }, 
+    {
+        "content": "How long has Tel Aviv been the capital of Israel?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Since 1967", 
+            "Since 1948", 
+            "None of these", 
+            "Since 1984"
+        ]
+    }, 
+    {
+        "content": "Who named Tel Aviv?", 
+        "correct_answer": 1, 
+        "answers": [
+            "David Ben Gurion", 
+            "Nahum Sokolow", 
+            "Chaim Nachman Bialik", 
+            "Joshua"
+        ]
+    }, 
+    {
+        "content": "What was the approximate population of Tel Aviv according to the Israel Central Bureau of Statistics as of June 2006?", 
+        "correct_answer": 3, 
+        "answers": [
+            "570,600", 
+            "475,500", 
+            "1,125,000", 
+            "380,600"
+        ]
+    }, 
+    {
+        "content": "What is the Arabic name for Tel Aviv?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Tal al-rabey", 
+            "Yaffa", 
+            "Jebu al-Etzion", 
+            "Gush Dan"
+        ]
+    }, 
+    {
+        "content": "What type of stone was used to build the Western or Wailing Wall in Jerusalem?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Safedstone", 
+            "Gnesis", 
+            "Limestone", 
+            "Granite"
+        ]
+    }, 
+    {
+        "content": "Who was the first mayor of Tel Aviv?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Israel Rokach", 
+            "David Bloch", 
+            "Meir Dizengoff", 
+            "Chaim Levanon"
+        ]
+    }, 
+    {
+        "content": "What is the name of the Israeli National Theater?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Notzar", 
+            "Tzavata", 
+            "Habima", 
+            "Beit Lessin"
+        ]
+    }, 
+    {
+        "content": "In what language do Ethiopian Jews read Torah?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Gez", 
+            "Arabic", 
+            "Amharic", 
+            "Hausau"
+        ]
+    }, 
+    {
+        "content": "What is Israels number one agricultural export?", 
+        "correct_answer": 1, 
+        "answers": [
+            "bananas", 
+            "flowers", 
+            "seedless watermelon", 
+            "oranges"
+        ]
+    }, 
+    {
+        "content": "What term is used to describe a persons return to live in Israel?", 
+        "correct_answer": 1, 
+        "answers": [
+            "midinayah", 
+            "aliyah", 
+            "shiddoch", 
+            "gaboniah"
+        ]
+    }, 
+    {
+        "content": "What is the name of the organization that promotes a return to Israel?", 
+        "correct_answer": 3, 
+        "answers": [
+            "The Gush Etzion", 
+            "The Vaad Harabbonim", 
+            "The Karaite", 
+            "The Jewish Agency"
+        ]
+    }, 
+    {
+        "content": "What kind of museum is the Batey Haosef Museum in Tel Aviv?", 
+        "correct_answer": 3, 
+        "answers": [
+            "jewelry", 
+            "performance art", 
+            "modern art", 
+            "military"
+        ]
+    }, 
+    {
+        "content": "Which part of Israel is famous fro producing wine?", 
+        "correct_answer": 2, 
+        "answers": [
+            "The Negev", 
+            "Lod", 
+            "Golan Heights", 
+            "Eilat"
+        ]
+    }, 
+    {
+        "content": "Who is given credit  for reviving the Hebrew language?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Eliezer Ben Yehuda", 
+            "Hannah Senesh", 
+            "Joseph Trumpeldor", 
+            "David Ben Gurion"
+        ]
+    }, 
+    {
+        "content": "What poem written by Chaim Nachman Bialik inspired many people to immigrate to Israel?", 
+        "correct_answer": 3, 
+        "answers": [
+            "The New Colossus", 
+            "Rabbi BenEzra", 
+            "Babi Yar", 
+            "The City of the Killings"
+        ]
+    }, 
+    {
+        "content": "Arthur Loomis Harmon, who helped design the Empire State Building, designed what building in Jerusalem?", 
+        "correct_answer": 2, 
+        "answers": [
+            "The King David Hotel", 
+            "The Kinnesset", 
+            "The YMCA", 
+            "The Water Clock Tower Hotel"
+        ]
+    }, 
+    {
+        "content": "Hannukah (or Channukah) is the Jewish equivalent of Christmas.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Where in Israel was the Mishna written?", 
+        "correct_answer": 0, 
+        "answers": [
+            "The Galilee", 
+            "Qumran", 
+            "Jerusalem", 
+            "The Negev"
+        ]
+    }, 
+    {
+        "content": "Who wrote Psalm 23?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Moses", 
+            "David", 
+            "Solomon", 
+            "Ethan"
+        ]
+    }, 
+    {
+        "content": "How many books is the Book of Psalms divided into?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Four", 
+            "Five", 
+            "Two", 
+            "Three"
+        ]
+    }, 
+    {
+        "content": "What are Psalms 120 to 134 referred to as?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Psalms of David", 
+            "Psalms of God", 
+            "Psalms of Ascent", 
+            "Hymns"
+        ]
+    }, 
+    {
+        "content": "Who was the earliest author of a psalm?", 
+        "correct_answer": 1, 
+        "answers": [
+            "David", 
+            "Moses", 
+            "Ezra", 
+            "Asaph"
+        ]
+    }, 
+    {
+        "content": "In Psalm 23, the Lord is referred to as what?", 
+        "correct_answer": 1, 
+        "answers": [
+            "My Provider", 
+            "My Shepherd", 
+            "My God", 
+            "My Hope"
+        ]
+    }, 
+    {
+        "content": "The following lines are from which psalm?\nFor You formed my inward parts; You wove me in my mothers womb. I will give thanks to You, for I am fearfully and wonderfully made.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Psalm 23", 
+            "Psalm 139", 
+            "Psalm 150", 
+            "Psalm 119"
+        ]
+    }, 
+    {
+        "content": "The Book of Psalms is classified as what type of book in the Bible?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Poetic", 
+            "Historical", 
+            "Apocalyptic", 
+            "Prophetic"
+        ]
+    }, 
+    {
+        "content": "During her testimony at her trial, Joan of Arc stated she preferred which of the following to the sword?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Knitting", 
+            "Praying", 
+            "Banner", 
+            "Bible"
+        ]
+    }, 
+    {
+        "content": "Where was Joan of Arc captured by Burgundian forces?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Reims", 
+            "Orleans", 
+            "Compiegne", 
+            "Paris"
+        ]
+    }, 
+    {
+        "content": "What was Joan of Arc accused of at her trial?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Murder", 
+            "Perjury", 
+            "Heresy", 
+            "High treason"
+        ]
+    }, 
+    {
+        "content": "To what kind of capital punishment was Joan of Arc condemned?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Hanging", 
+            "Drowning", 
+            "Burning at the stake", 
+            "Beheading"
+        ]
+    }, 
+    {
+        "content": "What extremely brave attempt to escape did Joan of Arc make while she was imprisoned in Rouen?", 
+        "correct_answer": 1, 
+        "answers": [
+            "All of these", 
+            "She jumped from the tower where she was held prisoner.", 
+            "She knocked a guard unconscious and tried to put on his armor and escape.", 
+            "She pretended she was very sick and then tried to run away."
+        ]
+    }, 
+    {
+        "content": "Joan of Arc lived during the first half of what century?", 
+        "correct_answer": 0, 
+        "answers": [
+            "15th century", 
+            "11th century", 
+            "17th century", 
+            "13th century"
+        ]
+    }, 
+    {
+        "content": "What is the name of the famous sci-fi author that created Scientology?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Isaac Asimov", 
+            "L. Ron Hubbard", 
+            "Robert A. Heinlein", 
+            "Arthur C. Clarke"
+        ]
+    }, 
+    {
+        "content": "What is the name of the book, that states points of the scientologic doctrine for the first time?", 
+        "correct_answer": 3, 
+        "answers": [
+            "The Study of Scientology", 
+            "The Scientology Bible", 
+            "Final Blackout", 
+            "Dianetics: The Modern Science of Mental Health"
+        ]
+    }, 
+    {
+        "content": "What is the name of the evil alien dictator who, according to Scientologists, placed millions of people on earth and killed them, using hydrogen bombs?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Space Hitler", 
+            "Domo", 
+            "Xenu", 
+            "Terl"
+        ]
+    }, 
+    {
+        "content": "Which of these celebrities is not a scientologist?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Jack Nicholson", 
+            "John Travolta", 
+            "Juliette Lewis", 
+            "Tom Cruise"
+        ]
+    }, 
+    {
+        "content": "What is the term that scientologists use to describe traumatic recordings that cause mental and psychosomatic physical problems?", 
+        "correct_answer": 0, 
+        "answers": [
+            "engrams", 
+            "scientogs", 
+            "hate particles", 
+            "dianetics"
+        ]
+    }, 
+    {
+        "content": "What do the eight corners of the Scientology cross symbolize?", 
+        "correct_answer": 0, 
+        "answers": [
+            "the eight dynamics of life", 
+            "the eight planets orbiting the Sun", 
+            "the eight messiahs of Scientology", 
+            "the arms of the evil intergalactic emperor"
+        ]
+    }, 
+    {
+        "content": "Which of these countries does not recognize Scientology as an official religion?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Zimbabwe", 
+            "Tanzania", 
+            "Germany", 
+            "Spain"
+        ]
+    }, 
+    {
+        "content": "What is the literal meaning of the word scientology?", 
+        "correct_answer": 3, 
+        "answers": [
+            "The Study of the Self", 
+            "The Study of Hubbard", 
+            "The Study of the Universe", 
+            "The Study of Knowledge"
+        ]
+    }, 
+    {
+        "content": "In the 1970s, members of The Church of Scientology committed infiltration of United States federal agencies in order to eliminate unfavorable reports on Scientology. What was the code name for the operation?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Operation Snow White", 
+            "Operation Massacre", 
+            "Operation  Scientology", 
+            "Operation Dumbo Drop"
+        ]
+    }, 
+    {
+        "content": "What is the term scientologists use to describe an immortal spiritual being?", 
+        "correct_answer": 0, 
+        "answers": [
+            "a thetan", 
+            "a hubbard", 
+            "a cleared one", 
+            "a ghost"
+        ]
+    }, 
+    {
+        "content": "What is Rosh Chodesh?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Celebration of the new month", 
+            "The first book of the Talmud", 
+            "A fast day  that occurs a day after Rosh Hashanah", 
+            "The first book of the Torah"
+        ]
+    }, 
+    {
+        "content": "What is Yom Sheni shel Galuyot?", 
+        "correct_answer": 0, 
+        "answers": [
+            "The extra day of observance of  some holidays in the Diaspora", 
+            "The special prayer shawl worn by men every day", 
+            "The last day of Passover", 
+            "The second Torah read in synagogues on Saturday"
+        ]
+    }, 
+    {
+        "content": "What is Yichuss?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Special honor you get from family members", 
+            "The special prayer shawl worn by women", 
+            "A fast day celebrated on the day before Passover", 
+            "The first book of the Kabbalah"
+        ]
+    }, 
+    {
+        "content": "What does Yom Yerusalyim celebrate?", 
+        "correct_answer": 3, 
+        "answers": [
+            "The building of the Second Temple in Jerusalem", 
+            "The peace treaty between Egypt and Israel at Camp David", 
+            "The building of the First Temple by Solomon", 
+            "The unification of the City of Jerusalem after the Six Days War"
+        ]
+    }, 
+    {
+        "content": "What do we call the  first written book of the Kabbalah?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Zohar", 
+            "Beraishees", 
+            "Devarim", 
+            "Shimote"
+        ]
+    }, 
+    {
+        "content": "What are the two major pronunciations of Hebrew?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Giladi and Sawpharteet", 
+            "Zechut and Akivat", 
+            "Germaneet and Yemanee", 
+            "Ashkenazi and Sephardeet"
+        ]
+    }, 
+    {
+        "content": "What are Dam, Tzefardea, Kinim?", 
+        "correct_answer": 1, 
+        "answers": [
+            "The names of the three major holidays Jews celebrate in September and October", 
+            "The first three plagues G-D put upon the Egyptians", 
+            "The three books of the Torah", 
+            "The national anthem of Israel"
+        ]
+    }, 
+    {
+        "content": "What do we call the language spoken by Jews in Spain and Portugal, which consisted of mainly Spanish and Hebrew  words written in Hebrew letters?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Yiddish", 
+            "Esperanto", 
+            "Ladino", 
+            "Esperanza"
+        ]
+    }, 
+    {
+        "content": "The Hebrew term for the Old Testament is Tanach. How many books are in the Tanach?", 
+        "correct_answer": 3, 
+        "answers": [
+            "26", 
+            "65", 
+            "39", 
+            "24"
+        ]
+    }, 
+    {
+        "content": "What does Aygel Hah Zahav refer to?", 
+        "correct_answer": 3, 
+        "answers": [
+            "The Book of Psalms.", 
+            "Special prayers said at bedtime and and sunrise.", 
+            "The red heifer", 
+            "The golden calf built by Aaron."
+        ]
+    }, 
+    {
+        "content": "Which Hebrew term means genius?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Chassid", 
+            "mitganaiyim", 
+            "Chabad", 
+            "gaon"
+        ]
+    }, 
+    {
+        "content": "Who is considered the first Chassidic Rabbi?", 
+        "correct_answer": 0, 
+        "answers": [
+            "the Baal Shem Tov", 
+            "Rabbi Akiba", 
+            "Rabbi Hillel", 
+            "Rabbi Shammai"
+        ]
+    }, 
+    {
+        "content": "The esoteric tradition known as Tantra originated in Tibet and is unique to Tibetan Buddhism.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Which of the following is not one of the four main forms of Tibetan Buddhism?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Gelug", 
+            "Chan", 
+            "Nying", 
+            "Sakya"
+        ]
+    }, 
+    {
+        "content": "What is the title of the leader of the Kagyu, one of the four major schools of Tibetan Buddhism?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Chogyum Trungpa", 
+            "Karmapa", 
+            "Pachen Lama", 
+            "Dalai Lama"
+        ]
+    }, 
+    {
+        "content": "What is the name of the Tibetan King who is said to have brought and solidified Buddhism in Tibet?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Marpa", 
+            "Songtsen Gampo", 
+            "Tilopa", 
+            "Genghis Khan"
+        ]
+    }, 
+    {
+        "content": "Which word refers to a Tibetan Buddhist lama or other religious figure, who has consciously decided to be reborn, in order to continue his/her religious pursuits?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Terma", 
+            "Tulku", 
+            "Lama", 
+            "Terton"
+        ]
+    }, 
+    {
+        "content": "Who was the founder of the first Tibetan Buddhist Dharma center in the West?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Chogyam Trungpa", 
+            "Dalai Lama", 
+            "Thich Nhat Hanh", 
+            "Pema Chodren"
+        ]
+    }, 
+    {
+        "content": "Who is the second highest lama in the Gelugpa lineage of Tibetan Buddhism?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Panchen Lama", 
+            "Khenpo Gangshar Rinpoche", 
+            "Dalai Lama", 
+            "Karmapa"
+        ]
+    }, 
+    {
+        "content": "What year did the XIVth Dalai Lama escape Tibet?", 
+        "correct_answer": 1, 
+        "answers": [
+            "1989", 
+            "1959", 
+            "1960", 
+            "1949"
+        ]
+    }, 
+    {
+        "content": "The Potala is traditionally the summer palace of the Dalai Lama in Tibet.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Padmasambhava, a widely revered Indian Buddhist master who founded the Tantric school of Buddhism in the 8th century, is known by what other name?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Shakyapa Rinpoche", 
+            "Lama Zopa Rinpoche", 
+            "Totally Awesome Indian Dude", 
+            "Guru Rinpoche"
+        ]
+    }, 
+    {
+        "content": "The Dalai Lama and the Karmapa are believed to be emanations of what deity?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Palden Lhamo", 
+            "Tara", 
+            "Chenrenzig", 
+            "Dorje Shug-dun"
+        ]
+    }, 
+    {
+        "content": "The Holy Grail is sometimes associated with which magical object in Celtic mythology?", 
+        "correct_answer": 2, 
+        "answers": [
+            "The spear of Lug", 
+            "The boat of Lyr", 
+            "The cauldron of Bran", 
+            "The stone of F\u0102\u0104l"
+        ]
+    }, 
+    {
+        "content": "Who wrote Joseph dArimathie, the first literary work to link the Holy Grail with the Last Supper of Jesus and Joseph of Arimathea?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Geoffrey of Monmouth", 
+            "Chr\u0102\u0160tien de Troyes", 
+            "Thomas Malory", 
+            "Robert de Boron"
+        ]
+    }, 
+    {
+        "content": "In Arthurian legend Percival first saw the Holy Grail in the castle of the Fisher King, who was badly wounded in this part of the body.", 
+        "correct_answer": 1, 
+        "answers": [
+            "in the shoulder", 
+            "in the groin", 
+            "in the neck", 
+            "in the arm"
+        ]
+    }, 
+    {
+        "content": "Percival was the first knight in Arthurian legend to see the Holy Grail in the castle of the Fisher King. He could not heal the King\u00e2\u0080\u0099s wound, though. Why?", 
+        "correct_answer": 0, 
+        "answers": [
+            "He did not ask the right question.", 
+            "He was not well-intentioned.", 
+            "He was not the chosen one.", 
+            "He was cursed by The Green Knight."
+        ]
+    }, 
+    {
+        "content": "Three Knights of the Round Table get to see the Holy Grail. First Percival, then Bors and next who of the following?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Mordred", 
+            "Gawain", 
+            "Lancelot", 
+            "Galahad"
+        ]
+    }, 
+    {
+        "content": "The book \u00e2\u0080\u0098Holy Blood, Holy Grail\u00e2\u0080\u0099 by Michael Baigent, Richard Leigh, and Henry Lincoln proposes the hypothesis that Jesus and Mary Magdalene were actually married and upon Jesus\u00e2\u0080\u0099 death she fled to France, carrying his child.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "In the mystery novel The Da Vinci Code by Dan Brown the secrets of the Holy Grail are kept by this secret society.", 
+        "correct_answer": 1, 
+        "answers": [
+            "The order of the Phoenix", 
+            "The priory of Sion", 
+            "The Illuminati", 
+            "The order of the Dragon"
+        ]
+    }, 
+    {
+        "content": "In the 1991 movie The Fisher King, Robin Williams\u00e2\u0080\u0099 character is obsessed with the legend of the Fisher King and tries to get the Holy Grail. He believes that this object is actually the Grail.", 
+        "correct_answer": 2, 
+        "answers": [
+            "\u0110\u00b0 silver cauldron", 
+            "\u0110\u00b0 crystal champagne glass", 
+            "\u0110\u00b0 sport trophy", 
+            "\u0110\u00b0 crystal plate"
+        ]
+    }, 
+    {
+        "content": "The Holy Grail was a popular theme in many literary works from the 19th century such as the Arthurian cycle The Idylls of the King. Who was its author?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Dante Gabriel Rossetti", 
+            "Jane Austin", 
+            "Walter Scott", 
+            "Alfred, Lord Tennyson"
+        ]
+    }, 
+    {
+        "content": "The Holy Grail is usually presented as a large beautiful cup or dish. But medieval author Wolfram von Eschenbach claimed in his poem Perzival that the Grail was actually a crown given by God.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "The search for The Holy Grail is one of the central themes in the opera Persifal by this German composer.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Richard Wagner", 
+            "Karl Maria von Webber", 
+            "Robert Schumann", 
+            "Franz Fischer"
+        ]
+    }, 
+    {
+        "content": "At Christmas, Christians celebrates the Nativity or birth of Jesus Christ in which city?", 
+        "correct_answer": 1, 
+        "answers": [
+            "None of these", 
+            "Bethlehem", 
+            "Nazareth", 
+            "Jerusalem"
+        ]
+    }, 
+    {
+        "content": "Which Christian saint, regarded as the first martyr of Christianity, is commemorated on December 27 or 26?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Saint Matthew", 
+            "Saint Andrew", 
+            "Saint Paul", 
+            "Saint Stephen"
+        ]
+    }, 
+    {
+        "content": "On September 8 or September 21, Eastern Orthodox Christians celebrate the birth of this important biblical figure to parents Joachim and Anna.", 
+        "correct_answer": 2, 
+        "answers": [
+            "King Solomon", 
+            "John the Baptist", 
+            "Virgin Mary", 
+            "King David"
+        ]
+    }, 
+    {
+        "content": "Which event is regarded as the greatest feast in the Christian calendar?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Resurrection of Jesus", 
+            "Ascension of Christ", 
+            "Epiphany", 
+            "Nativity of Christ"
+        ]
+    }, 
+    {
+        "content": "He is considered to be the first Jew  to set foot on land that would become part of the USA.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Asser Lev", 
+            "Joachim Gaunse", 
+            "Luis de Torres", 
+            "Solomon Franco"
+        ]
+    }, 
+    {
+        "content": "In 1649 he was warned out of trying to settle in Boston.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Joachim Gaunse", 
+            "Solomon Franco", 
+            "Asser Lev", 
+            "Luis de Torres"
+        ]
+    }, 
+    {
+        "content": "In 1656 the first Jewish cemetery in the USA was founded in this city.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Philadelphia, PA", 
+            "Newport , RI", 
+            "New  York City, NY", 
+            "Charleston, SC"
+        ]
+    }, 
+    {
+        "content": "He is considered the first Jew on American land to get the right  to serve in a militia.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Asser Lev", 
+            "Solomon Franco", 
+            "Myer Myers", 
+            "Asser Levy"
+        ]
+    }, 
+    {
+        "content": "In 1665, Abraham de Lucena was arrested and fined for selling goods at retail prices.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "The funds to build the first Lutheran church were advanced by a Jew.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "The British Plantation Act gave Jews the right to become naturalized citizens with rights to trade within the colonies. In what year was it enacted?", 
+        "correct_answer": 0, 
+        "answers": [
+            "1740", 
+            "1763", 
+            "1699", 
+            "1749"
+        ]
+    }, 
+    {
+        "content": "This was the first colony to give Jews full political rights.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Pennsylvania", 
+            "Rhode Island", 
+            "New York", 
+            "South Carolina"
+        ]
+    }, 
+    {
+        "content": "This offered Jews full equality in all future US territories and states.", 
+        "correct_answer": 0, 
+        "answers": [
+            "The Northwest Territory Act", 
+            "The Future Farm and Territory Act", 
+            "The Stamp Act", 
+            "The Homestead Act"
+        ]
+    }, 
+    {
+        "content": "He was the first Jew to serve in a state legislature.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Jonas Phillips", 
+            "Dr. Levi Myers", 
+            "Myer Myers", 
+            "Asser Levy"
+        ]
+    }, 
+    {
+        "content": "This famous pirate, who was a marrano, played a significant role in American history.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Jean Lafitte", 
+            "Alexander Hamilton", 
+            "Lafayette", 
+            "John Jay"
+        ]
+    }, 
+    {
+        "content": "He was the first Jewish Commodore in the US Navy. He ended the practice of flogging which used to be an accepted form of punishment in the US Navy.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Uriah Phillip Levy", 
+            "Abraham Moise Silver", 
+            "Myer Myers", 
+            "Asser Lev"
+        ]
+    }, 
+    {
+        "content": "The Bnai Brit , a well known social welfare organization, was formed to help people who suffered in this American tragedy.", 
+        "correct_answer": 3, 
+        "answers": [
+            "The sinking of the Chalmers", 
+            "The Civil War", 
+            "The San Francisco earthquake", 
+            "The great Chicago fire."
+        ]
+    }, 
+    {
+        "content": "Morris Raphall, a Rabbi from New York City, was the first to open a session of Congress with a prayer. In what year did he do this?", 
+        "correct_answer": 2, 
+        "answers": [
+            "1843", 
+            "1819", 
+            "1860", 
+            "1825"
+        ]
+    }, 
+    {
+        "content": "The  first Yiddish play was produced in New York in this year.", 
+        "correct_answer": 2, 
+        "answers": [
+            "1902", 
+            "1894", 
+            "1882", 
+            "1897"
+        ]
+    }, 
+    {
+        "content": "He was the first American-born Rabbi to lead a Chassidic group.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Rabbi Abba Hillel Silver", 
+            "Rabbi Chaim Nathan Silver", 
+            "Rabbi Jacob ben Yakov Halevy", 
+            "Rabbi Levi Yitzach Halevi Horowitz"
+        ]
+    }, 
+    {
+        "content": "Which of the following may save sinners according to the King James version of the Bible?", 
+        "correct_answer": 1, 
+        "answers": [
+            "membership in a certain religion", 
+            "personal relationship with God through His Son Jesus Christ", 
+            "good works like almsgiving and fasting", 
+            "baptism"
+        ]
+    }, 
+    {
+        "content": "What is the punishment for human sins as it is written according to the Bible?", 
+        "correct_answer": 3, 
+        "answers": [
+            "excommunication from the religion", 
+            "longer life", 
+            "physical death", 
+            "second or spiritual death"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, is there anything that humans can do to be saved from Hell, the bottomless pit where worms dieth not?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Yes", 
+            "No"
+        ]
+    }, 
+    {
+        "content": "At Nazareth, this Biblical figure grew and waxed in spirit. His name means the anointed one.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Isaac", 
+            "Jesus Christ", 
+            "Paul", 
+            "Moses"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, people are reconciled with God because of His Sons death at the cross in Mount Golgotha.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, Jesus turned water to wine in this wedding feast that He had attended in Cana. Which of His miracles was this?", 
+        "correct_answer": 3, 
+        "answers": [
+            "last miracle", 
+            "second miracle", 
+            "least miracle", 
+            "first miracle"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, who should believers use as mediator between them and God when they pray?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Mary", 
+            "Joseph", 
+            "Jesus Christ", 
+            "John, the Baptist"
+        ]
+    }, 
+    {
+        "content": "Which epistle states that there is one mediator between God and men?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Ephesians", 
+            "Philemon", 
+            "Romans", 
+            "Timothy"
+        ]
+    }, 
+    {
+        "content": "According to the King James Version of the Bible, what did God command people to do always, day and night?", 
+        "correct_answer": 3, 
+        "answers": [
+            "rejoicing", 
+            "drinking wine", 
+            "sinning", 
+            "praying"
+        ]
+    }, 
+    {
+        "content": "In the Bible, are there any verses that strictly mention \u00e2\u0080\u009ctrinity\u00e2\u0080\u009d as a term?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Yes", 
+            "No"
+        ]
+    }, 
+    {
+        "content": "What three things does the religious concept of the Trimurti represent?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Father, Grandfather, and Son", 
+            "Heaven, Earth and Hell", 
+            "Father, Mother, and Child", 
+            "Creator, Protector, and Destructor"
+        ]
+    }, 
+    {
+        "content": "Biology divides cellular life forms into three basic life domains. What are they?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Endoderm, Mesoderm, and Exoterm", 
+            "Archaea, Glycosis, and Endoderm", 
+            "Archaea, Bacteria, and Eucaryota", 
+            "Archaea, Mesoder, and Exoterm"
+        ]
+    }, 
+    {
+        "content": "Is Nona the goddess of death in the Roman myth of the triple spinning fate goddesses?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Yes", 
+            "No"
+        ]
+    }, 
+    {
+        "content": "In biology, is the Great Apes family a species trinity comprising of chimpanzees, gorillas, and orangutans?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Yes", 
+            "No"
+        ]
+    }, 
+    {
+        "content": "Which one of these three basic chemical compounds can turn the blue litmus into red?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Salt", 
+            "Base", 
+            "None of them", 
+            "Acid"
+        ]
+    }, 
+    {
+        "content": "St. Nicholas the Wonderworker is the patron saint of which of the following?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Merchants", 
+            "All of these", 
+            "Archers", 
+            "Sailors"
+        ]
+    }, 
+    {
+        "content": "St. Nicholas is revered by both Orthodox and Catholic Christians.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Saint Nicholas is one of the sources of the holiday figure of Santa Claus.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Where was the historical Saint Nicholas born?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Asia Minor", 
+            "Cartagena", 
+            "His birthplace is unknown.", 
+            "Rome"
+        ]
+    }, 
+    {
+        "content": "St. Nicholas is believed to have made a pilgrimage to the Holy Land.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Saint Nicholas was released from prison in 313, after this emperor issued the Edict of Milan, extending official tolerance to Christianity.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Octavian", 
+            "Marcus Aurelius", 
+            "Constantine the Great", 
+            "Diocletian"
+        ]
+    }, 
+    {
+        "content": "Saint Nicholas died on 6 December.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "The splendid Basilica di San Nicola (Basilica of Saint Nicholas) is in Rome.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "The historical Saint Nocholas was a Greek Bishop of what ancient town?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Myra", 
+            "Beit Jala", 
+            "Patara", 
+            "Paternopoli"
+        ]
+    }, 
+    {
+        "content": "According to legend Saint Nicholas provided dowries to three young women who could not afford to marry.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Saint Brigitta was a Swedish nun and founder of the Bridgettine Order.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Nicknamed Black Angel, he was a prominent commander in the Chechen separatist movement against Russia.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Magomed Khanbiyev", 
+            "Ruslan Gelayev", 
+            "Mukhtar Suleimanov", 
+            "Abdulkhalik Kurbanov"
+        ]
+    }, 
+    {
+        "content": "His name means King of Kings and he ruled the Malian Empire for over twenty years.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Mansa Musa", 
+            "Mustapha Kartali", 
+            "Malcolm X", 
+            "Margery Kempe"
+        ]
+    }, 
+    {
+        "content": "What statement is true about Saint Godric of Finchale?", 
+        "correct_answer": 3, 
+        "answers": [
+            "He was never formally canonized.", 
+            "He was an English hermit.", 
+            "None of these", 
+            "Both of these"
+        ]
+    }, 
+    {
+        "content": "He was an African-American Muslim minister and an advocate for the rights of African Americans.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Lamen Kebe", 
+            "Malcolm X", 
+            "Sali-Bul Ali", 
+            "Abdul Rahman Ibrahim Sori"
+        ]
+    }, 
+    {
+        "content": "James, one of the Twelve Apostles of Jesus, was known by which of these names?", 
+        "correct_answer": 0, 
+        "answers": [
+            "All of these", 
+            "James, son of Alphaeus", 
+            "James the Greater", 
+            "James the Less"
+        ]
+    }, 
+    {
+        "content": "Junichiro Koizumi is a politician who served as Prime Minister of Japan.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "He was a Supreme Pontiff of the Roman Catholic Church and Sovereign of Vatican City from 1978 until his death in 2005.", 
+        "correct_answer": 1, 
+        "answers": [
+            "John Paul I", 
+            "Pope John Paul II", 
+            "Benedict XVI", 
+            "Paul VI"
+        ]
+    }, 
+    {
+        "content": "Margery Kempe was an English religious mystic whose autobiography is one of the earliest in English literature.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "This Spanish knight founded the Society of Jesus in 1534.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Martin Luther", 
+            "Ignatius of Loyola", 
+            "Pope Paul V", 
+            "John Calvin"
+        ]
+    }, 
+    {
+        "content": "He wrote the third Gospel and the Acts of the Apostles.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Luke the Evangelist", 
+            "John the Evangelist", 
+            "Matthew the Evangelist", 
+            "Mark the Evangelist"
+        ]
+    }, 
+    {
+        "content": "He was a Christian saint from Egypt and a prominent leader among the Desert Fathers.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Saint Menas", 
+            "Anthony the Great", 
+            "Saint Varus", 
+            "Saint Rais"
+        ]
+    }, 
+    {
+        "content": "What statement is true about Ignatius Loyola, a Spanish knight from a Basque noble family?", 
+        "correct_answer": 3, 
+        "answers": [
+            "He was the founder of the Jesuit Order.", 
+            "He was canonized by Pope Gregory Ksaverity.", 
+            "He was a religious leader during the Counter-Reformation.", 
+            "All of these"
+        ]
+    }, 
+    {
+        "content": "St Anicetus was the first Roman Bishop to forbid Montanism.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Leo IX launched a dispute regarding celibacy of the clergy.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Mary Faustina Kowalska was a Russian nun and mystic, venerated by the Roman Catholic Church as a saint.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "According to Christian tradition, this saint attached a silver hand to the icon of Theotokos, which has since then been known as Three-handed?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Ignatius of Antioch", 
+            "Cosmas of Maiuma", 
+            "John of Damascus", 
+            "Abraham the Writer"
+        ]
+    }, 
+    {
+        "content": "Vladimir the Great converted to Christianity and baptised all of Kievan Rus.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Saint Stephen is often depicted with a crown for martyrdom.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Saint Helena was Roman empress and the mother of Emperor Constantine the Great.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "What is the earliest identified Christian house church?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Dura-Europos church", 
+            "Monastery of Saint Anthony", 
+            "Megiddo church", 
+            "Saint-Pierre-aux-Nonnains basilica"
+        ]
+    }, 
+    {
+        "content": "Megiddo church, one of the oldest church buildings discovered by archaeologists, is located in Israel.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "This Coptic Orthodox monastery is located in an oasis in the Eastern Desert of Egypt.", 
+        "correct_answer": 1, 
+        "answers": [
+            "St. George Monastery", 
+            "St. Anthony Monastery", 
+            "St. Bishoy Monastery", 
+            "St. Mina Monastery"
+        ]
+    }, 
+    {
+        "content": "Which statement is true about Saint-Pierre-aux-Nonnains basilica in Metz, France?", 
+        "correct_answer": 3, 
+        "answers": [
+            "It was built in 380 AD.", 
+            "It was originally built to be part of a Roman spa complex.", 
+            "It is one of the oldest churches in Europe.", 
+            "All of these"
+        ]
+    }, 
+    {
+        "content": "The Church of Our Lady Mary of Zion is an Ethiopian Orthodox Church.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "What is the oldest cathedral in Germany?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Hildesheim Cathedral", 
+            "Cathedral of Trier", 
+            "Regensburg Cathedral", 
+            "Aachen Cathedral"
+        ]
+    }, 
+    {
+        "content": "The Church of Saint Simeon Stylites is located in Syria.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Which of these churches was designed by Isidore of Miletus and Anthemius of Tralles, who were professors of geometry at the University of Constantinople?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Saint Catherine\u00e2\u0080\u0099s Monastery", 
+            "None of these", 
+            "The Church of Our Lady Mary of Zion", 
+            "Hagia Sophia"
+        ]
+    }, 
+    {
+        "content": "Which monastery lies at the foot of Mount Sinai, where, according to the Hebrew Bible, Moses received the Ten Commandments from God?", 
+        "correct_answer": 3, 
+        "answers": [
+            "St. Anthony Monastery", 
+            "St. Simeon Monastery", 
+            "St. Paul Monastery", 
+            "Saint Catherine\u00e2\u0080\u0099s Monastery"
+        ]
+    }, 
+    {
+        "content": "What church was built over the cave that tradition marks as the birthplace of Jesus of Nazareth?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Church of the Nativity, Raleigh", 
+            "All of these", 
+            "Church of the Nativity, Bethlehem", 
+            "Church of the Nativity, Arbanassi"
+        ]
+    }, 
+    {
+        "content": "Emanuel Swedenborg is a Dutch scientist, philosopher, mystic and theologian.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "What did Emanuel Swedenborg claim?", 
+        "correct_answer": 0, 
+        "answers": [
+            "all of these", 
+            "that the presence of the spiritual sense makes the Word Divine", 
+            "that the Second Coming of Jesus Christ had occurred", 
+            "that the Last Judgement had already occurred"
+        ]
+    }, 
+    {
+        "content": "Emanuel Swedenborg claimed that he could talk with angels, demons and other spirits.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "What prominent Swedish author called Emanuel Swedenborg nothing but a fool?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Carl Jung", 
+            "August Strindberg", 
+            "Honor\u0102\u0160 de Balzac", 
+            "Johan Henrik Kellgren"
+        ]
+    }, 
+    {
+        "content": "In 1710, Emanuel Swedenborg made a grand tour through the Netherlands, France, and Germany.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Emanuel Swedenborg lived in the 19th century.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Emanuel Swedenborg supported the Christian doctrine of the Trinity.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Which of these is a work by Emanuel Swedenborg?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Heaven and Hell", 
+            "All of these", 
+            "The Last Judgment", 
+            "Arcana Coelestia"
+        ]
+    }, 
+    {
+        "content": "What happened in April 1745, when Emanuel Swedenborg was having dinner in a private room at a London tavern.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Darkness fell upon his eyes.", 
+            "He hurried home.", 
+            "All of these", 
+            "He saw a man sitting in the corner, who told him: Do not eat too much!"
+        ]
+    }, 
+    {
+        "content": "How many saints are recognized in Judaism ?", 
+        "correct_answer": 3, 
+        "answers": [
+            "613", 
+            "3", 
+            "4", 
+            "0"
+        ]
+    }, 
+    {
+        "content": "The first five books of the Old Testament are referred to as what?", 
+        "correct_answer": 0, 
+        "answers": [
+            "The Torah", 
+            "The Sacred Writings of Abraham", 
+            "The Code", 
+            "The Bible"
+        ]
+    }, 
+    {
+        "content": "In Judaism, who is considered to be the first Jew ?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Abraham", 
+            "Moses", 
+            "Noah", 
+            "Adam"
+        ]
+    }, 
+    {
+        "content": "Why is the city of Hebron so important to Judaism ?", 
+        "correct_answer": 1, 
+        "answers": [
+            "It is where the first Capital of Israel stood", 
+            "It is believed that Abraham, Sarah, Issac, Rebekkah, Leah and Jacob are buried there", 
+            "It was a stop on the way out of Egypt", 
+            "It is where Jeremiah was born"
+        ]
+    }, 
+    {
+        "content": "In the context of Judaism, who was Abrahams wife ?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Leah", 
+            "Rachel", 
+            "Sarah", 
+            "Rebekkah"
+        ]
+    }, 
+    {
+        "content": "How many laws are in the first five books of the Old Testament?", 
+        "correct_answer": 2, 
+        "answers": [
+            "2150", 
+            "1000", 
+            "613", 
+            "100"
+        ]
+    }, 
+    {
+        "content": "Why will Jews not eat pork?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Pigs are symbols of evil", 
+            "Pigs cause disease if not properly cooked", 
+            "Pigs do not chew their cud and they do not have cloven hoofs", 
+            "Pigs are dirty"
+        ]
+    }, 
+    {
+        "content": "In Judaism, what do we call food that is permissible to be eaten?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Parve", 
+            "Kosher", 
+            "Fleisch", 
+            "Gribnitz"
+        ]
+    }, 
+    {
+        "content": "According to Judaism, what work is permissible on Sunday?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Only transportation to synagogue", 
+            "Charity", 
+            "None", 
+            "Any work"
+        ]
+    }, 
+    {
+        "content": "What does the word Rabbi mean?", 
+        "correct_answer": 3, 
+        "answers": [
+            "My overseer", 
+            "MY priest", 
+            "My leader", 
+            "My teacher"
+        ]
+    }, 
+    {
+        "content": "The witch hunts started as a result of the superstitions of some Catholic Monks. This Dominican monk is considered to be the initiator of the witch hunts as he prepared a detailed manual of deviltry for the Church.  It did not take long before women in Southern France were sent to the stake, condemned for cohabitation with the devil.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Thomas Aquinas", 
+            "John XXII", 
+            "Gregory", 
+            "Hugo de Boniols"
+        ]
+    }, 
+    {
+        "content": "The first woman accused of witchcraft was burned around 1275. This was the reason for her condemnation.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Bringing misfortune", 
+            "Participating in witch ring-dance rituals", 
+            "Healing a child with magical water", 
+            "Having intercourse with the devil"
+        ]
+    }, 
+    {
+        "content": "Many of witchcraft confessions were extorted by means of torture, called ordeal. This method of torture was not used during the process of the ordeal.", 
+        "correct_answer": 2, 
+        "answers": [
+            "The Iron Maiden", 
+            "The Thumbscrew", 
+            "The sound of trickling water", 
+            "Hot pincers"
+        ]
+    }, 
+    {
+        "content": "Burning women who were supposedly witches was a common practice on the European continent. In England, however, they punished witches in this way.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Starved them to death", 
+            "Hanged them", 
+            "Buried them alive", 
+            "Stabbed them with a silver lance"
+        ]
+    }, 
+    {
+        "content": "Most of the victims of the witch hunts were women. However, there were some men also burned, accused of being witches. This is why.", 
+        "correct_answer": 2, 
+        "answers": [
+            "They were more intelligent than other people", 
+            "They collected herbs", 
+            "They tried to protect women accused of witchcraft", 
+            "They often went out for a walk during full moon"
+        ]
+    }, 
+    {
+        "content": "As the witch hunts expanded, any woman could be tried as a witch, but in the beginning these were the most common victims of the Holy Inquisition.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Educated women", 
+            "Beautiful young girls", 
+            "Old, lonely women", 
+            "Women of middle age who gave birth to twins"
+        ]
+    }, 
+    {
+        "content": "It was a common conception that the number of people involved in the witchcraft activities could be boundless. For example, in 1609 the witch hunting French official Pierre de Lancre stated that all 30,000 dwellers of the French region Labourd were witches, including  these people.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Physicians", 
+            "Young girls", 
+            "Priests", 
+            "Teachers"
+        ]
+    }, 
+    {
+        "content": "The famous Salem Witch trial started with an incident in January, 1692. A Caribbean-born slave was accused of initiating the witch phenomenon. Twenty more people were killed as no one of them confessed to being a witch. What was the reason that triggered the Salem witch craze?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Several babies in the town were born dead", 
+            "There were innumerable storms over the town destroyed the crops", 
+            "A severe drought made the local river dry up", 
+            "Eight little girls from the town got ill with strange symptoms such as convulsions, incomprehensible speech, and trance-like states"
+        ]
+    }, 
+    {
+        "content": "This was a common torture method used in Scotland, which made the accused witch confess her deeds. The method caused hallucinations and made it easy for the inquisitors to extort confessions to flying, turning into animals, meeting the devil and taking part in witches\u00e2\u0080\u0099 Sabbaths.", 
+        "correct_answer": 2, 
+        "answers": [
+            "Whipping", 
+            "The Iron Maiden", 
+            "Sleep deprivation", 
+            "Overheating"
+        ]
+    }, 
+    {
+        "content": "Witch hunts still exist today. In 1981 a woman was killed by the mob, throwing stones at her as they believed she was a witch. This was the reason for stoning her to death.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Her sorcery incited the attack upon Pope John Paul II", 
+            "Her spells were the reason for the ozone hole", 
+            "Her magic killed the child of a neighbour", 
+            "Her sorcery caused a tsunami in Mexico"
+        ]
+    }, 
+    {
+        "content": "According to the Old Testament, the prophet Hosea was instructed by God to marry a prostitute.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "Psalm 119 is the longest psalm in the Bible. How many verses does it contain?", 
+        "correct_answer": 0, 
+        "answers": [
+            "176", 
+            "150", 
+            "200", 
+            "138"
+        ]
+    }, 
+    {
+        "content": "According to the Old Testament, Moses was 105 years old when he died.", 
+        "correct_answer": 1, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "It is stated in the Old Testament that Jeremiah, Hosea, Jonah, and Job were prophets.", 
+        "correct_answer": 0, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "According to The Old Testament, the prophet Jonah was sent to which city to warn its inhabitants of the coming judgment on them?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Ninevah", 
+            "Joppa", 
+            "Ai", 
+            "Tarshish"
+        ]
+    }, 
+    {
+        "content": "The prophet Haggai is mentioned in the book of Ezra.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "According to the Book of Genesis, what did G-D  create last, on the sixth day, as almost an afterthought?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Eve", 
+            "Adam", 
+            "The fishes of the waters", 
+            "The birds of prey"
+        ]
+    }, 
+    {
+        "content": "What was the name of Abrahams first wife?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Sarah", 
+            "Haggar", 
+            "Haggai", 
+            "Ruth"
+        ]
+    }, 
+    {
+        "content": "Who was Issacs wife according to Genesis?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Leah", 
+            "Rebecca", 
+            "Rachel", 
+            "Ruth"
+        ]
+    }, 
+    {
+        "content": "Judaism has three  Patriarchs -Abraham, Issac, and Jacob. Who are the four Matriarchs?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Sarah, Rebecca, Ruth, Naomi", 
+            "Sarah , Rebecca , Rachel, Ruth", 
+            "Sarah, Rebecca, Leah, Rachel", 
+            "Sarah , Rebecca , Leah, Ruth"
+        ]
+    }, 
+    {
+        "content": "Which of these is not one of Jacobs twelve sons?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Naphtali", 
+            "Gad", 
+            "Ephraim", 
+            "Zebulon"
+        ]
+    }, 
+    {
+        "content": "What is the name of Jacobs only daughter according to Genesis?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Dina", 
+            "Leah", 
+            "Laban", 
+            "Mileah"
+        ]
+    }, 
+    {
+        "content": "The  Book of Genesis contains the first Biblical reference to someone being put into prison. Who was  put into prison?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Cain", 
+            "Potiphar", 
+            "Judah", 
+            "Joseph"
+        ]
+    }, 
+    {
+        "content": "Who was the third son of Adam and Eve, sometimes described as the quiet one?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Seth", 
+            "Eli", 
+            "Abel", 
+            "Nahor"
+        ]
+    }, 
+    {
+        "content": "The Hebrew people lived in the first ghetto when they were in Egypt. Where was this place?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Cannan", 
+            "Barnes-Kaddesh", 
+            "Nubia", 
+            "Goshen"
+        ]
+    }, 
+    {
+        "content": "According to the genealogy of Jesus, who was the father of Jesse?", 
+        "correct_answer": 1, 
+        "answers": [
+            "David", 
+            "Obed", 
+            "Boaz", 
+            "Samson"
+        ]
+    }, 
+    {
+        "content": "In which of the following lands did Job live when he was first mentioned in the book of Job?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Judea", 
+            "Uz", 
+            "Galilee", 
+            "Nazareth"
+        ]
+    }, 
+    {
+        "content": "Who was king of Judaea during the birth of Jesus?", 
+        "correct_answer": 2, 
+        "answers": [
+            "King David", 
+            "King Solomon", 
+            "King Herod", 
+            "King Darius"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, how old was Joseph when he was put in charge of the whole land of Egypt, as Pharaoh had ordered.", 
+        "correct_answer": 1, 
+        "answers": [
+            "40 years old", 
+            "30 years old", 
+            "22 years old", 
+            "35 years old"
+        ]
+    }, 
+    {
+        "content": "According to the Bible after Sarahs death, Abraham married another woman. What was her name?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Keturah", 
+            "Jessica", 
+            "Naomi", 
+            "Sheba"
+        ]
+    }, 
+    {
+        "content": "From what tribe of Israel was Samson according to the Bible?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Benjamin", 
+            "Gad", 
+            "Dan", 
+            "Levi"
+        ]
+    }, 
+    {
+        "content": "This Biblical character is Jacobs father-in-law as well as father of Rachel and Leah.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Laban", 
+            "Terah", 
+            "Noah", 
+            "Aram-balam"
+        ]
+    }, 
+    {
+        "content": "Which is the sixth book of the New Testament?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Mark", 
+            "Romans", 
+            "Galatians", 
+            "Luke"
+        ]
+    }, 
+    {
+        "content": "According to the Bible, when Naomi told her two daughters-in-law to leave her and go to their homes, which daughter-in-law decided to stay?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Rebbecca", 
+            "Judy", 
+            "Beth", 
+            "Ruth"
+        ]
+    }, 
+    {
+        "content": "Which of the following did Jesus call first to be his disciple?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Philip", 
+            "James", 
+            "Simon", 
+            "Judas"
+        ]
+    }, 
+    {
+        "content": "What kind of person may you call Judas?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Someone who follows you", 
+            "A thief", 
+            "A friend who betrayed you", 
+            "A person who committed suicide"
+        ]
+    }, 
+    {
+        "content": "Which of the following events can be referred to as an Armageddon?", 
+        "correct_answer": 3, 
+        "answers": [
+            "A battle between former allies", 
+            "A death of a charismatic leader", 
+            "The last gathering of a group of friends", 
+            "The last and completely destructive battle"
+        ]
+    }, 
+    {
+        "content": "Which use of Goliath is correct?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Switzerland is the Goliath of international politics.", 
+            "The FIFA 2006 World Cup final between France and Italy was like David against Goliath.", 
+            "The local grocery successfully competed against the nearby Goliath supermaket", 
+            "Fiesta is a real Goliath among Fords models."
+        ]
+    }, 
+    {
+        "content": "How would you describe a Samaritan?", 
+        "correct_answer": 0, 
+        "answers": [
+            "A person who helps people in need", 
+            "An enemy", 
+            "A person who migrates to a foreign country", 
+            "An egoist"
+        ]
+    }, 
+    {
+        "content": "Who is the salt of the earth?", 
+        "correct_answer": 1, 
+        "answers": [
+            "People who spread gossips", 
+            "Decent, reliable people", 
+            "People who do not keep their word", 
+            "All Christians"
+        ]
+    }, 
+    {
+        "content": "Who can be best described as doubting Thomas?", 
+        "correct_answer": 0, 
+        "answers": [
+            "Someone who believes only what he sees", 
+            "Anyone who doesnt believe in God", 
+            "A left-wing politician", 
+            "A scientist (especially in physics, mathematics, chemistry and biology)"
+        ]
+    }, 
+    {
+        "content": "Which of the following can be described as a prodigal son?", 
+        "correct_answer": 1, 
+        "answers": [
+            "The youngest son in the family", 
+            "A young man who wastes his parents money on parties", 
+            "A son that is very obedient and does dutifully everything his parents tell him", 
+            "The firstborn son"
+        ]
+    }, 
+    {
+        "content": "What does the sentence Ann was the apple of Marks eye tell us about the relation between those two?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Mark hates Ann.", 
+            "Mark is deeply in love with Ann.", 
+            "Ann is deeply in love with Mark.", 
+            "Ann hates Mark."
+        ]
+    }, 
+    {
+        "content": "What characteristic is commonly attributed to King Solomon?", 
+        "correct_answer": 3, 
+        "answers": [
+            "Wealth", 
+            "Lust", 
+            "Hunger", 
+            "Wisdom"
+        ]
+    }, 
+    {
+        "content": "What message am I conveying, if I say I dont know him from Adam?", 
+        "correct_answer": 2, 
+        "answers": [
+            "I know very little about the person.", 
+            "In spite of the negative form, the idiom means that you know someone very well.", 
+            "The person is completely unknown to me.", 
+            "I dont know his true character."
+        ]
+    }, 
+    {
+        "content": "What does the phrase of biblical proportions mean?", 
+        "correct_answer": 0, 
+        "answers": [
+            "of a vast, enormous scale", 
+            "of little importance", 
+            "related to a flood", 
+            "very sinful in its nature"
+        ]
+    }, 
+    {
+        "content": "If John knows Mary in the biblical sense, what can we say about the pair?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Mary is Johns sister.", 
+            "They have had sex.", 
+            "Their parents decided about their marriage.", 
+            "They are in a Platonic relationship (ie. love, but no sex)."
+        ]
+    }, 
+    {
+        "content": "What Biblical character said the following?\nMy petition and my request is this:If the king regards me with favor and if it pleases the king to grant my petition and fulfill my request, let the king and Haman come tomorrow to the banquet  I will prepare for them. Then I will answer the kings question.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Esther", 
+            "Martha", 
+            "Ruth", 
+            "Deborah"
+        ]
+    }, 
+    {
+        "content": "The following words belong to this biblical figure:\nMay the day of my birth perish, and the night it was said,A boy is born! That day-may it turn to darkness; may the God above not care about it; may no light shine upon it.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Jesus", 
+            "John the Baptist", 
+            "Abraham", 
+            "Job"
+        ]
+    }, 
+    {
+        "content": "What Biblical hero delivered these words?\nOut of the eater, something to eat; out of the strong, something sweet.", 
+        "correct_answer": 0, 
+        "answers": [
+            "Samson", 
+            "Solomon", 
+            "David", 
+            "Samuel"
+        ]
+    }, 
+    {
+        "content": "What Biblical character asked the following question?", 
+        "correct_answer": 3, 
+        "answers": [
+            " I leading a rebellion, that you have come out with swords and clubs to capture me?", 
+            "Peter", 
+            "Jude", 
+            "Jesus", 
+            "Paul"
+        ]
+    }, 
+    {
+        "content": "What character from the Bible said the following? Get rid of that slave woman and her son, for that slave womans son will never share in the inheritance with my son Isaac.", 
+        "correct_answer": 1, 
+        "answers": [
+            "Ruth", 
+            "Sarah", 
+            "Leah", 
+            "Rebeccah"
+        ]
+    }, 
+    {
+        "content": "Who said the following: It is not the healthy who need a doctor, but the sick. But go and learn what this means: I desire mercy, not sacrifice. For I have not come to call the righteous, but sinners.", 
+        "correct_answer": 1, 
+        "answers": [
+            "John", 
+            "Jesus", 
+            "Joseph", 
+            "Matthew"
+        ]
+    }, 
+    {
+        "content": "What Biblical figure said this?\nI am now an old man and dont know the day of my death. Now then, get your weapons-your quiver and bow-and go out to the open country to hunt some wild game for me. Prepare me the kind of tasty food I like and bring it to me to eat, so that I may give you my  blessing before I die.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Jacob", 
+            "Esau", 
+            "Adam", 
+            "Issac"
+        ]
+    }, 
+    {
+        "content": "Name the Biblical character who delivered these words: Pick me up and throw me into the sea, and it will become calm, I know that is is my fault that this great storm has come upon you.", 
+        "correct_answer": 3, 
+        "answers": [
+            "Obadiah", 
+            "Micah", 
+            "Haggai", 
+            "Jonah"
+        ]
+    }, 
+    {
+        "content": "What character from the Bible said this?\nLord dont you care that my sister has left me to do the work by myself? Tell her to help me!", 
+        "correct_answer": 1, 
+        "answers": [
+            "Queen Vashti", 
+            "Martha", 
+            "Mary", 
+            "Queen Sheba"
+        ]
+    }, 
+    {
+        "content": "Who delivered these words: Suppose I go to the Israelites and say to them, The God of your fathers has sent me to you, and they ask me, \u00e2\u0080\u0098What is his name? Then what shall I tell them?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Joseph", 
+            "Jonah", 
+            "Moses", 
+            "Aaron"
+        ]
+    }, 
+    {
+        "content": "What is the symbol of the dhamma (dharma)?", 
+        "correct_answer": 1, 
+        "answers": [
+            "flag", 
+            "wheel", 
+            "chair", 
+            "flower"
+        ]
+    }, 
+    {
+        "content": "What Buddhist term refers to the cycle of reincarnation or rebirth?", 
+        "correct_answer": 1, 
+        "answers": [
+            "Dharma", 
+            "Samsara", 
+            "Naraka", 
+            "Asura"
+        ]
+    }, 
+    {
+        "content": "What does the word buddha mean?", 
+        "correct_answer": 3, 
+        "answers": [
+            "light", 
+            "the only one", 
+            "god", 
+            "awake"
+        ]
+    }, 
+    {
+        "content": "What is the path to happiness in Buddhism?", 
+        "correct_answer": 3, 
+        "answers": [
+            "ancient path", 
+            "path of freedom", 
+            "path of love", 
+            "middle way"
+        ]
+    }, 
+    {
+        "content": "According to Buddhism what are the3 evil roots/defilements that hide the truth from us?", 
+        "correct_answer": 3, 
+        "answers": [
+            "hatred, greed, selfishness", 
+            "delusion, confusion, anger", 
+            "delusion, hatred, jealousy", 
+            "delusion, hatred, greed"
+        ]
+    }, 
+    {
+        "content": "In Buddhism which of these beings inhabit Hells?", 
+        "correct_answer": 2, 
+        "answers": [
+            "Brahmas", 
+            "Preta", 
+            "Naraka beings", 
+            "Asuras"
+        ]
+    }, 
+    {
+        "content": "According to Buddhism, life is or leads to suffering in one way or another.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "It is generally accepted that the last words of the Buddha were: All component things are transient, work out your salvation with diligence.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }, 
+    {
+        "content": "Kamma is only one of the 5 natural laws that Buddha spoke about.", 
+        "correct_answer": 1, 
+        "answers": [
+            "False", 
+            "True"
+        ]
+    }, 
+    {
+        "content": "According to Buddhism there are realms of existences other than human and animal realm.", 
+        "correct_answer": 0, 
+        "answers": [
+            "True", 
+            "False"
+        ]
+    }
+]
