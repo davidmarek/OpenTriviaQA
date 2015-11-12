@@ -529,7 +529,7 @@
         ]
     }, 
     {
-        "content": "The word \u00e2\u0080\u009cpromiscuous\u00e2\u0080? is used in physical description to refer to someone with exclusive charm and sex appeal.", 
+        "content": "The word âpromiscuousâ? is used in physical description to refer to someone with exclusive charm and sex appeal.", 
         "correct_answer": 0, 
         "answers": [
             "False", 
@@ -1575,7 +1575,7 @@
         ]
     }, 
     {
-        "content": "There were two major clans of Norse gods - Vanir and \u0106sir.", 
+        "content": "There were two major clans of Norse gods - Vanir and Ćsir.", 
         "correct_answer": 1, 
         "answers": [
             "False", 
@@ -3339,7 +3339,7 @@
         ]
     }, 
     {
-        "content": "One of the best (some say he was the best ever) tango dancers was Jos\u0110\u013e Ovidio Bianquet. His story is as mysterious as tango itself and his nickname is one of the most legendary in the history of this great dance. What is it?", 
+        "content": "One of the best (some say he was the best ever) tango dancers was JosĐľ Ovidio Bianquet. His story is as mysterious as tango itself and his nickname is one of the most legendary in the history of this great dance. What is it?", 
         "correct_answer": 2, 
         "answers": [
             "Sin rumbo", 
@@ -4299,7 +4299,7 @@
         ]
     }, 
     {
-        "content": "The English word for the Spanish word coraz\u0102\u0142n is what?", 
+        "content": "The English word for the Spanish word corazĂłn is what?", 
         "correct_answer": 2, 
         "answers": [
             "corridor", 
@@ -4349,7 +4349,7 @@
         ]
     }, 
     {
-        "content": "What is the translation of the Spanish word mi\u0102\u0160rcoles in English?", 
+        "content": "What is the translation of the Spanish word miĂŠrcoles in English?", 
         "correct_answer": 0, 
         "answers": [
             "Wednesday", 
@@ -4573,7 +4573,7 @@
         ]
     }, 
     {
-        "content": "The goddess Anekantin was Isis\u00e2\u0080\u0099 sister and Anubis\u00e2\u0080\u0099 wife.", 
+        "content": "The goddess Anekantin was Isisâ sister and Anubisâ wife.", 
         "correct_answer": 1, 
         "answers": [
             "True", 
@@ -4795,7 +4795,7 @@
             "oeuf", 
             "quiche", 
             "jambon", 
-            "cr\u0102\u015epe"
+            "crĂŞpe"
         ]
     }, 
     {
@@ -4805,11 +4805,11 @@
             "fourchette", 
             "assiette", 
             "tasse", 
-            "cuill\u0102\u00a8re"
+            "cuillĂ¨re"
         ]
     }, 
     {
-        "content": "You\u00e2\u0080\u0099re in France and you want to tell someone that he has a nice tie. What is the word for \u00e2\u0080\u009ctie?\u00e2\u0080\u009d", 
+        "content": "Youâre in France and you want to tell someone that he has a nice tie. What is the word for âtie?â", 
         "correct_answer": 0, 
         "answers": [
             "cravate", 
@@ -4822,7 +4822,7 @@
         "content": "What is the French word for sea?", 
         "correct_answer": 3, 
         "answers": [
-            "ch\u0102\u02d8teau", 
+            "chĂ˘teau", 
             "montagne", 
             "maison", 
             "mer"
@@ -5676,10 +5676,10 @@
         "content": "The word gargantuan is an eponym derived from a character, depicted by this 16th century French author.", 
         "correct_answer": 3, 
         "answers": [
-            "Alexander Dumas, p\u0102\u00a8re", 
-            "Honor\u0102\u0160 de Balzac", 
+            "Alexander Dumas, pĂ¨re", 
+            "HonorĂŠ de Balzac", 
             "Victor Hugo", 
-            "Fran\u0102\u00a7ois Rabelais"
+            "FranĂ§ois Rabelais"
         ]
     }, 
     {
@@ -6879,7 +6879,7 @@
         ]
     }, 
     {
-        "content": "What does the Hebrew word \u00d7\u0096\u00d7\u0094\u00d7\u0091 (za-hav) translate to in English?", 
+        "content": "What does the Hebrew word ××× (za-hav) translate to in English?", 
         "correct_answer": 1, 
         "answers": [
             "food", 
@@ -6889,7 +6889,7 @@
         ]
     }, 
     {
-        "content": "What does the Danish word f\u0102\u00b8dselsdag mean in English? (foudgshlsdag)", 
+        "content": "What does the Danish word fĂ¸dselsdag mean in English? (foudgshlsdag)", 
         "correct_answer": 3, 
         "answers": [
             "February", 
@@ -6899,7 +6899,7 @@
         ]
     }, 
     {
-        "content": "What does the Czech phrase Dobr\u0102\u02dd den mean in English?", 
+        "content": "What does the Czech phrase DobrĂ˝ den mean in English?", 
         "correct_answer": 0, 
         "answers": [
             "Good Day/Hello", 
@@ -6909,7 +6909,7 @@
         ]
     }, 
     {
-        "content": "What is the English equivalent of the Russian phrase \u0110\u0094\u0110\u017e\u0110\u0105\u0143\u0080\u0110\u017e \u0110\u017c\u0110\u017e\u0110\u015b\u0110\u00b0\u0110\u0165\u0110\u017e\u0110\u02db\u0110\u00b0\u0143\u0082\u0143\u008c (Dobro po\u0139\u017ealovat)?", 
+        "content": "What is the English equivalent of the Russian phrase ĐĐžĐąŃĐž ĐżĐžĐśĐ°ĐťĐžĐ˛Đ°ŃŃ (Dobro poĹžalovat)?", 
         "correct_answer": 1, 
         "answers": [
             "Goodbye", 
@@ -6919,7 +6919,7 @@
         ]
     }, 
     {
-        "content": "What does the Greek word \u00ce\u0092\u00ce\u017c\u00ce\u017d\u00ce\u00b8\u00ce\u013e\u00ce\u0161\u00ce\u0105 (Vo\u0102\u00adthia) mean in English?", 
+        "content": "What does the Greek word ÎÎżÎŽÎ¸ÎľÎšÎą (VoĂ­thia) mean in English?", 
         "correct_answer": 2, 
         "answers": [
             "Goodbye", 
@@ -6939,7 +6939,7 @@
         ]
     }, 
     {
-        "content": "What does the Farsi phrase \u0158\u00b4\u0158\u00a8 \u0158\u00a8\u0158\u017d\u016e\u008a\u0158\u0105  (shab bekheyr) mean in English?", 
+        "content": "What does the Farsi phrase Ř´Ř¨ Ř¨ŘŽŮŘą  (shab bekheyr) mean in English?", 
         "correct_answer": 1, 
         "answers": [
             "Good Luck", 
@@ -6949,7 +6949,7 @@
         ]
     }, 
     {
-        "content": "What does the Hebrew phrase \u00d7\u009c\u00d7\u0094\u00d7\u015e\u00d7\u00a8\u00d7\u0090\u00d7\u0095\u00d7\u015e (le-hei-tra-ot) mean in English?", 
+        "content": "What does the Hebrew phrase ×××Ş×¨×××Ş (le-hei-tra-ot) mean in English?", 
         "correct_answer": 3, 
         "answers": [
             "Come Hither", 
@@ -7201,7 +7201,7 @@
         ]
     }, 
     {
-        "content": "Where does Edward Hoppers most famous painting, \u00e2\u0080\u009cNighthawks\u00e2\u0080\u009d, reside?", 
+        "content": "Where does Edward Hoppers most famous painting, âNighthawksâ, reside?", 
         "correct_answer": 2, 
         "answers": [
             "Museum of Modern Art in New York", 
@@ -7211,7 +7211,7 @@
         ]
     }, 
     {
-        "content": "What family member does the Spanish noun \u00e2\u0080\u0098abuela\u00e2\u0080\u0099 denote?", 
+        "content": "What family member does the Spanish noun âabuelaâ denote?", 
         "correct_answer": 1, 
         "answers": [
             "Sister", 
@@ -7231,7 +7231,7 @@
         ]
     }, 
     {
-        "content": "What is the meaning of the Spanish expression \u00e2\u0080\u0098tengo sed\u00e2\u0080\u0099?", 
+        "content": "What is the meaning of the Spanish expression âtengo sedâ?", 
         "correct_answer": 2, 
         "answers": [
             "I need to speak", 
@@ -7241,7 +7241,7 @@
         ]
     }, 
     {
-        "content": "What part of the human body does the Spanish word \u00e2\u0080\u0098dedo\u00e2\u0080\u0099 denote?", 
+        "content": "What part of the human body does the Spanish word âdedoâ denote?", 
         "correct_answer": 3, 
         "answers": [
             "Foot", 
@@ -7251,17 +7251,17 @@
         ]
     }, 
     {
-        "content": "What is the meaning of the Spanish phrase \u00e2\u0080\u0098Le invito a almorzar\u00e2\u0080\u0099?", 
+        "content": "What is the meaning of the Spanish phrase âLe invito a almorzarâ?", 
         "correct_answer": 2, 
         "answers": [
             "I was invited to a wedding", 
             "Life leads to death", 
-            "I\u00e2\u0080\u0099m inviting you to lunch", 
+            "Iâm inviting you to lunch", 
             "We are moving to a house"
         ]
     }, 
     {
-        "content": "What color does the Spanish word \u00e2\u0080\u0098verde\u00e2\u0080\u0099 denote?", 
+        "content": "What color does the Spanish word âverdeâ denote?", 
         "correct_answer": 3, 
         "answers": [
             "Brown", 
@@ -7271,7 +7271,7 @@
         ]
     }, 
     {
-        "content": "What is the meaning of the Spanish word \u00e2\u0080\u0098ordenador\u00e2\u0080\u0099?", 
+        "content": "What is the meaning of the Spanish word âordenadorâ?", 
         "correct_answer": 2, 
         "answers": [
             "Waiter", 
@@ -7281,7 +7281,7 @@
         ]
     }, 
     {
-        "content": "What does the Spanish expression \u00e2\u0080\u0098Me he perdido el bolso\u00e2\u0080\u0099 mean?", 
+        "content": "What does the Spanish expression âMe he perdido el bolsoâ mean?", 
         "correct_answer": 0, 
         "answers": [
             "I lost my bag", 
@@ -7291,7 +7291,7 @@
         ]
     }, 
     {
-        "content": "Which day of the week does the Spanish word \u00e2\u0080\u0098martes\u00e2\u0080\u0099 denote?", 
+        "content": "Which day of the week does the Spanish word âmartesâ denote?", 
         "correct_answer": 0, 
         "answers": [
             "Tuesday", 
@@ -7301,7 +7301,7 @@
         ]
     }, 
     {
-        "content": "What number does the Spanish word \u00e2\u0080\u0098cien\u00e2\u0080\u0099 denote?", 
+        "content": "What number does the Spanish word âcienâ denote?", 
         "correct_answer": 3, 
         "answers": [
             "Zero", 
@@ -7991,7 +7991,7 @@
         ]
     }, 
     {
-        "content": "What 1995 film, directed by Carlos Saura, features performances by Paco de Luc\u0102\u00ada, Joaqu\u0102\u00adn Cort\u0102\u0160s and Manolo Sanl\u0102\u015fcar?", 
+        "content": "What 1995 film, directed by Carlos Saura, features performances by Paco de LucĂ­a, JoaquĂ­n CortĂŠs and Manolo SanlĂşcar?", 
         "correct_answer": 3, 
         "answers": [
             "Carmen", 
@@ -8086,8 +8086,8 @@
         "answers": [
             "Camille Pissarro", 
             "Claude Monet", 
-            "\u0102\u0089douard Manet", 
-            "Paul C\u0102\u0160zanne"
+            "Ădouard Manet", 
+            "Paul CĂŠzanne"
         ]
     }, 
     {
@@ -8107,7 +8107,7 @@
             "Gustave Caillebotte", 
             "Berthe Morisot", 
             "Mary Cassatt", 
-            "Jean-L\u0102\u0160on G\u0102\u0160r\u0102\u00b4me"
+            "Jean-LĂŠon GĂŠrĂ´me"
         ]
     }, 
     {
@@ -8125,8 +8125,8 @@
         "correct_answer": 2, 
         "answers": [
             "Camille Pissarro", 
-            "\u0102\u0089douard Manet", 
-            "Fr\u0102\u0160d\u0102\u0160ric Bazille", 
+            "Ădouard Manet", 
+            "FrĂŠdĂŠric Bazille", 
             "Gustave Caillebotte"
         ]
     }, 
@@ -8144,10 +8144,10 @@
         "content": "In the late 19th century a group of impressionists, writers and art lovers centered around Edouard Manet, gathered at this site in Paris for discussions.", 
         "correct_answer": 2, 
         "answers": [
-            "Caf\u0102\u0160 Manet", 
-            "Caf\u0102\u0160 Royal", 
-            "Caf\u0102\u0160 Guerbois", 
-            "Caf\u0102\u0160 Soleil levant"
+            "CafĂŠ Manet", 
+            "CafĂŠ Royal", 
+            "CafĂŠ Guerbois", 
+            "CafĂŠ Soleil levant"
         ]
     }, 
     {
@@ -8156,8 +8156,8 @@
         "answers": [
             "Edgar Degas", 
             "Armand Guillaumin", 
-            "Paul C\u0102\u0160zanne", 
-            "Fr\u0102\u0160d\u0102\u0160ric Bazille"
+            "Paul CĂŠzanne", 
+            "FrĂŠdĂŠric Bazille"
         ]
     }, 
     {
@@ -8215,7 +8215,7 @@
         ]
     }, 
     {
-        "content": "Some legends state that Helen of Troy\u00e2\u0080\u0099s mother was Nemesis and she threw the egg from which Helen was born. Who did Helen share this egg with?", 
+        "content": "Some legends state that Helen of Troyâs mother was Nemesis and she threw the egg from which Helen was born. Who did Helen share this egg with?", 
         "correct_answer": 0, 
         "answers": [
             "Dioscuri", 
@@ -8445,17 +8445,17 @@
         ]
     }, 
     {
-        "content": "What is Salvador Dal\u0102\u00ads birth name?", 
+        "content": "What is Salvador DalĂ­s birth name?", 
         "correct_answer": 1, 
         "answers": [
-            "Francisco Salvador Jacinto Dal\u0102\u00ad i Dom\u0102\u00a8nech", 
-            "Salvador Domingo Felipe Jacinto Dal\u0102\u00ad i Dom\u0102\u00a8nech", 
-            "Silvester Pedro Anjel Domingo Dal\u0102\u00ad", 
-            "Dom\u0102\u00a8nech Salvador Maria Felipe Dal\u0102\u00ad"
+            "Francisco Salvador Jacinto DalĂ­ i DomĂ¨nech", 
+            "Salvador Domingo Felipe Jacinto DalĂ­ i DomĂ¨nech", 
+            "Silvester Pedro Anjel Domingo DalĂ­", 
+            "DomĂ¨nech Salvador Maria Felipe DalĂ­"
         ]
     }, 
     {
-        "content": "When was Salvador Dal\u0102\u00ad born?", 
+        "content": "When was Salvador DalĂ­ born?", 
         "correct_answer": 0, 
         "answers": [
             "May 11, 1904", 
@@ -9085,7 +9085,7 @@
         ]
     }, 
     {
-        "content": "Complete the Chinese proverb, \u00e2\u0080\u0098\u00e2\u0080\u015a must be chiseled before it can be considered a gem\u00e2\u0080\u0099.", 
+        "content": "Complete the Chinese proverb, ââŚ must be chiseled before it can be considered a gemâ.", 
         "correct_answer": 2, 
         "answers": [
             "Amethyst", 
@@ -9175,7 +9175,7 @@
         ]
     }, 
     {
-        "content": "The following sentence is written in what language:\nI tr\u0102\u00a4dg\u0102\u013drden l\u0102\u013dg ett gammalt hus, och i huset bodde Pippi L\u0102\u013dngstrump?", 
+        "content": "The following sentence is written in what language:\nI trĂ¤dgĂĽrden lĂĽg ett gammalt hus, och i huset bodde Pippi LĂĽngstrump?", 
         "correct_answer": 2, 
         "answers": [
             "Dutch", 
@@ -9185,7 +9185,7 @@
         ]
     }, 
     {
-        "content": "In what language is this line:\nMariachi me acompa\u0102\u0105a cuando canto mi canci\u0102\u0142n?", 
+        "content": "In what language is this line:\nMariachi me acompaĂąa cuando canto mi canciĂłn?", 
         "correct_answer": 2, 
         "answers": [
             "Swedish", 
@@ -9205,7 +9205,7 @@
         ]
     }, 
     {
-        "content": "In what language is the sentence:\nKalevala on inspiroinut monia kirjailijoita my\u0102\u015bs Suomen ulkopuolella?", 
+        "content": "In what language is the sentence:\nKalevala on inspiroinut monia kirjailijoita myĂśs Suomen ulkopuolella?", 
         "correct_answer": 1, 
         "answers": [
             "Hungarian", 
@@ -9715,7 +9715,7 @@
             "Hasta luege", 
             "Ahoj", 
             "Salve", 
-            "Cze\u0139\u009b\u00c4\u0087"
+            "CzeĹÄ"
         ]
     }, 
     {
@@ -9749,7 +9749,7 @@
         ]
     }, 
     {
-        "content": "You probably wouldnt be able to pronounce the word cze\u0139\u009b\u00c4\u0087, but try to guess in which language is it used as a greeting.", 
+        "content": "You probably wouldnt be able to pronounce the word czeĹÄ, but try to guess in which language is it used as a greeting.", 
         "correct_answer": 1, 
         "answers": [
             "Malay", 
@@ -9759,7 +9759,7 @@
         ]
     }, 
     {
-        "content": "In south Germany and Austria, Gr\u0102\u017a\u0102\u009f Gott is commonly used as a greeting. What does it literally mean?", 
+        "content": "In south Germany and Austria, GrĂźĂ Gott is commonly used as a greeting. What does it literally mean?", 
         "correct_answer": 3, 
         "answers": [
             "Good day", 
@@ -9993,7 +9993,7 @@
             "The Phantom of the Opera", 
             "Jesus Christ", 
             "Judas Iscariot", 
-            "Juan Per\u0102\u0142n"
+            "Juan PerĂłn"
         ]
     }, 
     {
@@ -10083,7 +10083,7 @@
             "Brittney Spears", 
             "Faith Hill", 
             "Amy Grant", 
-            "C\u0102\u00a8line Dion"
+            "CĂ¨line Dion"
         ]
     }, 
     {

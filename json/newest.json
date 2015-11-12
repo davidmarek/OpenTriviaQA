@@ -372,7 +372,7 @@
         ]
     }, 
     {
-        "content": "Magician\u00e2\u0080\u0099s assistants are _______________.", 
+        "content": "Magicianâs assistants are _______________.", 
         "correct_answer": 2, 
         "answers": [
             "insurance deficient", 
@@ -442,7 +442,7 @@
         ]
     }, 
     {
-        "content": "If I tell you I\u00e2\u0080\u0099m afraid of apple orchards, will you tell me to ______________?", 
+        "content": "If I tell you Iâm afraid of apple orchards, will you tell me to ______________?", 
         "correct_answer": 2, 
         "answers": [
             "grow a pair", 
@@ -528,7 +528,7 @@
             "a strange looking man in a clown suit pointing you to McDonalds", 
             "no lines because they are prohibited by law", 
             "a whole lot of Chinese checkers", 
-            "a big sign that says\t\u0107\u00ad\u0104\u010d\u017c\u008e  (welcome in Chinese traditional) or    \u0107\u0179\u02d8\u010d\u017c\u008e (in Chinese simplified)"
+            "a big sign that says\tć­Ąčż  (welcome in Chinese traditional) or    ćŹ˘čż (in Chinese simplified)"
         ]
     }, 
     {
@@ -582,7 +582,7 @@
         ]
     }, 
     {
-        "content": "If the Taiwanese director doesn\u00e2\u0080\u0099t win an Oscar, hell ________________.", 
+        "content": "If the Taiwanese director doesnât win an Oscar, hell ________________.", 
         "correct_answer": 2, 
         "answers": [
             "never direct another film", 
@@ -727,7 +727,7 @@
         "answers": [
             "The number of categories was reduced from twelve to seven.", 
             "It was the only occasion where there were no official nominees.", 
-            "Elliot Clawson was nominated for Best Writing of 3 pictures \u00e2\u0080\u0093 The Cop,The Leatherneck, Sal of Singapore.", 
+            "Elliot Clawson was nominated for Best Writing of 3 pictures â The Cop,The Leatherneck, Sal of Singapore.", 
             "It was the first ceremony for which the winners were not announced in advance."
         ]
     }, 
@@ -806,7 +806,7 @@
         "correct_answer": 3, 
         "answers": [
             "a traditional Indian dish", 
-            "the mathematical symbol \u010e\u0080", 
+            "the mathematical symbol Ď", 
             "a river in India", 
             "a swimming pool in France"
         ]
@@ -832,10 +832,10 @@
         ]
     }, 
     {
-        "content": "The 2012 Academy Award-winning musical drama Les Mis\u0102\u0160rables was based on a novel by this French author.", 
+        "content": "The 2012 Academy Award-winning musical drama Les MisĂŠrables was based on a novel by this French author.", 
         "correct_answer": 3, 
         "answers": [
-            "Honor\u0102\u0160 de Balzac", 
+            "HonorĂŠ de Balzac", 
             "Stendhal", 
             "Alexandre Dumas", 
             "Victor Hugo"
@@ -856,7 +856,7 @@
         "correct_answer": 0, 
         "answers": [
             "Adele", 
-            "Michael Bubl\u0102\u0160", 
+            "Michael BublĂŠ", 
             "Kelly Clarkson", 
             "Rihanna"
         ]
@@ -912,7 +912,7 @@
         ]
     }, 
     {
-        "content": "I\u00e2\u0080\u0099m Drunk and You\u00e2\u0080\u0099re a Prostitute is the Japanese title of this movie.", 
+        "content": "Iâm Drunk and Youâre a Prostitute is the Japanese title of this movie.", 
         "correct_answer": 3, 
         "answers": [
             "The Libertine", 
@@ -922,7 +922,7 @@
         ]
     }, 
     {
-        "content": "In the Philippines, they pull no punches with the title Because She\u00e2\u0080\u0099s Ugly. What is the original title of the movie?", 
+        "content": "In the Philippines, they pull no punches with the title Because Sheâs Ugly. What is the original title of the movie?", 
         "correct_answer": 1, 
         "answers": [
             "Ben  Arthur", 
@@ -997,7 +997,7 @@
         "answers": [
             "Music of the Heart", 
             "Nowhere Boy", 
-            "Mr. Holland\u00e2\u0080\u0099s Opus", 
+            "Mr. Hollandâs Opus", 
             "Music Within"
         ]
     }, 
@@ -1082,7 +1082,7 @@
         ]
     }, 
     {
-        "content": "What\u00e2\u0080\u0099s a real estate lawyer\u00e2\u0080\u0099s least favourite song?", 
+        "content": "Whatâs a real estate lawyerâs least favourite song?", 
         "correct_answer": 3, 
         "answers": [
             "Lean On Me", 
@@ -1092,7 +1092,7 @@
         ]
     }, 
     {
-        "content": "\u00e2\u0080\u009cIf there are no stupid questions, then what kind of questions do stupid people ask? Do they get smart just in time to ask questions?\u00e2\u0080\u009d Which comic book creator created this witty remark?", 
+        "content": "âIf there are no stupid questions, then what kind of questions do stupid people ask? Do they get smart just in time to ask questions?â Which comic book creator created this witty remark?", 
         "correct_answer": 2, 
         "answers": [
             "Will Eisner", 
@@ -1102,7 +1102,7 @@
         ]
     }, 
     {
-        "content": "\u00e2\u0080\u009cIf you simplify your English, you are freed from the worst follies of orthodoxy. You cannot speak any of the necessary dialects, and when you make a stupid remark its stupidity will be obvious, even to yourself.\u00e2\u0080\u009d Which novelist said this?", 
+        "content": "âIf you simplify your English, you are freed from the worst follies of orthodoxy. You cannot speak any of the necessary dialects, and when you make a stupid remark its stupidity will be obvious, even to yourself.â Which novelist said this?", 
         "correct_answer": 1, 
         "answers": [
             "F. Scott Fitzgerald", 
@@ -1112,7 +1112,7 @@
         ]
     }, 
     {
-        "content": "Which bozo made both of these quotes: \u00e2\u0080\u009cIf youre going to get mad at me everytime I do something stupid then I guess Ill have to stop doing stupid things!\u00e2\u0080\u009d and Stupid, eh? Yeah, Im stupid. Stupid like a fox!\u00e2\u0080\u009d.?", 
+        "content": "Which bozo made both of these quotes: âIf youre going to get mad at me everytime I do something stupid then I guess Ill have to stop doing stupid things!â and Stupid, eh? Yeah, Im stupid. Stupid like a fox!â.?", 
         "correct_answer": 3, 
         "answers": [
             "Peter Griffin from Family Guy", 
@@ -1122,7 +1122,7 @@
         ]
     }, 
     {
-        "content": "\u00e2\u0080\u009cCreating a cultural icon out of someone who goes, Im stupid, isnt it cute? makes me want to throw daggers. I want to say to them, My grandma did not fight for what she fought for just so you can start telling women its fun to be stupid. Saying that to young women, little girls, my daughter? Its not OK.\u00e2\u0080\u009d Which actress owns this one?", 
+        "content": "âCreating a cultural icon out of someone who goes, Im stupid, isnt it cute? makes me want to throw daggers. I want to say to them, My grandma did not fight for what she fought for just so you can start telling women its fun to be stupid. Saying that to young women, little girls, my daughter? Its not OK.â Which actress owns this one?", 
         "correct_answer": 2, 
         "answers": [
             "Jessica Simpson", 
@@ -1132,7 +1132,7 @@
         ]
     }, 
     {
-        "content": "\u00e2\u0080\u009cBeware your inner idiot. Success and stupidity dont mix. Your bosss stupidity is only half the problem. Your own stupidity can easily complete the disaster.\u00e2\u0080\u009d Which government official said this?", 
+        "content": "âBeware your inner idiot. Success and stupidity dont mix. Your bosss stupidity is only half the problem. Your own stupidity can easily complete the disaster.â Which government official said this?", 
         "correct_answer": 3, 
         "answers": [
             "Norman Thomas (US Socialist Presidential Candidate)", 
@@ -1142,7 +1142,7 @@
         ]
     }, 
     {
-        "content": "\u00e2\u0080\u009cI refuse to slap some stupid words on the stupid paper just so we have a stupid song finished.\u00e2\u0080\u009d Which singer/songwriter came up with the triple stupid?", 
+        "content": "âI refuse to slap some stupid words on the stupid paper just so we have a stupid song finished.â Which singer/songwriter came up with the triple stupid?", 
         "correct_answer": 2, 
         "answers": [
             "Nelly Furtado", 
@@ -1152,7 +1152,7 @@
         ]
     }, 
     {
-        "content": "Which comedian do you think came up with these remarks: \u00e2\u0080\u009cJust think of how stupid the average person is, and then realize half of them are even stupider!\u00e2\u0080\u009d and \u00e2\u0080\u009cThink of how stupid the average person is, and realize half of them are stupider than that.\u00e2\u0080\u009d.", 
+        "content": "Which comedian do you think came up with these remarks: âJust think of how stupid the average person is, and then realize half of them are even stupider!â and âThink of how stupid the average person is, and realize half of them are stupider than that.â.", 
         "correct_answer": 2, 
         "answers": [
             "Jeff Foxworthy", 
@@ -1162,7 +1162,7 @@
         ]
     }, 
     {
-        "content": "What philosopher said \u00e2\u0080\u009cMen are born ignorant, not stupid. They are made stupid by education.\u00e2\u0080\u009d?", 
+        "content": "What philosopher said âMen are born ignorant, not stupid. They are made stupid by education.â?", 
         "correct_answer": 1, 
         "answers": [
             "Henry David Thoreau", 
@@ -1172,7 +1172,7 @@
         ]
     }, 
     {
-        "content": "Who said, \u00e2\u0080\u009cSome people think having large breasts makes a woman stupid. Actually, its quite the opposite: A woman having large breasts makes men stupid.\u00e2\u0080\u009d?", 
+        "content": "Who said, âSome people think having large breasts makes a woman stupid. Actually, its quite the opposite: A woman having large breasts makes men stupid.â?", 
         "correct_answer": 1, 
         "answers": [
             "Rosie ODonnell", 
@@ -1182,7 +1182,7 @@
         ]
     }, 
     {
-        "content": "\u00e2\u0080\u009cI have many regrets, and Im sure everyone does. The stupid things you do, you regret\u00e2\u0080\u015a if you have any sense, and if you dont regret them, maybe youre stupid.\u00e2\u0080\u009d is a quote from this famous actress.", 
+        "content": "âI have many regrets, and Im sure everyone does. The stupid things you do, you regretâŚ if you have any sense, and if you dont regret them, maybe youre stupid.â is a quote from this famous actress.", 
         "correct_answer": 3, 
         "answers": [
             "Joanne Woodward", 
@@ -1192,17 +1192,17 @@
         ]
     }, 
     {
-        "content": "\u00e2\u0080\u009cConservatives are not necessarily stupid, but most stupid people are conservatives.\u00e2\u0080\u009d What political economist made this unflattering comment?", 
+        "content": "âConservatives are not necessarily stupid, but most stupid people are conservatives.â What political economist made this unflattering comment?", 
         "correct_answer": 2, 
         "answers": [
             "Donald L. Horowitz", 
             "Henry Kissinger", 
             "John Stuart Mill", 
-            "Niccol\u0102\u02db Machiavelli"
+            "NiccolĂ˛ Machiavelli"
         ]
     }, 
     {
-        "content": "This famous actress uttered the words: \u00e2\u0080\u009cIf I play a stupid girl, and ask a stupid question, Ive got to follow it through. What am I supposed to do, look intelligent?\u00e2\u0080\u009d", 
+        "content": "This famous actress uttered the words: âIf I play a stupid girl, and ask a stupid question, Ive got to follow it through. What am I supposed to do, look intelligent?â", 
         "correct_answer": 1, 
         "answers": [
             "Ursula Andress", 
@@ -1232,7 +1232,7 @@
         ]
     }, 
     {
-        "content": "This movie title is translated into German as Floppy Coppers Don\u00e2\u0080\u0099t Bite or Yellow Coppers Don\u00e2\u0080\u0099t Bite.", 
+        "content": "This movie title is translated into German as Floppy Coppers Donât Bite or Yellow Coppers Donât Bite.", 
         "correct_answer": 0, 
         "answers": [
             "Dragnet", 
@@ -1262,7 +1262,7 @@
         ]
     }, 
     {
-        "content": "I Think I\u00e2\u0080\u0099m Kicked by a Horse is the German title of this movie.", 
+        "content": "I Think Iâm Kicked by a Horse is the German title of this movie.", 
         "correct_answer": 1, 
         "answers": [
             "Under the Western Sun", 
@@ -1312,7 +1312,7 @@
         ]
     }, 
     {
-        "content": "Final Call \u00e2\u0080\u0093 When He Hangs Up She Has to Die is the German title of this movie.", 
+        "content": "Final Call â When He Hangs Up She Has to Die is the German title of this movie.", 
         "correct_answer": 1, 
         "answers": [
             "Dial M For Murder", 
@@ -1322,7 +1322,7 @@
         ]
     }, 
     {
-        "content": "Good Vibrations \u00e2\u0080\u0093 Sex From Another World is the German title of this movie.", 
+        "content": "Good Vibrations â Sex From Another World is the German title of this movie.", 
         "correct_answer": 0, 
         "answers": [
             "What Planet Are You From?", 
@@ -1332,7 +1332,7 @@
         ]
     }, 
     {
-        "content": "In Germany this movie is titled Cuckoo while in Japan it is called 17-Year Old Girl\u00e2\u0080\u0099s Medical Chart.", 
+        "content": "In Germany this movie is titled Cuckoo while in Japan it is called 17-Year Old Girlâs Medical Chart.", 
         "correct_answer": 3, 
         "answers": [
             "Exit Strategy", 
@@ -1660,7 +1660,7 @@
         ]
     }, 
     {
-        "content": "In China this movie was called He\u00e2\u0080\u0099s A Ghost!and in Hong Kong or Macao its called Ghost Eyes.", 
+        "content": "In China this movie was called Heâs A Ghost!and in Hong Kong or Macao its called Ghost Eyes.", 
         "correct_answer": 2, 
         "answers": [
             "The Eclipse", 
@@ -2320,7 +2320,7 @@
         ]
     }, 
     {
-        "content": "Cowboys don\u00e2\u0080\u0099t roll joints. (Whats the next sentence?)", 
+        "content": "Cowboys donât roll joints. (Whats the next sentence?)", 
         "correct_answer": 0, 
         "answers": [
             "They tumble weed.", 
@@ -2420,7 +2420,7 @@
         ]
     }, 
     {
-        "content": "In Latin, the word for apple (m\u00c4\u0081lum) is nearly identical to a word that means which of the following?", 
+        "content": "In Latin, the word for apple (mÄlum) is nearly identical to a word that means which of the following?", 
         "correct_answer": 2, 
         "answers": [
             "seduction", 
@@ -2714,7 +2714,7 @@
         "correct_answer": 1, 
         "answers": [
             "Music of the Heart", 
-            "Mr Holland\u00e2\u0080\u0099s Opus", 
+            "Mr Hollandâs Opus", 
             "Larry Crowne", 
             "The Great Debaters"
         ]
@@ -3474,33 +3474,33 @@
         "correct_answer": 3, 
         "answers": [
             "Rosalie", 
-            "Annabelle\u00e2\u0080\u0099s Affairs", 
+            "Annabelleâs Affairs", 
             "One Hour With You", 
             "Maytime"
         ]
     }, 
     {
-        "content": "This 1938 film, starring Jeanette MacDonald and Nelson Eddy, was shot in sepia. It featured songs by Sigmund Romberg and Gus Kahn, including \u00e2\u0080\u009cSoldiers of Fortune\u00e2\u0080\u009d and \u00e2\u0080\u009cShadows on the Moon. Other cast members included Walter Pigeon, Leo Carrillo (Pancho) and Buddy Ebsen.", 
+        "content": "This 1938 film, starring Jeanette MacDonald and Nelson Eddy, was shot in sepia. It featured songs by Sigmund Romberg and Gus Kahn, including âSoldiers of Fortuneâ and âShadows on the Moon. Other cast members included Walter Pigeon, Leo Carrillo (Pancho) and Buddy Ebsen.", 
         "correct_answer": 2, 
         "answers": [
             "Balalaika", 
-            "Don\u00e2\u0080\u0099t Bet on Women", 
+            "Donât Bet on Women", 
             "Girl of the Golden West", 
             "The Lottery Bride"
         ]
     }, 
     {
-        "content": "This 1938 movie, based on a Victor Herbert operetta, stars Jeanette MacDonald and Nelson Eddy. It won an honorary Oscar for color cinematography. Songs included \u00e2\u0080\u009cSummer Serenade\u00e2\u0080\u009d, \u00e2\u0080\u009cOn Parade\u00e2\u0080\u009d and \u00e2\u0080\u009cLittle Grey Home in the West\u00e2\u0080\u009d. Frank Morgan and Ray Bolger (both from the Wizard of Oz) also starred. The title of song is the title of the movie.", 
+        "content": "This 1938 movie, based on a Victor Herbert operetta, stars Jeanette MacDonald and Nelson Eddy. It won an honorary Oscar for color cinematography. Songs included âSummer Serenadeâ, âOn Paradeâ and âLittle Grey Home in the Westâ. Frank Morgan and Ray Bolger (both from the Wizard of Oz) also starred. The title of song is the title of the movie.", 
         "correct_answer": 1, 
         "answers": [
-            "Let\u00e2\u0080\u0099s Go Native", 
+            "Letâs Go Native", 
             "Sweethearts", 
             "The Vagabond King", 
             "Cairo"
         ]
     }, 
     {
-        "content": "This Jeanette MacDonald and Nelson Eddy 1940 film was based on a Noel Coward play and directed by W.S. Van Dyke II. The score included songs such as \u00e2\u0080\u009cZiguener\u00e2\u0080\u009d, \u00e2\u0080\u009cIf You Could Only Come With Me\u00e2\u0080\u009d and \u00e2\u0080\u009cKiss Me\u00e2\u0080\u009d. The cast included George Sanders who won an Oscar for Supporting Role in All About Eve.", 
+        "content": "This Jeanette MacDonald and Nelson Eddy 1940 film was based on a Noel Coward play and directed by W.S. Van Dyke II. The score included songs such as âZiguenerâ, âIf You Could Only Come With Meâ and âKiss Meâ. The cast included George Sanders who won an Oscar for Supporting Role in All About Eve.", 
         "correct_answer": 1, 
         "answers": [
             "Monte Carlo", 
@@ -3593,7 +3593,7 @@
         "content": "A small boy swallowed some coins and was taken to a hospital. When his grandmother telephoned to ask how he was, a nurse said, ________.", 
         "correct_answer": 0, 
         "answers": [
-            "\u00e2\u0080\u009cNo change yet.\u00e2\u0080\u009d", 
+            "âNo change yet.â", 
             "hes already been discharged", 
             "what boy?", 
             "hes still looking for the toilet"
@@ -3650,10 +3650,10 @@
         ]
     }, 
     {
-        "content": "A three-legged dog walked into a saloon in the Old West. He sidled up to the bar and announced, \u00e2\u0080\u009cIm looking for the man ____________.", 
+        "content": "A three-legged dog walked into a saloon in the Old West. He sidled up to the bar and announced, âIm looking for the man ____________.", 
         "correct_answer": 0, 
         "answers": [
-            "who shot my paw.\u00e2\u0080\u009d", 
+            "who shot my paw.â", 
             "who shot my papa.", 
             "who left me home alone.", 
             "who shot my maw."
@@ -3820,7 +3820,7 @@
         ]
     }, 
     {
-        "content": "Two hats were hanging on a hat rack in the hallway. One hat said to the other, \u00e2\u0080\u009cYou stay here, _________.", 
+        "content": "Two hats were hanging on a hat rack in the hallway. One hat said to the other, âYou stay here, _________.", 
         "correct_answer": 3, 
         "answers": [
             "and dont feel left out", 
@@ -3870,7 +3870,7 @@
         ]
     }, 
     {
-        "content": "Swiss dramatist and author Friedrich D\u0102\u017arrenmatt  wrote two mystery novels featuring this Inspector of Police in Bern.", 
+        "content": "Swiss dramatist and author Friedrich DĂźrrenmatt  wrote two mystery novels featuring this Inspector of Police in Bern.", 
         "correct_answer": 1, 
         "answers": [
             "Inspector Godel", 
@@ -3936,7 +3936,7 @@
             "Josef Skvorecky and Lieutenant Boruvka", 
             "Petros Markaris and Inspector Costas Haritos", 
             "Stieg Larsson and Harry Hole", 
-            "Manuel V\u0102\u0104zquez Montalb\u0102\u0104n and Pepe Carvalho"
+            "Manuel VĂĄzquez MontalbĂĄn and Pepe Carvalho"
         ]
     }, 
     {
@@ -3944,7 +3944,7 @@
         "correct_answer": 0, 
         "answers": [
             "All these", 
-            "Fred Vargas is the pen-name of the (female) historian Fr\u0102\u0160d\u0102\u0160rique Audoin-Rouzeau.", 
+            "Fred Vargas is the pen-name of the (female) historian FrĂŠdĂŠrique Audoin-Rouzeau.", 
             "The character Commissaire Jean-Baptiste Adamsberg appears in several of Vargas novels.", 
             "Vargas has had a successful career as an archaeologist."
         ]
@@ -4010,7 +4010,7 @@
         ]
     }, 
     {
-        "content": "A sign on the lawn at a drug rehab center said: \u00e2\u0080\u009cKeep off the ______ .\u00e2\u0080\u009d", 
+        "content": "A sign on the lawn at a drug rehab center said: âKeep off the ______ .â", 
         "correct_answer": 3, 
         "answers": [
             "Bushes", 
@@ -4030,7 +4030,7 @@
         ]
     }, 
     {
-        "content": "A girl phoned me and said, \u00e2\u0080\u009cCome on over, theres nobody home.\u00e2\u0080\u009d I went over. Pick the next sentence.", 
+        "content": "A girl phoned me and said, âCome on over, theres nobody home.â I went over. Pick the next sentence.", 
         "correct_answer": 1, 
         "answers": [
             "Forgot my pants.", 
@@ -4218,7 +4218,7 @@
         ]
     }, 
     {
-        "content": "A Useless Person is is the English translation of this soap operas title. Characters include Mirando Zapata (the actor who played him won 2 awards), Francisco Mart\u0102\u00adnez, Gabo Gaviria and, Liliana. Can you name the country that produced it?", 
+        "content": "A Useless Person is is the English translation of this soap operas title. Characters include Mirando Zapata (the actor who played him won 2 awards), Francisco MartĂ­nez, Gabo Gaviria and, Liliana. Can you name the country that produced it?", 
         "correct_answer": 1, 
         "answers": [
             "Bolivia", 
@@ -4228,7 +4228,7 @@
         ]
     }, 
     {
-        "content": "The soap opera \u0102\u0095nne 13 was originally aired in 1993. Characters include Mare Peterson, Alma Saarepera, Kristan Rosenkampf-J\u0102\u00a4gerfreund and, Jaanus Peterson. Which country claims it?", 
+        "content": "The soap opera Ănne 13 was originally aired in 1993. Characters include Mare Peterson, Alma Saarepera, Kristan Rosenkampf-JĂ¤gerfreund and, Jaanus Peterson. Which country claims it?", 
         "correct_answer": 3, 
         "answers": [
             "Lithuania", 
@@ -4271,7 +4271,7 @@
         "content": "This Irish singer-songwriter rose to fame with her debut album The Lion and the Cobra. In 1992, she infamously tore a photo into pieces, saying Fight the real enemy.", 
         "correct_answer": 2, 
         "answers": [
-            "Dolores O\u00e2\u0080\u0099Riordan", 
+            "Dolores OâRiordan", 
             "Gemma Hayes", 
             "Sinead OConnor", 
             "Enya"
@@ -4351,7 +4351,7 @@
         "content": "What military conflict is depicted in Stephen Cranes novel The Red Badge of Courage?", 
         "correct_answer": 2, 
         "answers": [
-            "the Mexican\u00e2\u0080\u0093American War", 
+            "the MexicanâAmerican War", 
             "the Vietnam War", 
             "the American Civil War", 
             "the War of Independence"
@@ -4443,7 +4443,7 @@
         "answers": [
             "Tai-Pan", 
             "King Rat", 
-            "Sh\u0139\u008dgun", 
+            "ShĹgun", 
             "Noble House"
         ]
     }, 
@@ -4478,7 +4478,7 @@
         ]
     }, 
     {
-        "content": "This author, who won the Nobel Prize for Literature and the Pulitzer Prize for his novel The Reivers, dropped out of school at age 15 to work in his grandfather\u00e2\u0080\u0099s bank.", 
+        "content": "This author, who won the Nobel Prize for Literature and the Pulitzer Prize for his novel The Reivers, dropped out of school at age 15 to work in his grandfatherâs bank.", 
         "correct_answer": 2, 
         "answers": [
             "F. Scott Fitzgerald", 
@@ -5127,7 +5127,7 @@
         "content": "What 2010 action thriller, starring Denzel Washington and Chris Pine, was the last movie directed by Tony Scott?", 
         "correct_answer": 2, 
         "answers": [
-            "D\u0102\u0160j\u0102\u00a0 Vu", 
+            "DĂŠjĂ  Vu", 
             "The Taking of Pelham 123", 
             "Unstoppable", 
             "The Fan"
@@ -5154,13 +5154,13 @@
         ]
     }, 
     {
-        "content": "When this historical figure married the Duke of Orl\u0102\u0160ans (Henry II of France) in 1533, she brought with her to France some Italian chefs who had recipes for flavoured ices or sorbets.", 
+        "content": "When this historical figure married the Duke of OrlĂŠans (Henry II of France) in 1533, she brought with her to France some Italian chefs who had recipes for flavoured ices or sorbets.", 
         "correct_answer": 2, 
         "answers": [
             "Margaret of Valois", 
             "Marie Antoinette", 
             "Catherine de Medici", 
-            "Marie de M\u0102\u0160dici"
+            "Marie de MĂŠdici"
         ]
     }, 
     {
@@ -5359,7 +5359,7 @@
         "answers": [
             "Wolfgang Amadeus Mozart", 
             "Johann Strauss II", 
-            "Fr\u0102\u0160d\u0102\u0160ric Chopin", 
+            "FrĂŠdĂŠric Chopin", 
             "Johannes Brahms"
         ]
     }, 
@@ -5519,7 +5519,7 @@
         "answers": [
             "Vietnam War", 
             "American Civil War", 
-            "Mexican\u00e2\u0080\u0093American War", 
+            "MexicanâAmerican War", 
             "American Revolutionary War"
         ]
     }, 
@@ -6523,7 +6523,7 @@
         "answers": [
             "dArtagnan", 
             "La Mole", 
-            "Edmond Dant\u0102\u00a8s", 
+            "Edmond DantĂ¨s", 
             "Porthos"
         ]
     }, 
@@ -6578,13 +6578,13 @@
         ]
     }, 
     {
-        "content": "In this novel by Honor\u0102\u0160 de Balzac, a criminal-in-hiding named Vautrin tells naive law student Eug\u0102\u00a8ne de Rastignac that he is making him an offer that he cannot refuse.", 
+        "content": "In this novel by HonorĂŠ de Balzac, a criminal-in-hiding named Vautrin tells naive law student EugĂ¨ne de Rastignac that he is making him an offer that he cannot refuse.", 
         "correct_answer": 3, 
         "answers": [
             "Madame Bovary", 
             "Gargantua and Pantagruel", 
             "The Man Who Laughs", 
-            "Le P\u0102\u00a8re Goriot (Old Goriot)"
+            "Le PĂ¨re Goriot (Old Goriot)"
         ]
     }, 
     {
@@ -7280,7 +7280,7 @@
         ]
     }, 
     {
-        "content": "Even before his accession to the throne, this King of England was known as C\u0139\u0093ur de Lion or The Lionheart because of his reputation as a great military leader and warrior.", 
+        "content": "Even before his accession to the throne, this King of England was known as CĹur de Lion or The Lionheart because of his reputation as a great military leader and warrior.", 
         "correct_answer": 1, 
         "answers": [
             "Richard III", 
@@ -7470,7 +7470,7 @@
         ]
     }, 
     {
-        "content": "\u0110\u02d8his product mascot has been around since 1958 and its name is Cornelius. Name the product.", 
+        "content": "Đ˘his product mascot has been around since 1958 and its name is Cornelius. Name the product.", 
         "correct_answer": 2, 
         "answers": [
             "Honey Nut Cheerios", 
@@ -7530,7 +7530,7 @@
         ]
     }, 
     {
-        "content": "Dolmabah\u0102\u00a7e Palace is located in the Asian part of Istanbul.", 
+        "content": "DolmabahĂ§e Palace is located in the Asian part of Istanbul.", 
         "correct_answer": 0, 
         "answers": [
             "False", 
@@ -7538,7 +7538,7 @@
         ]
     }, 
     {
-        "content": "Dolmabah\u0102\u00a7e palace served as the main administrative center of the Ottoman Empire until 1856.", 
+        "content": "DolmabahĂ§e palace served as the main administrative center of the Ottoman Empire until 1856.", 
         "correct_answer": 1, 
         "answers": [
             "True", 
@@ -7546,17 +7546,17 @@
         ]
     }, 
     {
-        "content": "Who ordered the construction of Dolmabah\u0102\u00a7e Palace?", 
+        "content": "Who ordered the construction of DolmabahĂ§e Palace?", 
         "correct_answer": 3, 
         "answers": [
             "Garabet Balyan", 
-            "Nigo\u00c4\u009fayos Balyan", 
-            "Hac\u00c4\u0105 Said A\u00c4\u009fa", 
-            "Abd\u0102\u017almecid I"
+            "NigoÄayos Balyan", 
+            "HacÄą Said AÄa", 
+            "AbdĂźlmecid I"
         ]
     }, 
     {
-        "content": "Dolmabah\u0102\u00a7e means royal garden.", 
+        "content": "DolmabahĂ§e means royal garden.", 
         "correct_answer": 1, 
         "answers": [
             "True", 
@@ -7564,7 +7564,7 @@
         ]
     }, 
     {
-        "content": "Dolmabah\u0102\u00a7e Palace has elements from what architectural style?", 
+        "content": "DolmabahĂ§e Palace has elements from what architectural style?", 
         "correct_answer": 0, 
         "answers": [
             "All of these", 
@@ -7574,7 +7574,7 @@
         ]
     }, 
     {
-        "content": "Mustafa Kemal Atat\u0102\u017ark, the founder and first President of the Republic of Turkey, lived in Dolmabah\u0102\u00a7e Palace.", 
+        "content": "Mustafa Kemal AtatĂźrk, the founder and first President of the Republic of Turkey, lived in DolmabahĂ§e Palace.", 
         "correct_answer": 1, 
         "answers": [
             "False", 
@@ -7582,7 +7582,7 @@
         ]
     }, 
     {
-        "content": "What is the shape of the famous Crystal Staircase in Dolmabah\u0102\u00a7e Palace?", 
+        "content": "What is the shape of the famous Crystal Staircase in DolmabahĂ§e Palace?", 
         "correct_answer": 2, 
         "answers": [
             "anchor", 
@@ -7592,7 +7592,7 @@
         ]
     }, 
     {
-        "content": "The enormous Bohemian crystal chandelier, which is in the center hall of Dolmabah\u0102\u00a7e Palace, was a gift from Queen Elizabeth I of England.", 
+        "content": "The enormous Bohemian crystal chandelier, which is in the center hall of DolmabahĂ§e Palace, was a gift from Queen Elizabeth I of England.", 
         "correct_answer": 0, 
         "answers": [
             "False", 
@@ -7600,7 +7600,7 @@
         ]
     }, 
     {
-        "content": "Dolmabah\u0102\u00a7e Palace was home to six Sultans.", 
+        "content": "DolmabahĂ§e Palace was home to six Sultans.", 
         "correct_answer": 1, 
         "answers": [
             "False", 
@@ -7608,7 +7608,7 @@
         ]
     }, 
     {
-        "content": "Dolmabah\u0102\u00a7e Palace contains over 250 rooms.", 
+        "content": "DolmabahĂ§e Palace contains over 250 rooms.", 
         "correct_answer": 1, 
         "answers": [
             "False", 
@@ -7972,7 +7972,7 @@
         ]
     }, 
     {
-        "content": "In what country is Carr\u0102\u0160 Otiss character, Emily, when she awakens in her room and finds a bouquet of wild orchids?", 
+        "content": "In what country is CarrĂŠ Otiss character, Emily, when she awakens in her room and finds a bouquet of wild orchids?", 
         "correct_answer": 1, 
         "answers": [
             "Argentina", 
@@ -7992,7 +7992,7 @@
         ]
     }, 
     {
-        "content": "\u00e2\u0080\u009cWhere do you want me to put the third rose?\u00e2\u0080\u009d is a memorable quote from 2007 fantasy drama film Youth Without Youth. Name its director.", 
+        "content": "âWhere do you want me to put the third rose?â is a memorable quote from 2007 fantasy drama film Youth Without Youth. Name its director.", 
         "correct_answer": 3, 
         "answers": [
             "George Clooney", 
@@ -8242,7 +8242,7 @@
         ]
     }, 
     {
-        "content": "What is the meaning of the Greek word th\u0102\u0160atron from which the word theatre is derived?", 
+        "content": "What is the meaning of the Greek word thĂŠatron from which the word theatre is derived?", 
         "correct_answer": 2, 
         "answers": [
             "a place for acting", 
@@ -8604,7 +8604,7 @@
         ]
     }, 
     {
-        "content": "The first written version of the Don Juan legend was penned by Moli\u0102\u00a8re.", 
+        "content": "The first written version of the Don Juan legend was penned by MoliĂ¨re.", 
         "correct_answer": 0, 
         "answers": [
             "False", 
@@ -9956,7 +9956,7 @@
         ]
     }, 
     {
-        "content": "What popular author made this statement about religion: Man is a Religious Animal. He is the only Religious Animal. He is the only animal that has the True Religion\u00e2\u0080\u0094several of them. He is the only animal that loves his neighbor as himself and cuts his throat if his theology isn\u00e2\u0080\u0099t straight.?", 
+        "content": "What popular author made this statement about religion: Man is a Religious Animal. He is the only Religious Animal. He is the only animal that has the True Religionâseveral of them. He is the only animal that loves his neighbor as himself and cuts his throat if his theology isnât straight.?", 
         "correct_answer": 3, 
         "answers": [
             "John Steinbeck", 
@@ -10050,7 +10050,7 @@
         ]
     }, 
     {
-        "content": "Known as Old Rough and Ready, he was elected president of the US partly because he gained fame by victories over the Mexicans in northern Mexico during the Mexican\u00e2\u0080\u0093American War.", 
+        "content": "Known as Old Rough and Ready, he was elected president of the US partly because he gained fame by victories over the Mexicans in northern Mexico during the MexicanâAmerican War.", 
         "correct_answer": 1, 
         "answers": [
             "Franklin Pierce", 
@@ -10100,7 +10100,7 @@
         ]
     }, 
     {
-        "content": "The capture of this city in the Mexican\u00e2\u0080\u0093American War was the final American victory that caused the Mexicans to surrender.", 
+        "content": "The capture of this city in the MexicanâAmerican War was the final American victory that caused the Mexicans to surrender.", 
         "correct_answer": 2, 
         "answers": [
             "Santa Cruz", 
@@ -10134,7 +10134,7 @@
         "correct_answer": 2, 
         "answers": [
             "Adult dolphins teach their young.", 
-            "They have a \u00e2\u0080\u009cdictionary\u00e2\u0080\u009d of 14 000 audio sounds.", 
+            "They have a âdictionaryâ of 14 000 audio sounds.", 
             "All of these", 
             "The brain of an adult dolphin weighs about 1700 grams."
         ]
@@ -10483,14 +10483,14 @@
         "content": "In early 2001 she began a three-year relationship with actor Tom Cruise, soon before he and  Nicole Kidman split up.", 
         "correct_answer": 0, 
         "answers": [
-            "Pen\u0102\u0160lope Cruz", 
+            "PenĂŠlope Cruz", 
             "Uma Thurman", 
             "Elizabeth Hurley", 
             "Lindsay Lohan"
         ]
     }, 
     {
-        "content": "This actress broke two ribs while filming a scene in which she falls on the wedding cake in the movie \u00e2\u0080\u009cDesperate Housewives\u00e2\u0080\u009d.", 
+        "content": "This actress broke two ribs while filming a scene in which she falls on the wedding cake in the movie âDesperate Housewivesâ.", 
         "correct_answer": 2, 
         "answers": [
             "Nicole Kidman", 
@@ -10536,7 +10536,7 @@
             "Anna Friel", 
             "Kate Winslet", 
             "Elizabeth Hurley", 
-            "Catherine Zeta \u00e2\u0080\u0093 Jones"
+            "Catherine Zeta â Jones"
         ]
     }, 
     {
@@ -10560,13 +10560,13 @@
         "correct_answer": 0, 
         "answers": [
             "Eva Longoria", 
-            "Silvia Mars\u0102\u0142", 
+            "Silvia MarsĂł", 
             "Salma Hayak", 
             "Penelope Cruz"
         ]
     }, 
     {
-        "content": "What year did Ren\u0102\u0160e Zellweger receive an Academy Award nomination for Bridget Jones\u00e2\u0080\u0099s Diary?", 
+        "content": "What year did RenĂŠe Zellweger receive an Academy Award nomination for Bridget Jonesâs Diary?", 
         "correct_answer": 1, 
         "answers": [
             "2009", 
@@ -10712,7 +10712,7 @@
         ]
     }, 
     {
-        "content": "His three great works, \u00e2\u0080\u009cLa Boheme\u00e2\u0080\u009d, \u00e2\u0080\u009cMadam Butterfly\u00e2\u0080\u009d and \u00e2\u0080\u009cTurandot\u00e2\u0080\u009d, became standard for writing for  many generations of composers.", 
+        "content": "His three great works, âLa Bohemeâ, âMadam Butterflyâ and âTurandotâ, became standard for writing for  many generations of composers.", 
         "correct_answer": 0, 
         "answers": [
             "Puccini", 
@@ -11030,7 +11030,7 @@
         ]
     }, 
     {
-        "content": "Sophia Loren is the author of the books \u00e2\u0080\u009cLiving and Loving\u00e2\u0080\u009d and \u00e2\u0080\u009cWomen  Beauty\u00e2\u0080\u009d.", 
+        "content": "Sophia Loren is the author of the books âLiving and Lovingâ and âWomen  Beautyâ.", 
         "correct_answer": 1, 
         "answers": [
             "False", 
@@ -11058,7 +11058,7 @@
         ]
     }, 
     {
-        "content": "What language does Sophia Loren speak in the movies \u00e2\u0080\u009cMillionaire\u00e2\u0080\u009d and \u00e2\u0080\u009cThe Fall of the Roman Empire\u00e2\u0080\u009d?", 
+        "content": "What language does Sophia Loren speak in the movies âMillionaireâ and âThe Fall of the Roman Empireâ?", 
         "correct_answer": 0, 
         "answers": [
             "English", 
@@ -11098,7 +11098,7 @@
         ]
     }, 
     {
-        "content": "The worlds oldest zoo is in the imperial palace complex at Sch\u0102\u015bnbrunn, Vienna.", 
+        "content": "The worlds oldest zoo is in the imperial palace complex at SchĂśnbrunn, Vienna.", 
         "correct_answer": 1, 
         "answers": [
             "False", 
@@ -11426,7 +11426,7 @@
             "Scarlett Johansson", 
             "Nicole Kidman", 
             "Gwyneth Paltrow", 
-            "Ren\u0102\u0160e Zellweger"
+            "RenĂŠe Zellweger"
         ]
     }, 
     {
@@ -11536,7 +11536,7 @@
         ]
     }, 
     {
-        "content": "Saint Clotilde (475\u00e2\u0080\u0093545) was married the Merovingian Clovis, King of the Franks.", 
+        "content": "Saint Clotilde (475â545) was married the Merovingian Clovis, King of the Franks.", 
         "correct_answer": 0, 
         "answers": [
             "True", 
@@ -11547,9 +11547,9 @@
         "content": "Dagobert was the eldest son of Chlothar II and Haldetrude and also", 
         "correct_answer": 3, 
         "answers": [
-            "King of all the Franks (629\u00e2\u0080\u0093634)", 
-            "King of Neustria and Burgundy (629\u00e2\u0080\u0093639)", 
-            "King of Austrasia (623\u00e2\u0080\u0093634)", 
+            "King of all the Franks (629â634)", 
+            "King of Neustria and Burgundy (629â639)", 
+            "King of Austrasia (623â634)", 
             "All of these"
         ]
     }, 
@@ -11764,7 +11764,7 @@
         ]
     }, 
     {
-        "content": "Which Dalai Lama was supported by G\u0102\u017ashi Khanand in the unification of Tibet?", 
+        "content": "Which Dalai Lama was supported by GĂźshi Khanand in the unification of Tibet?", 
         "correct_answer": 0, 
         "answers": [
             "The fifth", 
@@ -12402,7 +12402,7 @@
         ]
     }, 
     {
-        "content": "What classic musical comedy, directed by Howard Hawks, features Marilyn Monroes signature rendition of the song \u00e2\u0080\u009cDiamonds Are a Girl\u00e2\u0080\u0099s Best Friend\u00e2\u0080\u009d?", 
+        "content": "What classic musical comedy, directed by Howard Hawks, features Marilyn Monroes signature rendition of the song âDiamonds Are a Girlâs Best Friendâ?", 
         "correct_answer": 1, 
         "answers": [
             "The Prince and the Showgirl", 
@@ -12786,7 +12786,7 @@
         ]
     }, 
     {
-        "content": "Who wrote the notable works Crime and Punishment\u00e2\u0080\u009d, The Idiot\u00e2\u0080\u009d and The Brothers Karamazov\u00e2\u0080\u009d?", 
+        "content": "Who wrote the notable works Crime and Punishmentâ, The Idiotâ and The Brothers Karamazovâ?", 
         "correct_answer": 3, 
         "answers": [
             "Anton Chekhov", 
@@ -13180,7 +13180,7 @@
         ]
     }, 
     {
-        "content": "The name Cleopatra is of Greek origin and means Father\u00e2\u0080\u0099s glory\u00e2\u0080\u009d.", 
+        "content": "The name Cleopatra is of Greek origin and means Fatherâs gloryâ.", 
         "correct_answer": 0, 
         "answers": [
             "True", 
@@ -13606,7 +13606,7 @@
         ]
     }, 
     {
-        "content": "The word diamond is derived from the Greek word ad\u0102\u0104mas which means precious.", 
+        "content": "The word diamond is derived from the Greek word adĂĄmas which means precious.", 
         "correct_answer": 0, 
         "answers": [
             "True", 
@@ -14039,7 +14039,7 @@
         "answers": [
             "None of these", 
             "Dancing instructor", 
-            "\u0110\u009casseur", 
+            "Đasseur", 
             "Physiotherapist"
         ]
     }, 
@@ -15128,7 +15128,7 @@
         ]
     }, 
     {
-        "content": "She posed herself as a princess from Java and her stage-name meant \u00e2\u0080\u009csun\u00e2\u0080\u009d or \u00e2\u0080\u009ceye of the dawn\u00e2\u0080\u009d.", 
+        "content": "She posed herself as a princess from Java and her stage-name meant âsunâ or âeye of the dawnâ.", 
         "correct_answer": 1, 
         "answers": [
             "Josephine Baker", 
@@ -15184,7 +15184,7 @@
         ]
     }, 
     {
-        "content": "This captain during the American Revolutionary War is widely considered to be America\u00e2\u0080\u0099s first spy. Before being hanged he said \u00e2\u0080\u009cI only regret that I have but one life to lose for my country\u00e2\u0080\u009d.", 
+        "content": "This captain during the American Revolutionary War is widely considered to be Americaâs first spy. Before being hanged he said âI only regret that I have but one life to lose for my countryâ.", 
         "correct_answer": 1, 
         "answers": [
             "None of these", 
@@ -15530,7 +15530,7 @@
         ]
     }, 
     {
-        "content": "Reichsf\u0102\u017ahrer-SS Heinrich Himmler organized a German expedition to Tibet to search for Aryan Atlanteans.", 
+        "content": "ReichsfĂźhrer-SS Heinrich Himmler organized a German expedition to Tibet to search for Aryan Atlanteans.", 
         "correct_answer": 0, 
         "answers": [
             "True", 
@@ -16516,7 +16516,7 @@
         ]
     }, 
     {
-        "content": "Which of these is an eight-spoked cross symbolizing the eight day interval between Christ\u00e2\u0080\u0099s entry into Jerusalem and his resurrection?", 
+        "content": "Which of these is an eight-spoked cross symbolizing the eight day interval between Christâs entry into Jerusalem and his resurrection?", 
         "correct_answer": 3, 
         "answers": [
             "The Latin Cross", 
@@ -16531,8 +16531,8 @@
         "answers": [
             "Cai - wealth, money", 
             "Fu - Blessing, Good Fortune, Good Luck", 
-            "Lu \u00e2\u0080\u0093 Prosperity", 
-            "Shou \u00e2\u0080\u0093 Longevity"
+            "Lu â Prosperity", 
+            "Shou â Longevity"
         ]
     }, 
     {
@@ -16750,7 +16750,7 @@
             "Wim Wenders", 
             "Emir Kusturica", 
             "Michelangelo Antonioni", 
-            "Pedro Almod\u0102\u0142var"
+            "Pedro AlmodĂłvar"
         ]
     }, 
     {
@@ -17046,7 +17046,7 @@
         ]
     }, 
     {
-        "content": "What do Clint Eastwoods movie Million Dollar Baby and Alejandro Amen\u0102\u0104bars movie The Sea Inside have in common?", 
+        "content": "What do Clint Eastwoods movie Million Dollar Baby and Alejandro AmenĂĄbars movie The Sea Inside have in common?", 
         "correct_answer": 2, 
         "answers": [
             "They were released in 2004.", 
@@ -17234,7 +17234,7 @@
         ]
     }, 
     {
-        "content": "Name the producer of \u00e2\u0080\u009cThe Rookies\u00e2\u0080\u009d and \u00e2\u0080\u009cCharlies Angels\u00e2\u0080\u009d.", 
+        "content": "Name the producer of âThe Rookiesâ and âCharlies Angelsâ.", 
         "correct_answer": 0, 
         "answers": [
             "Aaron Spelling", 
@@ -17330,7 +17330,7 @@
         ]
     }, 
     {
-        "content": "By 1897\u00e2\u0080\u009398 many Americans were influenced in favor of war with Spain because of stories in some US newspapers about atrocities and misdeeds of the Spanish, which were usually exaggerated or made up. Such newspapers were know at the time as which of the following?", 
+        "content": "By 1897â98 many Americans were influenced in favor of war with Spain because of stories in some US newspapers about atrocities and misdeeds of the Spanish, which were usually exaggerated or made up. Such newspapers were know at the time as which of the following?", 
         "correct_answer": 2, 
         "answers": [
             "wildcat press", 
@@ -17496,7 +17496,7 @@
         ]
     }, 
     {
-        "content": "The following words were spoken by Marlene Dietrich:\n\u00e2\u0080\u009cI dress for myself. Not for the image, not for the public, not for the fashion, not for men.", 
+        "content": "The following words were spoken by Marlene Dietrich:\nâI dress for myself. Not for the image, not for the public, not for the fashion, not for men.", 
         "correct_answer": 1, 
         "answers": [
             "False", 
@@ -17548,7 +17548,7 @@
         ]
     }, 
     {
-        "content": "13th-century Italians Francesca da Rimini and Paolo Malatestas romance was the inspiration of the famous statue by Auguste Rodin \u00e2\u0080\u0093 the Kiss.", 
+        "content": "13th-century Italians Francesca da Rimini and Paolo Malatestas romance was the inspiration of the famous statue by Auguste Rodin â the Kiss.", 
         "correct_answer": 1, 
         "answers": [
             "False", 
@@ -17656,7 +17656,7 @@
         ]
     }, 
     {
-        "content": "The name of which popular monument in Petra means \u00e2\u0080\u009cThe Castle of Pharaohs Daughter\u00e2\u0080\u009d?", 
+        "content": "The name of which popular monument in Petra means âThe Castle of Pharaohs Daughterâ?", 
         "correct_answer": 1, 
         "answers": [
             "El-Deir", 
@@ -17733,10 +17733,10 @@
         "content": "What conspiracy theory involves a secret coalition whose aim is world domination?", 
         "correct_answer": 2, 
         "answers": [
-            "The theory of \u00e2\u0080\u009c Loose Change\u00e2\u0080\u009d", 
+            "The theory of â Loose Changeâ", 
             "None of these", 
             "Judeo-Masonic conspiracy theory", 
-            "The theory of \u00e2\u0080\u009cMind control\u00e2\u0080\u009d"
+            "The theory of âMind controlâ"
         ]
     }, 
     {
@@ -17808,7 +17808,7 @@
         ]
     }, 
     {
-        "content": "The 2010 eruption of the Eyjafjallaj\u0102\u015bkull volcano, located in this country, caused extensive air travel disruption.", 
+        "content": "The 2010 eruption of the EyjafjallajĂśkull volcano, located in this country, caused extensive air travel disruption.", 
         "correct_answer": 1, 
         "answers": [
             "Italy", 
@@ -18124,7 +18124,7 @@
         ]
     }, 
     {
-        "content": "Which statement is true about Anne Hennis Trotter, popular as \u00e2\u0080\u009cMad\u00e2\u0080\u009d Anne?", 
+        "content": "Which statement is true about Anne Hennis Trotter, popular as âMadâ Anne?", 
         "correct_answer": 1, 
         "answers": [
             "She was a story teller.", 
@@ -18370,7 +18370,7 @@
         ]
     }, 
     {
-        "content": "Elizabeth Knapp of Groton, Massachusetts was a sixteen-year-old servant in the house of Rev. Samuel Willard and she presumably became \u00e2\u0080\u009cpossessed\u00e2\u0080\u009d by the devil in 1671.", 
+        "content": "Elizabeth Knapp of Groton, Massachusetts was a sixteen-year-old servant in the house of Rev. Samuel Willard and she presumably became âpossessedâ by the devil in 1671.", 
         "correct_answer": 1, 
         "answers": [
             "False", 
@@ -18786,7 +18786,7 @@
         ]
     }, 
     {
-        "content": "Where is the Jane Austen\u00e2\u0080\u0099s House Museum located?", 
+        "content": "Where is the Jane Austenâs House Museum located?", 
         "correct_answer": 2, 
         "answers": [
             "Southampton", 
@@ -18930,7 +18930,7 @@
         "correct_answer": 1, 
         "answers": [
             "Thomas Chippendale and William Hogarth", 
-            "Voltaire and Jacques-Fran\u0102\u00a7ois Blondel", 
+            "Voltaire and Jacques-FranĂ§ois Blondel", 
             "Borromini and Guarini", 
             "All of these"
         ]
@@ -18941,7 +18941,7 @@
         "answers": [
             "All of these", 
             "Giovanni Battista Tiepolo", 
-            "\u0102\u0089lisabeth Vig\u0102\u0160e-Lebrun", 
+            "Ălisabeth VigĂŠe-Lebrun", 
             "Antoine Watteau"
         ]
     }, 
@@ -18969,7 +18969,7 @@
         "answers": [
             "William Hogarth", 
             "Jean-Baptiste van Loo", 
-            "\u0102\u0089lisabeth-Louise Vig\u0102\u0160e-Le Brun", 
+            "Ălisabeth-Louise VigĂŠe-Le Brun", 
             "Francis Hayman"
         ]
     }, 
@@ -19024,7 +19024,7 @@
             "Entente", 
             "Exequatur", 
             "Demarche", 
-            "D\u0102\u0160tente"
+            "DĂŠtente"
         ]
     }, 
     {
@@ -19077,10 +19077,10 @@
         "content": "Which of these was painted by Italian painter Sandro Botticelli, nicknamed Il Botticello The Little Barrel?", 
         "correct_answer": 1, 
         "answers": [
-            "\u00e2\u0080\u009cThe Adoration of the Magi \u00e2\u0080\u009c", 
+            "âThe Adoration of the Magi â", 
             "All of these", 
-            "\u00e2\u0080\u009cThe Birth of Venus\u00e2\u0080\u009d", 
-            "\u00e2\u0080\u009cPrimavera\u00e2\u0080\u009d"
+            "âThe Birth of Venusâ", 
+            "âPrimaveraâ"
         ]
     }, 
     {
@@ -19088,13 +19088,13 @@
         "correct_answer": 3, 
         "answers": [
             "the Statue of David", 
-            "Piet\u0102", 
+            "PietĂ", 
             "The ceiling of the Sistine Chapel", 
-            "The dome of Saint Peter\u00e2\u0080\u0099s Basillica"
+            "The dome of Saint Peterâs Basillica"
         ]
     }, 
     {
-        "content": "Which of Leonardo Da Vinci\u00e2\u0080\u0099s works was a key element leading to the Holy Grail in the novel The Da Vinci Code?", 
+        "content": "Which of Leonardo Da Vinciâs works was a key element leading to the Holy Grail in the novel The Da Vinci Code?", 
         "correct_answer": 2, 
         "answers": [
             "Virgin of the Rocks", 
@@ -19132,7 +19132,7 @@
         ]
     }, 
     {
-        "content": "What painter of the Parma school of the Italian Renaissance created \u00e2\u0080\u009cJupiter and Io\u00e2\u0080\u009d?", 
+        "content": "What painter of the Parma school of the Italian Renaissance created âJupiter and Ioâ?", 
         "correct_answer": 2, 
         "answers": [
             "Allesandro Alberti", 
@@ -19142,7 +19142,7 @@
         ]
     }, 
     {
-        "content": "Piero di Lorenzo, who painted \u00e2\u0080\u009cPortrait of Simonetta Vespucci\u00e2\u0080\u009d, is also known by what other name?", 
+        "content": "Piero di Lorenzo, who painted âPortrait of Simonetta Vespucciâ, is also known by what other name?", 
         "correct_answer": 1, 
         "answers": [
             "Piero della Francesca", 
@@ -19599,7 +19599,7 @@
         "answers": [
             "None of these", 
             "The Lost Tribes", 
-            "The Children\u00e2\u0080\u0099s Crusade", 
+            "The Childrenâs Crusade", 
             "The band of Robin Hood"
         ]
     }, 
@@ -19609,7 +19609,7 @@
         "answers": [
             "a Jew who taunted Jesus on the way to the Crucifixion", 
             "All of these", 
-            "the doorman at Pontius Pilate\u00e2\u0080\u0099s estate", 
+            "the doorman at Pontius Pilateâs estate", 
             "a tradesman"
         ]
     }, 
@@ -19639,7 +19639,7 @@
         "answers": [
             "The Crusade of Nuns", 
             "All of these", 
-            "The Children\u00e2\u0080\u0099s Crusade", 
+            "The Childrenâs Crusade", 
             "The Crusade of Templars"
         ]
     }, 
@@ -19736,7 +19736,7 @@
         "correct_answer": 0, 
         "answers": [
             "Casino", 
-            "Everybody\u00e2\u0080\u0099s Fine", 
+            "Everybodyâs Fine", 
             "Men of Honor", 
             "What Just Happened"
         ]
@@ -19949,12 +19949,12 @@
         "answers": [
             "Nosferatu", 
             "Interview with the Vampire", 
-            "Salem\u00e2\u0080\u0099s Lot", 
+            "Salemâs Lot", 
             "Buffy the Vampire Slayer"
         ]
     }, 
     {
-        "content": "The 1931 horror film Dracula stars B\u0102\u0160la Lugosi.", 
+        "content": "The 1931 horror film Dracula stars BĂŠla Lugosi.", 
         "correct_answer": 0, 
         "answers": [
             "True", 
@@ -19987,7 +19987,7 @@
         "answers": [
             "Blade I", 
             "Interview with the Vampire", 
-            "Bram Stoker\u00e2\u0080\u0099s Dracula", 
+            "Bram Stokerâs Dracula", 
             "30 Days of Night"
         ]
     }, 
@@ -20518,7 +20518,7 @@
         "correct_answer": 1, 
         "answers": [
             "None of these", 
-            "Open \u00e2\u0080\u0093 Closed circuit", 
+            "Open â Closed circuit", 
             "Synchronized circuit", 
             "Regulated circuit"
         ]
@@ -20600,7 +20600,7 @@
         ]
     }, 
     {
-        "content": "What device converts a vehicle\u00e2\u0080\u0099s 12 or 24 volt DC current into 110 or 220 volt AC current?", 
+        "content": "What device converts a vehicleâs 12 or 24 volt DC current into 110 or 220 volt AC current?", 
         "correct_answer": 3, 
         "answers": [
             "Generator", 
@@ -20768,7 +20768,7 @@
         ]
     }, 
     {
-        "content": "Michael Palin has written and presented several television documentaries on art, including one on the artist Vilhelm Hammersh\u0102\u00b8i. What nationality was Hammersh\u0102\u00b8i?", 
+        "content": "Michael Palin has written and presented several television documentaries on art, including one on the artist Vilhelm HammershĂ¸i. What nationality was HammershĂ¸i?", 
         "correct_answer": 1, 
         "answers": [
             "Faroese", 
@@ -20955,14 +20955,14 @@
         "content": "Which of these models was Twiggys greatest influence?", 
         "correct_answer": 2, 
         "answers": [
-            "In\u0102\u00a8s de la Fressange", 
+            "InĂ¨s de la Fressange", 
             "Cheryl Tiegs", 
             "Jean Shrimpton", 
             "Wilhelmina"
         ]
     }, 
     {
-        "content": "Twiggy was named the \u00e2\u0080\u009cThe Face of 1966\u00e2\u0080\u009d by Vogue.", 
+        "content": "Twiggy was named the âThe Face of 1966â by Vogue.", 
         "correct_answer": 1, 
         "answers": [
             "True", 
@@ -21450,7 +21450,7 @@
             "Abhay Charanaravinda", 
             "Muhammad", 
             "Laozi", 
-            "Siddh\u00c4\u0081rtha Gautama"
+            "SiddhÄrtha Gautama"
         ]
     }, 
     {
@@ -21494,7 +21494,7 @@
         ]
     }, 
     {
-        "content": "The Bah\u0102\u0104\u0102\u00ad Faith is a monotheistic religion founded in Persia.", 
+        "content": "The BahĂĄĂ­ Faith is a monotheistic religion founded in Persia.", 
         "correct_answer": 0, 
         "answers": [
             "True", 
@@ -22204,7 +22204,7 @@
         ]
     }, 
     {
-        "content": "What was Paladins first name on the show Have Gun \u00e2\u0080\u0094 Will Travel?", 
+        "content": "What was Paladins first name on the show Have Gun â Will Travel?", 
         "correct_answer": 3, 
         "answers": [
             "Joe", 
@@ -22957,7 +22957,7 @@
         ]
     }, 
     {
-        "content": "Who was the special guest in the 1991 TV special The Magic of David Copperfield XIII \u00e2\u0080\u009cMystery On The Orient Express\u00e2\u0080\u009d?", 
+        "content": "Who was the special guest in the 1991 TV special The Magic of David Copperfield XIII âMystery On The Orient Expressâ?", 
         "correct_answer": 0, 
         "answers": [
             "Jane Seymour", 
@@ -24783,7 +24783,7 @@
         ]
     }, 
     {
-        "content": "From 1971\u00e2\u0080\u00931998 David Livingstones image was portrayed on \u00c2\u014110 notes.", 
+        "content": "From 1971â1998 David Livingstones image was portrayed on ÂŁ10 notes.", 
         "correct_answer": 0, 
         "answers": [
             "True", 
@@ -24981,7 +24981,7 @@
         ]
     }, 
     {
-        "content": "In 2002 this nation became the first t\u0110\u017e make euthanasia a non-punishable offense.", 
+        "content": "In 2002 this nation became the first tĐž make euthanasia a non-punishable offense.", 
         "correct_answer": 0, 
         "answers": [
             "The Netherlands", 
@@ -26063,7 +26063,7 @@
         ]
     }, 
     {
-        "content": "When an American soldier dies in combat, another soldier must deliver the news to the fallen soldiers family. In this 2009 movie, Sergeant Will Montgomery finds he has feelings for the woman to whom he has delivered news of her husband\u00e2\u0080\u0099s death.", 
+        "content": "When an American soldier dies in combat, another soldier must deliver the news to the fallen soldiers family. In this 2009 movie, Sergeant Will Montgomery finds he has feelings for the woman to whom he has delivered news of her husbandâs death.", 
         "correct_answer": 2, 
         "answers": [
             "The Informant", 
@@ -26597,7 +26597,7 @@
         ]
     }, 
     {
-        "content": "Which member of Adolf Hitler\u00e2\u0080\u0099s family was accustomed to whipping him severely as a punishment?", 
+        "content": "Which member of Adolf Hitlerâs family was accustomed to whipping him severely as a punishment?", 
         "correct_answer": 1, 
         "answers": [
             "His mother", 
@@ -26647,7 +26647,7 @@
         ]
     }, 
     {
-        "content": "Which of these is true about Adolf Hitler\u00e2\u0080\u0099s dietary habits?", 
+        "content": "Which of these is true about Adolf Hitlerâs dietary habits?", 
         "correct_answer": 2, 
         "answers": [
             "He was a vegan.", 
@@ -28631,7 +28631,7 @@
         ]
     }, 
     {
-        "content": "Corey Haim received a nomination for an Exceptional Performance by a Young Actor Starring in a Feature Film \u00e2\u0080\u0093 Comedy or Drama at the Young Artist Awards for his role in what 1986 movie?", 
+        "content": "Corey Haim received a nomination for an Exceptional Performance by a Young Actor Starring in a Feature Film â Comedy or Drama at the Young Artist Awards for his role in what 1986 movie?", 
         "correct_answer": 1, 
         "answers": [
             "Silver Bullet", 

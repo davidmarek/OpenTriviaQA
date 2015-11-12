@@ -5,15 +5,15 @@ import codecs
 def parse_file(filename, output_filename):
     file_content = []
     print filename
-    with codecs.open(filename, encoding='ISO-8859-2') as file:
+    with codecs.open(filename, encoding='iso-8859-2') as file:
         file_content = file.readlines()
     questions = []
     last_question = None
     inside_question = False
     correct_answer = None
     for line in file_content:
-        line = line.rstrip()
         try:
+            line = line.rstrip()   
             if line == "":
                 continue
             elif line[0] == "#":
@@ -35,7 +35,7 @@ def parse_file(filename, output_filename):
                 last_question["content"] += "\n" + line
             elif line.strip() != "":
                 raise Exception("Can't parse line in file {0}: {1}".format(filename, line))
-        except Exception as ex:
+        except:
             print line
             print last_question
             raise
@@ -44,8 +44,8 @@ def parse_file(filename, output_filename):
         last_question["correct_answer"] = last_question["answers"].index(correct_answer)
         questions.append(last_question)
 
-    with open(output_filename, 'w') as output_file:
-        json.dump(questions, output_file, indent=4)
+    with codecs.open(output_filename, 'w', encoding='utf8') as output_file:
+        output_file.write(json.dumps(questions, indent=4, ensure_ascii=False, encoding='utf8'))
 
 if __name__ == "__main__":
     directory = 'categories'

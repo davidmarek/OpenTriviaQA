@@ -90,7 +90,7 @@
         ]
     }, 
     {
-        "content": "Take love, multiply it by infinity and take it to the depths of forever\u010f\u017c\u02dd and you still have only a glimpse of how I feel for you. (1998)", 
+        "content": "Take love, multiply it by infinity and take it to the depths of foreverďż˝ and you still have only a glimpse of how I feel for you. (1998)", 
         "correct_answer": 3, 
         "answers": [
             "Moulin Rouge", 
@@ -1516,7 +1516,7 @@
         ]
     }, 
     {
-        "content": "\u00e2\u0080\u009cThe Exorcist\u00e2\u0080\u009d, rated as the scariest movie of all time, is burlesqued in which part of  \u00e2\u0080\u009cScary Movie\u00e2\u0080\u009d?", 
+        "content": "âThe Exorcistâ, rated as the scariest movie of all time, is burlesqued in which part of  âScary Movieâ?", 
         "correct_answer": 1, 
         "answers": [
             "Scary Movie 4", 
@@ -1526,7 +1526,7 @@
         ]
     }, 
     {
-        "content": "In \u00e2\u0080\u009cScream\u00e2\u0080\u009d, what were the words that Billy spoke right before shooting Randy and revealing himself as one of the killers?", 
+        "content": "In âScreamâ, what were the words that Billy spoke right before shooting Randy and revealing himself as one of the killers?", 
         "correct_answer": 0, 
         "answers": [
             "We all go a little mad sometimes.", 
@@ -1536,7 +1536,7 @@
         ]
     }, 
     {
-        "content": "Freddy Krueger, the villain in \u00e2\u0080\u009cA Nightmare on Elm Street\u00e2\u0080\u009d, was named after which of these?", 
+        "content": "Freddy Krueger, the villain in âA Nightmare on Elm Streetâ, was named after which of these?", 
         "correct_answer": 2, 
         "answers": [
             "a carpenter who killed his entire family", 
@@ -1549,24 +1549,24 @@
         "content": "Michael Myers, the psychopath from the Halloween series, wears a mask. The first mask he wore was actually a misshaped mask of  a famous character in a show. Who is the character and  what is the name of the show?", 
         "correct_answer": 1, 
         "answers": [
-            "Robin, \u00e2\u0080\u009cBatman\u00e2\u0080\u009d", 
-            "Captain Kirk, \u00e2\u0080\u009cStar Trek\u00e2\u0080\u009d", 
-            "John Steed, \u00e2\u0080\u009cThe Avengers\u00e2\u0080\u009d", 
-            "Lt. Kojak, \u00e2\u0080\u009cKojak\u00e2\u0080\u009d"
+            "Robin, âBatmanâ", 
+            "Captain Kirk, âStar Trekâ", 
+            "John Steed, âThe Avengersâ", 
+            "Lt. Kojak, âKojakâ"
         ]
     }, 
     {
         "content": "In the Hellraiser series, in order for Pinhead to be summoned, one should do what?", 
         "correct_answer": 3, 
         "answers": [
-            "dial a 7-digit number and say \u00e2\u0080\u009cI call you! Come now!\u00e2\u0080\u009d", 
+            "dial a 7-digit number and say âI call you! Come now!â", 
             "spell out his name five times in front of a mirror", 
             "break the spell that keeps him in Hell", 
             "open a puzzle box"
         ]
     }, 
     {
-        "content": "In the movie \u00e2\u0080\u009cBride of Chucky\u00e2\u0080\u009d, the fourth of the Child\u00e2\u0080\u0099s Play series, Chucky\u00e2\u0080\u0099s girlfriend Tiffany brings Chucky back using what book about voodoo magic?", 
+        "content": "In the movie âBride of Chuckyâ, the fourth of the Childâs Play series, Chuckyâs girlfriend Tiffany brings Chucky back using what book about voodoo magic?", 
         "correct_answer": 1, 
         "answers": [
             "The Power of Voodoo Magic", 
@@ -1586,7 +1586,7 @@
         ]
     }, 
     {
-        "content": "Who directed the 1980 movie \u00e2\u0080\u009cThe Shining\u00e2\u0080\u009d, based on a Stephen King novel and starring Jack Nicholson?", 
+        "content": "Who directed the 1980 movie âThe Shiningâ, based on a Stephen King novel and starring Jack Nicholson?", 
         "correct_answer": 2, 
         "answers": [
             "Francis Ford Coppola", 
@@ -1606,7 +1606,7 @@
         ]
     }, 
     {
-        "content": "How does prom queen Helen Shivers die in the 1997 blockbuster \u00e2\u0080\u009cI Know What You Did Last Summer\u00e2\u0080\u009d?", 
+        "content": "How does prom queen Helen Shivers die in the 1997 blockbuster âI Know What You Did Last Summerâ?", 
         "correct_answer": 1, 
         "answers": [
             "She is throat-slashed", 
@@ -1936,7 +1936,7 @@
         ]
     }, 
     {
-        "content": "In Lord of the Rings, what is Boromir\u00e2\u0080\u0099s younger brother\u00e2\u0080\u0099s name?", 
+        "content": "In Lord of the Rings, what is Boromirâs younger brotherâs name?", 
         "correct_answer": 3, 
         "answers": [
             "Haldir", 
@@ -1959,7 +1959,7 @@
         "content": "Which of these is a name of a location in the Lord of the Rings films that translates Pass of the Spider?", 
         "correct_answer": 1, 
         "answers": [
-            "N\u0102\u015fmenor", 
+            "NĂşmenor", 
             "Cirith Ungol", 
             "Minas Morgul", 
             "Minas Tirith"
@@ -1970,7 +1970,7 @@
         "correct_answer": 2, 
         "answers": [
             "Noldorin", 
-            "M\u0102\u0165makil", 
+            "MĂťmakil", 
             "Easterlings", 
             "Istari"
         ]
@@ -2190,7 +2190,7 @@
         "correct_answer": 1, 
         "answers": [
             "Senator Bail Organa", 
-            "Padm\u0102\u0160", 
+            "PadmĂŠ", 
             "Master Yoda", 
             "The Jedi Council"
         ]
@@ -3042,7 +3042,7 @@
         ]
     }, 
     {
-        "content": "What movie is this quote from: \u00e2\u0080\u009cCalm down everybody. Were just here to negotiate General Sarris surrender.?", 
+        "content": "What movie is this quote from: âCalm down everybody. Were just here to negotiate General Sarris surrender.?", 
         "correct_answer": 0, 
         "answers": [
             "Galaxy Quest", 
@@ -3176,7 +3176,7 @@
         ]
     }, 
     {
-        "content": "What year did the horror film \u00e2\u0080\u009cCarrie\u00e2\u0080\u009d first hit the movie theatres?", 
+        "content": "What year did the horror film âCarrieâ first hit the movie theatres?", 
         "correct_answer": 0, 
         "answers": [
             "1976", 
@@ -3186,7 +3186,7 @@
         ]
     }, 
     {
-        "content": "What actress played the part of Carrie White in the movie \u00e2\u0080\u009cCarrie\u00e2\u0080\u009d?", 
+        "content": "What actress played the part of Carrie White in the movie âCarrieâ?", 
         "correct_answer": 0, 
         "answers": [
             "Sissy Spacek", 
@@ -3224,7 +3224,7 @@
         ]
     }, 
     {
-        "content": "What actress played the role of Margaret White (Carrie\u00e2\u0080\u0099s mother) in the horror film \u00e2\u0080\u009cCarrie\u00e2\u0080\u009d?", 
+        "content": "What actress played the role of Margaret White (Carrieâs mother) in the horror film âCarrieâ?", 
         "correct_answer": 3, 
         "answers": [
             "Agnes Moorehead", 
@@ -3234,7 +3234,7 @@
         ]
     }, 
     {
-        "content": "In the movie \u00e2\u0080\u009cCarrie, Carries mom is killed in a manner that resembles crucifixion. She is crucified by Carrie and looks just like a small statue of a saint that is in their house. What is the name of the saint?", 
+        "content": "In the movie âCarrie, Carries mom is killed in a manner that resembles crucifixion. She is crucified by Carrie and looks just like a small statue of a saint that is in their house. What is the name of the saint?", 
         "correct_answer": 1, 
         "answers": [
             "Saint Paul", 
@@ -3244,7 +3244,7 @@
         ]
     }, 
     {
-        "content": "In the horror classic \u00e2\u0080\u009cCarrie,\u00e2\u0080\u009d Carries mom thinks that Carrie got her first period because she was sinning. She sends her off to go pray. What part of the house does Carrie get sent to?", 
+        "content": "In the horror classic âCarrie,â Carries mom thinks that Carrie got her first period because she was sinning. She sends her off to go pray. What part of the house does Carrie get sent to?", 
         "correct_answer": 1, 
         "answers": [
             "The den", 
@@ -5258,7 +5258,7 @@
         ]
     }, 
     {
-        "content": "Name Ursula Andress character\u00e2\u0080\u0099s name in James Bonds Doctor No.", 
+        "content": "Name Ursula Andress characterâs name in James Bonds Doctor No.", 
         "correct_answer": 2, 
         "answers": [
             "Tiffany Case", 
@@ -5736,7 +5736,7 @@
         ]
     }, 
     {
-        "content": "What is the name of Louis Winthorpes fianc\u0102\u0160e in the movie Trading Places?", 
+        "content": "What is the name of Louis Winthorpes fiancĂŠe in the movie Trading Places?", 
         "correct_answer": 0, 
         "answers": [
             "Penelope", 
@@ -5756,7 +5756,7 @@
         ]
     }, 
     {
-        "content": "In the comedy Trading Places, how much money does Clarence Beeks give Ophelia the prostitute to have her talk dirty to Louis Winthorpe in front of his fianc\u0102\u0160e, Penelope?", 
+        "content": "In the comedy Trading Places, how much money does Clarence Beeks give Ophelia the prostitute to have her talk dirty to Louis Winthorpe in front of his fiancĂŠe, Penelope?", 
         "correct_answer": 0, 
         "answers": [
             "$100", 
@@ -6110,7 +6110,7 @@
         ]
     }, 
     {
-        "content": "The 2007 film 300 was losely based on the ancient Battle of Thermopylae. What does the name \u00e2\u0080\u009cThermopylae\u00e2\u0080\u009d mean translated from Greek?", 
+        "content": "The 2007 film 300 was losely based on the ancient Battle of Thermopylae. What does the name âThermopylaeâ mean translated from Greek?", 
         "correct_answer": 2, 
         "answers": [
             "Gateway of death", 
@@ -6310,7 +6310,7 @@
         ]
     }, 
     {
-        "content": "In the movie, Casablanca, who is the ma\u0102\u017dtre dh\u0102\u00b4tel of Ricks Caf\u0102\u0160 Americain?", 
+        "content": "In the movie, Casablanca, who is the maĂŽtre dhĂ´tel of Ricks CafĂŠ Americain?", 
         "correct_answer": 2, 
         "answers": [
             "Ferrari", 
@@ -6320,7 +6320,7 @@
         ]
     }, 
     {
-        "content": "In the 1942 movie, Casablanca, who is the bartender at Ricks Caf\u0102\u0160 Americain?", 
+        "content": "In the 1942 movie, Casablanca, who is the bartender at Ricks CafĂŠ Americain?", 
         "correct_answer": 3, 
         "answers": [
             "Pytor", 
@@ -6636,7 +6636,7 @@
         ]
     }, 
     {
-        "content": "This man lived from 1902-1979. He won a 1962 Emmy for his work on Winston Churchill: The Valiant Years.\u00e2\u0080\u009d and a 1945 Oscar for his work on State Fair. He received Grammys in 1960 and 1962. He won 6 Tonys including three special awards. Who was this great great American composer?", 
+        "content": "This man lived from 1902-1979. He won a 1962 Emmy for his work on Winston Churchill: The Valiant Years.â and a 1945 Oscar for his work on State Fair. He received Grammys in 1960 and 1962. He won 6 Tonys including three special awards. Who was this great great American composer?", 
         "correct_answer": 2, 
         "answers": [
             "William  Lowe", 
@@ -6646,7 +6646,7 @@
         ]
     }, 
     {
-        "content": "This First lady of the American stage lived 1900-1993. She won her first Oscar in 1932 (The Sin of Madelon Claudet.) Her first Tony came in 1947 for her work in Happy Birthday.\u00e2\u0080\u009d She won a 1952 Emmy and a 1976 Grammy.", 
+        "content": "This First lady of the American stage lived 1900-1993. She won her first Oscar in 1932 (The Sin of Madelon Claudet.) Her first Tony came in 1947 for her work in Happy Birthday.â She won a 1952 Emmy and a 1976 Grammy.", 
         "correct_answer": 0, 
         "answers": [
             "Helen Hayes", 
@@ -6656,7 +6656,7 @@
         ]
     }, 
     {
-        "content": "A Belgian-born British actress, this Broadway stage performer won an Emmy in 1993 and a Grammy in 1994. She won a 1954 Tony for her acting in Ondine\u00e2\u0080\u009d and a 1968 Tony Special Award. She won the 1953 Best Actress Oscar for Roman Holiday\u00e2\u0080\u009d and the Jean Hersholt Humanitarian Award (an Oscar) in 1993. Who was this beauty?", 
+        "content": "A Belgian-born British actress, this Broadway stage performer won an Emmy in 1993 and a Grammy in 1994. She won a 1954 Tony for her acting in Ondineâ and a 1968 Tony Special Award. She won the 1953 Best Actress Oscar for Roman Holidayâ and the Jean Hersholt Humanitarian Award (an Oscar) in 1993. Who was this beauty?", 
         "correct_answer": 1, 
         "answers": [
             "Katherine Hepburn", 
@@ -6676,7 +6676,7 @@
         ]
     }, 
     {
-        "content": "This British actor who lived 1904- 2000 won his first Special Tony Award for his one man show Ages of Man(1959.) He won a regular Tony in 1961 for his directorial work on Big Fish, Little Fish. Most people know him for his Oscar-winning role as a butler who ....will alert the media! in 1981\u00e2\u0080\u0099s Arthur.", 
+        "content": "This British actor who lived 1904- 2000 won his first Special Tony Award for his one man show Ages of Man(1959.) He won a regular Tony in 1961 for his directorial work on Big Fish, Little Fish. Most people know him for his Oscar-winning role as a butler who ....will alert the media! in 1981âs Arthur.", 
         "correct_answer": 2, 
         "answers": [
             "Richard Attenbourough", 
@@ -6686,7 +6686,7 @@
         ]
     }, 
     {
-        "content": "Four Emmys!  Four Grammys! Three Oscars! But most people know him best for his one Tony - the 1976\u00e2\u0080\u0099s Tony for Best Musical Score for A Chorus Line. Who is this American composer?", 
+        "content": "Four Emmys!  Four Grammys! Three Oscars! But most people know him best for his one Tony - the 1976âs Tony for Best Musical Score for A Chorus Line. Who is this American composer?", 
         "correct_answer": 0, 
         "answers": [
             "Marvin Hamlisch", 
@@ -6706,7 +6706,7 @@
         ]
     }, 
     {
-        "content": "Name the director of The Graduate,  Monty Python\u00e2\u0080\u0099s Spamalot,\u00e2\u0080\u009d and Wit\u00e2\u0080\u009d who started as part of a comedy duo with Elaine May and went on to become the first director to have won an Oscar, an Emmy, a Tony, and a Grammy.", 
+        "content": "Name the director of The Graduate,  Monty Pythonâs Spamalot,â and Witâ who started as part of a comedy duo with Elaine May and went on to become the first director to have won an Oscar, an Emmy, a Tony, and a Grammy.", 
         "correct_answer": 1, 
         "answers": [
             "Mel Brooks", 
@@ -6726,7 +6726,7 @@
         ]
     }, 
     {
-        "content": "One can wonder where this actress and singer puts so many awards: she has won 4 Emmys, 9 Grammys, 2 Oscars and one Tony. Her 1970 Tony was given to her for being Star of the Decade. Lainie Kazan was her stand-in for \u00e2\u0080\u009cFunny Girl. Who is this American legend?", 
+        "content": "One can wonder where this actress and singer puts so many awards: she has won 4 Emmys, 9 Grammys, 2 Oscars and one Tony. Her 1970 Tony was given to her for being Star of the Decade. Lainie Kazan was her stand-in for âFunny Girl. Who is this American legend?", 
         "correct_answer": 3, 
         "answers": [
             "Liza Minelli", 
@@ -6736,7 +6736,7 @@
         ]
     }, 
     {
-        "content": "This star won a 2002 Day Time Emmy for \u00e2\u0080\u009cBeyond Tara: The Extraordinary Life of Hattie McDaniels. She won a 1985 Grammy for a comedy album. Her 2002 Tony was for Thoroughly Modern Milly.  Probably most famous, though, is her role as a \u00e2\u0080\u009cmedium\u00e2\u0080\u009c in a 1990 Patrick Swayze movie that won her an Oscar. Who is she?", 
+        "content": "This star won a 2002 Day Time Emmy for âBeyond Tara: The Extraordinary Life of Hattie McDaniels. She won a 1985 Grammy for a comedy album. Her 2002 Tony was for Thoroughly Modern Milly.  Probably most famous, though, is her role as a âmediumâ in a 1990 Patrick Swayze movie that won her an Oscar. Who is she?", 
         "correct_answer": 3, 
         "answers": [
             "Roseanna Arquette", 
@@ -7188,7 +7188,7 @@
         ]
     }, 
     {
-        "content": "What Animal House actor went on to co-star in numerous movies, including \u00e2\u0080\u009cWildcats,\u00e2\u0080\u009d The Insider,\u00e2\u0080\u009d and My Cousin Vinny?", 
+        "content": "What Animal House actor went on to co-star in numerous movies, including âWildcats,â The Insider,â and My Cousin Vinny?", 
         "correct_answer": 3, 
         "answers": [
             "Donald Sutherland", 
@@ -7218,7 +7218,7 @@
         ]
     }, 
     {
-        "content": "The 1978 comedy Animal House was written by Chris Miller, Harold Ramis and Douglas Kenney. Ramis became a well known director. Miller appeared in the movie with a bit part credited as Hardbar.\u00e2\u0080\u009d Kenney; however, had a more prominent role. What character did Kenney portray in the movie?", 
+        "content": "The 1978 comedy Animal House was written by Chris Miller, Harold Ramis and Douglas Kenney. Ramis became a well known director. Miller appeared in the movie with a bit part credited as Hardbar.â Kenney; however, had a more prominent role. What character did Kenney portray in the movie?", 
         "correct_answer": 2, 
         "answers": [
             "Neidermeyer", 
@@ -9236,7 +9236,7 @@
         ]
     }, 
     {
-        "content": "Which actor delivered the line All right. I\u00e2\u0080\u0099ll respect your traditions. Ill go to the headmaster and Ill lie!?", 
+        "content": "Which actor delivered the line All right. Iâll respect your traditions. Ill go to the headmaster and Ill lie!?", 
         "correct_answer": 3, 
         "answers": [
             "Matt Damon in School Ties", 
@@ -9246,7 +9246,7 @@
         ]
     }, 
     {
-        "content": "Who said the words There\u00e2\u0080\u0099s your gawd-damned dinner!! ?", 
+        "content": "Who said the words Thereâs your gawd-damned dinner!! ?", 
         "correct_answer": 2, 
         "answers": [
             "Kevin Spacey in Seven", 
@@ -9256,7 +9256,7 @@
         ]
     }, 
     {
-        "content": "Which actor said Youre a very funny guy, Solly. I like you. Thats why I\u00e2\u0080\u0099m going to kill you last.?", 
+        "content": "Which actor said Youre a very funny guy, Solly. I like you. Thats why Iâm going to kill you last.?", 
         "correct_answer": 3, 
         "answers": [
             "Carl Weathers in Predator", 
@@ -9266,7 +9266,7 @@
         ]
     }, 
     {
-        "content": "Who said We\u00e2\u0080\u0099re gonna get us some farm girls.?", 
+        "content": "Who said Weâre gonna get us some farm girls.?", 
         "correct_answer": 0, 
         "answers": [
             "George Kennedy in Cool Hand Luke", 
@@ -9276,7 +9276,7 @@
         ]
     }, 
     {
-        "content": "Who delivered these words: \u00e2\u0080\u009dSo you\u00e2\u0080\u0099d better grow eyes in the back of your head cause you won\u00e2\u0080\u0099t see it coming?", 
+        "content": "Who delivered these words: âSo youâd better grow eyes in the back of your head cause you wonât see it coming?", 
         "correct_answer": 1, 
         "answers": [
             "John Travolta in Pulp Fiction", 
@@ -9286,7 +9286,7 @@
         ]
     }, 
     {
-        "content": "These words were said by which actor: I\u00e2\u0080\u0099m a zit, get it??", 
+        "content": "These words were said by which actor: Iâm a zit, get it??", 
         "correct_answer": 0, 
         "answers": [
             "John Belushi in Animal House", 
@@ -9306,7 +9306,7 @@
         ]
     }, 
     {
-        "content": "How many times was the phrase \u00e2\u0080\u009dIt\u00e2\u0080\u0099s good to be the king said in the movie History of the World, Part I?", 
+        "content": "How many times was the phrase âItâs good to be the king said in the movie History of the World, Part I?", 
         "correct_answer": 1, 
         "answers": [
             "3", 
@@ -9316,7 +9316,7 @@
         ]
     }, 
     {
-        "content": "Which actor said the line That\u00e2\u0080\u0099s ok, I don\u00e2\u0080\u0099t shop here?", 
+        "content": "Which actor said the line Thatâs ok, I donât shop here?", 
         "correct_answer": 1, 
         "answers": [
             "Nicholas Cage in Raising Arizona", 
@@ -9570,7 +9570,7 @@
         ]
     }, 
     {
-        "content": "Tom Hanks, who starred in The DaVinci Code,\u00e2\u0080\u009d stars in another movie based on a Dan Brown novel. In Angels and Demons, he plays the same character as in \u00e2\u0080\u009cThe Da Vinci Code. What is this character?", 
+        "content": "Tom Hanks, who starred in The DaVinci Code,â stars in another movie based on a Dan Brown novel. In Angels and Demons, he plays the same character as in âThe Da Vinci Code. What is this character?", 
         "correct_answer": 0, 
         "answers": [
             "Robert Langdon", 
@@ -9590,7 +9590,7 @@
         ]
     }, 
     {
-        "content": "Corruption scandals and false allegations affect a New York City policeman and his family in Pride and Glory. It stars Edward Norton, Colin Farrell and this great actor from Seinfeld.\u00e2\u0080\u009d", 
+        "content": "Corruption scandals and false allegations affect a New York City policeman and his family in Pride and Glory. It stars Edward Norton, Colin Farrell and this great actor from Seinfeld.â", 
         "correct_answer": 1, 
         "answers": [
             "Reni Santoni", 
@@ -9610,7 +9610,7 @@
         ]
     }, 
     {
-        "content": "The Mike Myers and Graham Gordy  2008 movie The Love Guru\u00e2\u0080\u009d stars Myers, Jessica Alba,  Justin Timberlake, Ben Kingsley and this diminutive former Mike Myers co-star.", 
+        "content": "The Mike Myers and Graham Gordy  2008 movie The Love Guruâ stars Myers, Jessica Alba,  Justin Timberlake, Ben Kingsley and this diminutive former Mike Myers co-star.", 
         "correct_answer": 0, 
         "answers": [
             "Verne Troyer", 
@@ -9620,7 +9620,7 @@
         ]
     }, 
     {
-        "content": "This duo had a critical success in 2002\u00e2\u0080\u0099s Unfaithful. In 2008 they sparkle in \u00e2\u0080\u009cNights in Rodanthe.", 
+        "content": "This duo had a critical success in 2002âs Unfaithful. In 2008 they sparkle in âNights in Rodanthe.", 
         "correct_answer": 0, 
         "answers": [
             "Diane Lane and Richard Gere", 
@@ -9640,7 +9640,7 @@
         ]
     }, 
     {
-        "content": "After their success with \u00e2\u0080\u009cTitanic ,\u00e2\u0080\u009c Leonardo DiCaprio and Kate Winslet co-star for a second time in Revolutionary Road along with this very fine actor/actress from Misery, P.S. I Love You, and Little Black Book.", 
+        "content": "After their success with âTitanic ,â Leonardo DiCaprio and Kate Winslet co-star for a second time in Revolutionary Road along with this very fine actor/actress from Misery, P.S. I Love You, and Little Black Book.", 
         "correct_answer": 1, 
         "answers": [
             "James Caan", 
@@ -9844,7 +9844,7 @@
         ]
     }, 
     {
-        "content": "A book collector is hired to authenticate one very special book. According to historic evidence, only three such books were ever brought into the public and he is hired to establish which of the three is the original version. He is drawn into the world of the Occult where nobody is safe. Which 1999 horror thriller\u00e2\u0080\u0099s story line is this?", 
+        "content": "A book collector is hired to authenticate one very special book. According to historic evidence, only three such books were ever brought into the public and he is hired to establish which of the three is the original version. He is drawn into the world of the Occult where nobody is safe. Which 1999 horror thrillerâs story line is this?", 
         "correct_answer": 3, 
         "answers": [
             "The Last Sign", 
@@ -10436,7 +10436,7 @@
         ]
     }, 
     {
-        "content": "Who is James Bonds female ally, in A View to a Kill, who helps him discover the villain\u00e2\u0080\u0099s real purpose?", 
+        "content": "Who is James Bonds female ally, in A View to a Kill, who helps him discover the villainâs real purpose?", 
         "correct_answer": 0, 
         "answers": [
             "Stacey Sutton", 
@@ -11778,7 +11778,7 @@
         "correct_answer": 0, 
         "answers": [
             "Bezu Fache", 
-            "Jacques Sauni\u0102\u00a8re", 
+            "Jacques SauniĂ¨re", 
             "Sir isaac Newton", 
             "Leonardo Da Vinci"
         ]
@@ -12616,7 +12616,7 @@
         ]
     }, 
     {
-        "content": "In the film Napoleon Dynamite, Pedro is Napoleon\u00e2\u0080\u0099s best friend. What was Pedros last name?", 
+        "content": "In the film Napoleon Dynamite, Pedro is Napoleonâs best friend. What was Pedros last name?", 
         "correct_answer": 0, 
         "answers": [
             "Sanchez", 
@@ -12636,7 +12636,7 @@
         ]
     }, 
     {
-        "content": "What is the missing word in the following dialogue from the movie Napoleon Dynamite:\nHey Napoleon, what did you do last summer again?\nI told you! I spent it with my uncle in Alaska hunting ______\u00e2\u0080\u009d ?", 
+        "content": "What is the missing word in the following dialogue from the movie Napoleon Dynamite:\nHey Napoleon, what did you do last summer again?\nI told you! I spent it with my uncle in Alaska hunting ______â ?", 
         "correct_answer": 2, 
         "answers": [
             "Mountain lions", 
@@ -12646,7 +12646,7 @@
         ]
     }, 
     {
-        "content": "In the movie Napoleon Dynamite, Napoleon\u00e2\u0080\u0099s brother Kip tells Napoleon that he is training to be what?", 
+        "content": "In the movie Napoleon Dynamite, Napoleonâs brother Kip tells Napoleon that he is training to be what?", 
         "correct_answer": 0, 
         "answers": [
             "Cage fighter", 
@@ -12656,7 +12656,7 @@
         ]
     }, 
     {
-        "content": "What is Napoleon\u00e2\u0080\u0099s friend Deb selling door to door in the filmNapoleon Dynamite?", 
+        "content": "What is Napoleonâs friend Deb selling door to door in the filmNapoleon Dynamite?", 
         "correct_answer": 1, 
         "answers": [
             "Candy bars", 
@@ -12666,7 +12666,7 @@
         ]
     }, 
     {
-        "content": "Napoleon\u00e2\u0080\u0099s uncle Rico is constantly contemplating his high school football years and one particular game when the coach failed to put him in the game. What year was that game played?", 
+        "content": "Napoleonâs uncle Rico is constantly contemplating his high school football years and one particular game when the coach failed to put him in the game. What year was that game played?", 
         "correct_answer": 3, 
         "answers": [
             "1989", 
@@ -13059,7 +13059,7 @@
         ]
     }, 
     {
-        "content": "On the film The Break-Up, when do Gary and Brooke\u00e2\u0080\u0099s friends conclude their relationship is over?", 
+        "content": "On the film The Break-Up, when do Gary and Brookeâs friends conclude their relationship is over?", 
         "correct_answer": 0, 
         "answers": [
             "At the games night", 
@@ -13133,7 +13133,7 @@
         ]
     }, 
     {
-        "content": "Chris friend Brenda threatens to spike her stepmother\u00e2\u0080\u0099s drink with what toxin in the comedy Adventures in Babysitting?", 
+        "content": "Chris friend Brenda threatens to spike her stepmotherâs drink with what toxin in the comedy Adventures in Babysitting?", 
         "correct_answer": 3, 
         "answers": [
             "Windex", 
@@ -13861,7 +13861,7 @@
         ]
     }, 
     {
-        "content": "In the movie \u00e2\u0080\u009cPolice Academy\u00e2\u0080\u009d, Mahoney gets into a fight in the lunch room with two other cadets which gives the lieutenant the green light to finally throw him out of the academy. What is the name of the two cadets for which Mahoney has an altercation with?", 
+        "content": "In the movie âPolice Academyâ, Mahoney gets into a fight in the lunch room with two other cadets which gives the lieutenant the green light to finally throw him out of the academy. What is the name of the two cadets for which Mahoney has an altercation with?", 
         "correct_answer": 2, 
         "answers": [
             "Hightower and Jones", 
@@ -13971,7 +13971,7 @@
         ]
     }, 
     {
-        "content": "What 1999 movie is this excerpt from?\nNarrator, Mewtwo: Today, Ash, Brock and Misty are taking a break from their Pok\u0102\u0160mon adventures. As always, Ash is determined to become a Pok\u0102\u0160mon master. And, as always, he's ready to endure any hardship, bear any burden... with strength, stamina and a will of steel.\nMisty: Oh, Ash! You havent done a thing all day!", 
+        "content": "What 1999 movie is this excerpt from?\nNarrator, Mewtwo: Today, Ash, Brock and Misty are taking a break from their PokĂŠmon adventures. As always, Ash is determined to become a PokĂŠmon master. And, as always, he's ready to endure any hardship, bear any burden... with strength, stamina and a will of steel.\nMisty: Oh, Ash! You havent done a thing all day!", 
         "correct_answer": 6, 
         "answers": [
             "h Ketchum: Hungry. Need food.", 
@@ -14248,7 +14248,7 @@
         ]
     }, 
     {
-        "content": "Which character from the movie The Crow delivered the following words: Caw! Caw! Bang! Fuck, Im dead!\u00e2\u0080\u009d?", 
+        "content": "Which character from the movie The Crow delivered the following words: Caw! Caw! Bang! Fuck, Im dead!â?", 
         "correct_answer": 3, 
         "answers": [
             "Tin Tin", 
@@ -14616,7 +14616,7 @@
         ]
     }, 
     {
-        "content": "On The Rifleman series, Johnny Crawford\u00e2\u0080\u0099s characters name was Matt.", 
+        "content": "On The Rifleman series, Johnny Crawfordâs characters name was Matt.", 
         "correct_answer": 0, 
         "answers": [
             "False", 
@@ -15285,10 +15285,10 @@
         "content": "How much per gallon was gasoline in 1955, as seen in the movie Back to the Future?", 
         "correct_answer": 3, 
         "answers": [
-            "22\u00c2\u02d8", 
-            "15.5\u00c2\u02d8", 
-            "29\u00c2\u02d8", 
-            "19.5\u00c2\u02d8"
+            "22Â˘", 
+            "15.5Â˘", 
+            "29Â˘", 
+            "19.5Â˘"
         ]
     }, 
     {
@@ -16212,7 +16212,7 @@
         ]
     }, 
     {
-        "content": "In this movie Ray Millands character, who suffers a writer\u00e2\u0080\u0099s block, scours his apartment for that bottle of rye he just doesn\u00e2\u0080\u0099t remember finishing.", 
+        "content": "In this movie Ray Millands character, who suffers a writerâs block, scours his apartment for that bottle of rye he just doesnât remember finishing.", 
         "correct_answer": 1, 
         "answers": [
             "Dial M. For Murder", 
@@ -16232,7 +16232,7 @@
         ]
     }, 
     {
-        "content": "Prewitt squares off with \u00e2\u0080\u009cFatso\u00e2\u0080\u009d Borgnine in a back-ally knife fight and avenges Maggio\u00e2\u0080\u0099s murder in this 1953 movie.", 
+        "content": "Prewitt squares off with âFatsoâ Borgnine in a back-ally knife fight and avenges Maggioâs murder in this 1953 movie.", 
         "correct_answer": 2, 
         "answers": [
             "Bridge Over the River Kwai", 
@@ -16252,7 +16252,7 @@
         ]
     }, 
     {
-        "content": "Shears approaches through the water with a knife in hand, preparing to kill his overly idealistic ally. Both utter the word \u00e2\u0080\u009cYou!\u00e2\u0080\u009d . . . one from surprised recognition, the other with disdain. The scene is from this movie.", 
+        "content": "Shears approaches through the water with a knife in hand, preparing to kill his overly idealistic ally. Both utter the word âYou!â . . . one from surprised recognition, the other with disdain. The scene is from this movie.", 
         "correct_answer": 0, 
         "answers": [
             "The Bridge Over the River Kwai", 
@@ -16262,7 +16262,7 @@
         ]
     }, 
     {
-        "content": "In this movie, a crushed and dying Steven Boyd hisses to the victorious Jew to seek his family \u00e2\u0080\u009cin the valley of the lepers!\u00e2\u0080\u009d", 
+        "content": "In this movie, a crushed and dying Steven Boyd hisses to the victorious Jew to seek his family âin the valley of the lepers!â", 
         "correct_answer": 1, 
         "answers": [
             "The Fall of the Roman Empire", 
@@ -16272,7 +16272,7 @@
         ]
     }, 
     {
-        "content": "While playing gin rummy in the final scene of this movie, C.C. Baxter confesses his love for Fran, who simply tells him to \u00e2\u0080\u009cShut up and deal.\u00e2\u0080\u009d", 
+        "content": "While playing gin rummy in the final scene of this movie, C.C. Baxter confesses his love for Fran, who simply tells him to âShut up and deal.â", 
         "correct_answer": 0, 
         "answers": [
             "The Apartment", 
@@ -16282,7 +16282,7 @@
         ]
     }, 
     {
-        "content": "He confesses to the General that there was something disturbing about personally executing Gassim. It was not the blood  . . . \u00e2\u0080\u009cNo, not that, something else; I enjoyed it.\u00e2\u0080\u009d Name the movie.", 
+        "content": "He confesses to the General that there was something disturbing about personally executing Gassim. It was not the blood  . . . âNo, not that, something else; I enjoyed it.â Name the movie.", 
         "correct_answer": 1, 
         "answers": [
             "Sparticus", 
@@ -16292,7 +16292,7 @@
         ]
     }, 
     {
-        "content": "In this movie Santa Claus and \u00e2\u0080\u009cCloudy\u00e2\u0080\u009d Russo rough up the punk, demanding to know if he \u00e2\u0080\u009cever picks his feet in Poughkeepsie.\u00e2\u0080\u009d", 
+        "content": "In this movie Santa Claus and âCloudyâ Russo rough up the punk, demanding to know if he âever picks his feet in Poughkeepsie.â", 
         "correct_answer": 1, 
         "answers": [
             "Rocky", 
@@ -16302,7 +16302,7 @@
         ]
     }, 
     {
-        "content": "Gondorff staggers to the table declaring, \u00e2\u0080\u009cSorry I\u00e2\u0080\u0099m late, I was takin\u00e2\u0080\u0099 a crap!\u00e2\u0080\u009d and sits opposite Lonnegan. This is a scene from which movie?", 
+        "content": "Gondorff staggers to the table declaring, âSorry Iâm late, I was takinâ a crap!â and sits opposite Lonnegan. This is a scene from which movie?", 
         "correct_answer": 1, 
         "answers": [
             "The Hustler", 
@@ -16312,7 +16312,7 @@
         ]
     }, 
     {
-        "content": "In this movie Alvy comes to his ex-girlfriend\u00e2\u0080\u0099s rescue and heroically battles the spider in her bathroom with a tennis racquet.", 
+        "content": "In this movie Alvy comes to his ex-girlfriendâs rescue and heroically battles the spider in her bathroom with a tennis racquet.", 
         "correct_answer": 1, 
         "answers": [
             "All That Jazz", 
@@ -17024,7 +17024,7 @@
         ]
     }, 
     {
-        "content": "Kevin Spacey plays the elusive kingpin Keyser S\u0102\u015bze in this cult classic movie.", 
+        "content": "Kevin Spacey plays the elusive kingpin Keyser SĂśze in this cult classic movie.", 
         "correct_answer": 1, 
         "answers": [
             "Mafia Wars", 
@@ -18504,7 +18504,7 @@
         ]
     }, 
     {
-        "content": "What is the flag on James Bond\u00e2\u0080\u0099s parachute in the skiing scene in the movie The Spy Who Loved Me?", 
+        "content": "What is the flag on James Bondâs parachute in the skiing scene in the movie The Spy Who Loved Me?", 
         "correct_answer": 2, 
         "answers": [
             "The US Flag", 
@@ -18684,7 +18684,7 @@
         ]
     }, 
     {
-        "content": "In 1977, this beautiful French movie directed by Mosh\u0102\u0160 Mizrahi won an Oscar.", 
+        "content": "In 1977, this beautiful French movie directed by MoshĂŠ Mizrahi won an Oscar.", 
         "correct_answer": 2, 
         "answers": [
             "King of Hearts", 
@@ -18700,7 +18700,7 @@
             "Johnny Stecchino", 
             "Playtime", 
             "The Monster", 
-            "Life is Beautiful (Vita \u0102\u00a8 bella, La)"
+            "Life is Beautiful (Vita Ă¨ bella, La)"
         ]
     }, 
     {
@@ -18777,7 +18777,7 @@
         "content": "This comedy, directed by John Landis, contains the line I know each one of you, like I know my own smell!", 
         "correct_answer": 0, 
         "answers": [
-            "\u00c2\u0104Three Amigos!", 
+            "ÂĄThree Amigos!", 
             "Little Shop of Horrors", 
             "The Money Pit", 
             "Ferries Buellers Day Off"
@@ -18797,7 +18797,7 @@
         "content": "Several scenes were cut from this drama directed by Adrian Lyne because the studio deemed them psychologically damaging.", 
         "correct_answer": 0, 
         "answers": [
-            "9\u00c2\u02dd Weeks", 
+            "9Â˝ Weeks", 
             "Blue Velvet", 
             "Platoon", 
             "Sid and Nancy"
@@ -21302,7 +21302,7 @@
         ]
     }, 
     {
-        "content": "According to Soylent Green\u00e2\u0080\u0099s storyline, what were educated people called in 2022?", 
+        "content": "According to Soylent Greenâs storyline, what were educated people called in 2022?", 
         "correct_answer": 1, 
         "answers": [
             "Infostations", 
@@ -21362,7 +21362,7 @@
         ]
     }, 
     {
-        "content": "Much of the Soylent Greens music came from classical composers. Which of these composers\u00e2\u0080\u0099 music was not used on the movie?", 
+        "content": "Much of the Soylent Greens music came from classical composers. Which of these composersâ music was not used on the movie?", 
         "correct_answer": 3, 
         "answers": [
             "Tchaikovsky", 
@@ -22211,7 +22211,7 @@
         ]
     }, 
     {
-        "content": "In the 2006 movie Babel, which actress plays Richard\u00e2\u0080\u0099s wife Susan?", 
+        "content": "In the 2006 movie Babel, which actress plays Richardâs wife Susan?", 
         "correct_answer": 2, 
         "answers": [
             "Jennifer Lopez", 
@@ -22221,7 +22221,7 @@
         ]
     }, 
     {
-        "content": "In which country is Richard\u00e2\u0080\u0099s wife Susan shot in the 2006 movie Babel?", 
+        "content": "In which country is Richardâs wife Susan shot in the 2006 movie Babel?", 
         "correct_answer": 0, 
         "answers": [
             "Morocco", 
@@ -22783,7 +22783,7 @@
         "correct_answer": 1, 
         "answers": [
             "Naomi Campbell", 
-            "Gisele B\u0102\u017andchen", 
+            "Gisele BĂźndchen", 
             "Heidi Klum", 
             "Tyra Banks"
         ]
@@ -23265,7 +23265,7 @@
         ]
     }, 
     {
-        "content": "What was the first question that Bruce asked God at the beginning of the movie \u00e2\u0080\u0098Bruce Almighty\u00e2\u0080\u0099?", 
+        "content": "What was the first question that Bruce asked God at the beginning of the movie âBruce Almightyâ?", 
         "correct_answer": 1, 
         "answers": [
             "Are you there at all, Lord?", 
@@ -23291,7 +23291,7 @@
             "A woman rolling her eyes", 
             "A blonde blushing woman", 
             "A woman who is ready to give up her life for him", 
-            "A woman saying \u00e2\u0080\u0098Don\u00e2\u0080\u0099t say that on TV, honey!\u00e2\u0080\u0099"
+            "A woman saying âDonât say that on TV, honey!â"
         ]
     }, 
     {
@@ -23305,7 +23305,7 @@
         ]
     }, 
     {
-        "content": "What is the occupation of Jennifer Aniston\u00e2\u0080\u0099s character, Grace, in the 2003 movie \u00e2\u0080\u0098Bruce Almighty\u00e2\u0080\u0099?", 
+        "content": "What is the occupation of Jennifer Anistonâs character, Grace, in the 2003 movie âBruce Almightyâ?", 
         "correct_answer": 2, 
         "answers": [
             "Florist", 
@@ -23315,7 +23315,7 @@
         ]
     }, 
     {
-        "content": "What culinary miracle does Bruce Nolan perform in the cafeteria in the comedy \u00e2\u0080\u0098Bruce Almighty\u00e2\u0080\u0099?", 
+        "content": "What culinary miracle does Bruce Nolan perform in the cafeteria in the comedy âBruce Almightyâ?", 
         "correct_answer": 2, 
         "answers": [
             "He fries an egg with a single look.", 
@@ -25902,7 +25902,7 @@
         "content": "What condition does the brother of Tom Cruises character suffer from in the 1988 Oscar-winning drama movie Rain Man?", 
         "correct_answer": 3, 
         "answers": [
-            "Obsessive\u00e2\u0080\u0093compulsive disorder", 
+            "Obsessiveâcompulsive disorder", 
             "Schizophrenia", 
             "Bipolar disorder", 
             "Autism"
@@ -25937,7 +25937,7 @@
         ]
     }, 
     {
-        "content": "How many Godzilla movies were produced in Japan from the movie\u00e2\u0080\u0099s debut in 1954 to 2007?", 
+        "content": "How many Godzilla movies were produced in Japan from the movieâs debut in 1954 to 2007?", 
         "correct_answer": 0, 
         "answers": [
             "28", 
@@ -26479,7 +26479,7 @@
         ]
     }, 
     {
-        "content": "Woody Allens black-and-white movie Stardust Memories parodies the 1963 movie 8\u00c2\u02dd by this European director.", 
+        "content": "Woody Allens black-and-white movie Stardust Memories parodies the 1963 movie 8Â˝ by this European director.", 
         "correct_answer": 3, 
         "answers": [
             "Ingmar Bergman", 
@@ -26509,7 +26509,7 @@
         ]
     }, 
     {
-        "content": "Which of the following Spanish cities is prominently mentioned in Woody Allens 2008 film Vicky Cristina Barcelona, starring Pen\u0102\u0160lope Cruz and Javier Bardem?", 
+        "content": "Which of the following Spanish cities is prominently mentioned in Woody Allens 2008 film Vicky Cristina Barcelona, starring PenĂŠlope Cruz and Javier Bardem?", 
         "correct_answer": 1, 
         "answers": [
             "Valencia", 
@@ -26534,7 +26534,7 @@
         "answers": [
             "Mira Sorvino - Mighty Aphrodite", 
             "Diane Keaton - Manhattan", 
-            "Pen\u0102\u0160lope Cruz - Vicky Cristina Barcelona", 
+            "PenĂŠlope Cruz - Vicky Cristina Barcelona", 
             "Meryl Streep - Hannah and Her Sisters"
         ]
     }, 
@@ -26607,7 +26607,7 @@
         ]
     }, 
     {
-        "content": "In the movie Miracle, what causes Rob McClanahan and Jack O\u00e2\u0080\u0099Callahan to have a fight during an early practice?", 
+        "content": "In the movie Miracle, what causes Rob McClanahan and Jack OâCallahan to have a fight during an early practice?", 
         "correct_answer": 2, 
         "answers": [
             "They were trying to impress Herb Brooks.", 
@@ -31479,7 +31479,7 @@
         "answers": [
             "find him and kill him", 
             "I loved her very much", 
-            "\u00e2\u0080\u009cJohn G. Raped and Murdered My Wife.\u00e2\u0080\u009d", 
+            "âJohn G. Raped and Murdered My Wife.â", 
             "Ive done it"
         ]
     }, 
@@ -32136,7 +32136,7 @@
         ]
     }, 
     {
-        "content": "This actor, screenwriter, professor and director of The Firemens Ball was born in \u00c4\u008c\u0102\u0104slav, Czechoslovakia.", 
+        "content": "This actor, screenwriter, professor and director of The Firemens Ball was born in ÄĂĄslav, Czechoslovakia.", 
         "correct_answer": 2, 
         "answers": [
             "John Malkovich", 
@@ -32480,7 +32480,7 @@
         ]
     }, 
     {
-        "content": "In the 2004 film, The Notebook, Noah decides to do something insane to grab Allie\u00e2\u0080\u0099s attention. What does he do to make Ally agree to go on a date with him?", 
+        "content": "In the 2004 film, The Notebook, Noah decides to do something insane to grab Allieâs attention. What does he do to make Ally agree to go on a date with him?", 
         "correct_answer": 3, 
         "answers": [
             "He lays down in the middle of the street and refuses to get up.", 
@@ -32932,7 +32932,7 @@
         ]
     }, 
     {
-        "content": "This villain from a 1989 movie is at # 45 in the American Film Institute\u00e2\u0080\u0099s list of the 50 most memorable movie villains.", 
+        "content": "This villain from a 1989 movie is at # 45 in the American Film Instituteâs list of the 50 most memorable movie villains.", 
         "correct_answer": 0, 
         "answers": [
             "The Joker", 
@@ -32952,7 +32952,7 @@
         ]
     }, 
     {
-        "content": "A great dog-hater, this villain ranked # 39 on AFI\u00e2\u0080\u0099s list of the 50 top villains, is one of the three from the list coming from an animated film.", 
+        "content": "A great dog-hater, this villain ranked # 39 on AFIâs list of the 50 top villains, is one of the three from the list coming from an animated film.", 
         "correct_answer": 1, 
         "answers": [
             "The Queen", 
@@ -32962,7 +32962,7 @@
         ]
     }, 
     {
-        "content": "This villain was chosen for position # 33 on the AFI\u00e2\u0080\u0099s list of the top movie villains. He has been in many movies but his appearance in a 1931 movie is regarded as the most memorable.", 
+        "content": "This villain was chosen for position # 33 on the AFIâs list of the top movie villains. He has been in many movies but his appearance in a 1931 movie is regarded as the most memorable.", 
         "correct_answer": 2, 
         "answers": [
             "Frankenstein", 
@@ -32972,7 +32972,7 @@
         ]
     }, 
     {
-        "content": "A fierce eating machine, this creature is one of the few non-humans to appear on AFI\u00e2\u0080\u0099s list of the top movie villains, at # 18.", 
+        "content": "A fierce eating machine, this creature is one of the few non-humans to appear on AFIâs list of the top movie villains, at # 18.", 
         "correct_answer": 1, 
         "answers": [
             "Hal 9000 in 2001: A Space Odyssey", 
@@ -33356,7 +33356,7 @@
         ]
     }, 
     {
-        "content": "The once spoiled and petulant heroine weeps for the love and lover she lost. But she soon brightens and declares, \u00e2\u0080\u009cIll go home, and Ill think of some way to get him back! After all, tomorrow is another day! Name this movie, based on a Pulitzer Prize winning book, which garnered a record eight Oscars.", 
+        "content": "The once spoiled and petulant heroine weeps for the love and lover she lost. But she soon brightens and declares, âIll go home, and Ill think of some way to get him back! After all, tomorrow is another day! Name this movie, based on a Pulitzer Prize winning book, which garnered a record eight Oscars.", 
         "correct_answer": 2, 
         "answers": [
             "Wuthering Heights", 
@@ -33366,7 +33366,7 @@
         ]
     }, 
     {
-        "content": "The entomologist inspects the rare cocoon carefully and informs Starling that, \u00e2\u0080\u009cSomebody grew this guy. Fed him honey and nightshade, kept him warm. Somebody loved him.\u00e2\u0080\u009d Name the movie this scene is from.", 
+        "content": "The entomologist inspects the rare cocoon carefully and informs Starling that, âSomebody grew this guy. Fed him honey and nightshade, kept him warm. Somebody loved him.â Name the movie this scene is from.", 
         "correct_answer": 2, 
         "answers": [
             "A Beautiful Mind", 
@@ -33376,17 +33376,17 @@
         ]
     }, 
     {
-        "content": "After killing Sargent Judson, Montgomery Clift staggers back to Lorene\u00e2\u0080\u0099s apartment with a serious knife wound. She screams as he stumbles through the door. What is the title of this acclaimed drama about love, honor, and friendship?", 
+        "content": "After killing Sargent Judson, Montgomery Clift staggers back to Loreneâs apartment with a serious knife wound. She screams as he stumbles through the door. What is the title of this acclaimed drama about love, honor, and friendship?", 
         "correct_answer": 3, 
         "answers": [
-            "You Can\u00e2\u0080\u0099t Take It With You", 
+            "You Canât Take It With You", 
             "Peyton Place", 
             "How Green Was My Valley", 
             "From Here to Eternity"
         ]
     }, 
     {
-        "content": "In spite of his friends\u00e2\u0080\u0099 objections, Earnest runs to the phone booth, preparing to give Clara a call, stating \u00e2\u0080\u009cShes a dog. And Im a fat, ugly man. Well, all I know is I had a good time last night. Im gonna have a good time tonight. If we have enough good times together, Im gonna get down on my knees. Im gonna beg that girl to marry me!\u00e2\u0080\u009d Name this low-budget adaptation of a Paddy Chayefsky teleplay.", 
+        "content": "In spite of his friendsâ objections, Earnest runs to the phone booth, preparing to give Clara a call, stating âShes a dog. And Im a fat, ugly man. Well, all I know is I had a good time last night. Im gonna have a good time tonight. If we have enough good times together, Im gonna get down on my knees. Im gonna beg that girl to marry me!â Name this low-budget adaptation of a Paddy Chayefsky teleplay.", 
         "correct_answer": 0, 
         "answers": [
             "Marty", 
@@ -33396,17 +33396,17 @@
         ]
     }, 
     {
-        "content": "In Cuba, the terminally ill Hyman Roth brings up the issue of Moe Green\u00e2\u0080\u0099s hit, telling Michael, I didnt ask who gave the order, because it had nothing to do with business! Which movie is this from?", 
+        "content": "In Cuba, the terminally ill Hyman Roth brings up the issue of Moe Greenâs hit, telling Michael, I didnt ask who gave the order, because it had nothing to do with business! Which movie is this from?", 
         "correct_answer": 1, 
         "answers": [
-            "Prizzi\u00e2\u0080\u0099s Honor", 
+            "Prizziâs Honor", 
             "The Godfather II", 
             "Heaven Can Wait", 
             "Dog Day Afternoon"
         ]
     }, 
     {
-        "content": "Eric Liddell reassures his sister, who is fearful that he is neglecting his commitment to missionary work: \u00e2\u0080\u009cI believe that God made me for a purpose . . . but He also made me fast, and when I run, I feel His pleasure. What Best picture is this from?", 
+        "content": "Eric Liddell reassures his sister, who is fearful that he is neglecting his commitment to missionary work: âI believe that God made me for a purpose . . . but He also made me fast, and when I run, I feel His pleasure. What Best picture is this from?", 
         "correct_answer": 0, 
         "answers": [
             "Chariots of Fire", 
@@ -33416,7 +33416,7 @@
         ]
     }, 
     {
-        "content": "Sheen levels the AK-47 at the wounded Barnes, whom he knows is responsible for the death of Elias.  Barnes tells him in disgust to just \u00e2\u0080\u009cDo it!\u00e2\u0080\u009d, so he does, shooting Barnes three times in the chest. Name the movie this climactic scene is from.", 
+        "content": "Sheen levels the AK-47 at the wounded Barnes, whom he knows is responsible for the death of Elias.  Barnes tells him in disgust to just âDo it!â, so he does, shooting Barnes three times in the chest. Name the movie this climactic scene is from.", 
         "correct_answer": 2, 
         "answers": [
             "Apocalypse Now", 
@@ -33426,7 +33426,7 @@
         ]
     }, 
     {
-        "content": "In what Best Picture does Peter Lorre, playing a sniveling petty criminal, scream and beg Richard Blaine to save him, as the police arrest him in Blaine\u00e2\u0080\u0099s nightclub and drag him away for murdering two soldiers?", 
+        "content": "In what Best Picture does Peter Lorre, playing a sniveling petty criminal, scream and beg Richard Blaine to save him, as the police arrest him in Blaineâs nightclub and drag him away for murdering two soldiers?", 
         "correct_answer": 1, 
         "answers": [
             "Lawrence of Arabia", 
@@ -33621,7 +33621,7 @@
         "correct_answer": 1, 
         "answers": [
             "Santana", 
-            "Blue \u0102\u0096yster Cult", 
+            "Blue Ăyster Cult", 
             "Steely Dan", 
             "Foghat"
         ]
@@ -33667,7 +33667,7 @@
         ]
     }, 
     {
-        "content": "Painted gold by Auric Goldfinger, the eponymous villain of the film Goldfinger, this female character\u00e2\u0080\u0099s death convinces her sister to take sides with 007.", 
+        "content": "Painted gold by Auric Goldfinger, the eponymous villain of the film Goldfinger, this female characterâs death convinces her sister to take sides with 007.", 
         "correct_answer": 2, 
         "answers": [
             "Tracy Draco", 
@@ -34093,7 +34093,7 @@
         ]
     }, 
     {
-        "content": "This movie character had a lot to say when he described the following:\n...its like when youre a kid, the first time they tell you that the worlds turning and you just cant quite believe it cos everything looks like its standing still? I can feel it. The turn of the Earth. The ground beneath our feet is spinning at a 1000 miles an hour and the entire planet is hurtling round the sun at 67,000 miles an hour and I can feel it. Were falling through space, you and me, clinging to the skin of this tiny little world and if we let go \u00e2\u0080\u0094 thats who I am. Now forget me. Go home.", 
+        "content": "This movie character had a lot to say when he described the following:\n...its like when youre a kid, the first time they tell you that the worlds turning and you just cant quite believe it cos everything looks like its standing still? I can feel it. The turn of the Earth. The ground beneath our feet is spinning at a 1000 miles an hour and the entire planet is hurtling round the sun at 67,000 miles an hour and I can feel it. Were falling through space, you and me, clinging to the skin of this tiny little world and if we let go â thats who I am. Now forget me. Go home.", 
         "correct_answer": 1, 
         "answers": [
             "Exeter, This Island Earth", 
@@ -34813,7 +34813,7 @@
         ]
     }, 
     {
-        "content": "Winston Grooms price for the screenplay rights to his 1986 novel included a share of the profits. However, Paramount and the film\u00e2\u0080\u0099s producers refused to pay him, and to add insult to injury, Grooms name was not mentioned in any of the six Oscar-winner speeches. Name the novel and the self-titled 1994 movie.", 
+        "content": "Winston Grooms price for the screenplay rights to his 1986 novel included a share of the profits. However, Paramount and the filmâs producers refused to pay him, and to add insult to injury, Grooms name was not mentioned in any of the six Oscar-winner speeches. Name the novel and the self-titled 1994 movie.", 
         "correct_answer": 3, 
         "answers": [
             "The Silence of the Lambs", 
@@ -35010,7 +35010,7 @@
         ]
     }, 
     {
-        "content": "What does the drunk say when entering the aliens\u00e2\u0080\u0099 spaceship at the end of the 1996 movie Independence Day?", 
+        "content": "What does the drunk say when entering the aliensâ spaceship at the end of the 1996 movie Independence Day?", 
         "correct_answer": 1, 
         "answers": [
             "Die!", 
@@ -36399,7 +36399,7 @@
         ]
     }, 
     {
-        "content": "In the movie Pretty in Pink, Andie\u00e2\u0080\u0099s love interest finally makes the big move on her. How does he make it?", 
+        "content": "In the movie Pretty in Pink, Andieâs love interest finally makes the big move on her. How does he make it?", 
         "correct_answer": 3, 
         "answers": [
             "By sending a message through a friend", 
@@ -36567,7 +36567,7 @@
             "Schindlers List", 
             "Nigerian Nights", 
             "Hotel Rwanda", 
-            "H\u0102\u00b4tel des Mille Collines"
+            "HĂ´tel des Mille Collines"
         ]
     }, 
     {
@@ -37314,7 +37314,7 @@
         ]
     }, 
     {
-        "content": "What rapper appeared in the opening scene of the 2000 action\u00e2\u0080\u0093comedy Charlies Angels as Mr. Jones, an African priest who turns out to be Dylan in disguise?", 
+        "content": "What rapper appeared in the opening scene of the 2000 actionâcomedy Charlies Angels as Mr. Jones, an African priest who turns out to be Dylan in disguise?", 
         "correct_answer": 3, 
         "answers": [
             "P. Diddy", 
@@ -39346,7 +39346,7 @@
             "Delicatessen", 
             "The City of Lost Children", 
             "Three Lives and Only One Death", 
-            "The Double Life of V\u0102\u0160ronique"
+            "The Double Life of VĂŠronique"
         ]
     }, 
     {
@@ -40428,7 +40428,7 @@
         ]
     }, 
     {
-        "content": "Who sings the song Tell Me Something I Don\u00e2\u0080\u0099t Know in the movie Another Cinderella Story?", 
+        "content": "Who sings the song Tell Me Something I Donât Know in the movie Another Cinderella Story?", 
         "correct_answer": 3, 
         "answers": [
             "Joey and Mary", 
@@ -40482,8 +40482,8 @@
         "correct_answer": 3, 
         "answers": [
             "No Average Angel", 
-            "Valentine\u00e2\u0080\u0099s Dance Tango", 
-            "Tell Me Something I Don\u00e2\u0080\u0099t Know", 
+            "Valentineâs Dance Tango", 
+            "Tell Me Something I Donât Know", 
             "New Classic"
         ]
     }, 
@@ -41520,7 +41520,7 @@
         ]
     }, 
     {
-        "content": "The movie \u00e2\u0080\u009cThe Last Emperor\u00e2\u0080\u009d follows Puyis life from his ascension to the throne as a small boy to his imprisonment and political rehabilitation.", 
+        "content": "The movie âThe Last Emperorâ follows Puyis life from his ascension to the throne as a small boy to his imprisonment and political rehabilitation.", 
         "correct_answer": 1, 
         "answers": [
             "False", 
@@ -41528,7 +41528,7 @@
         ]
     }, 
     {
-        "content": "What genre is Bernardo Betoluccis movie \u00e2\u0080\u009cThe Conformist\u00e2\u0080\u009d?", 
+        "content": "What genre is Bernardo Betoluccis movie âThe Conformistâ?", 
         "correct_answer": 0, 
         "answers": [
             "Political drama", 
@@ -41890,7 +41890,7 @@
             "Dolce  Gabbana", 
             "Louis Vuitton", 
             "Calvin Klein", 
-            "L\u00e2\u0080\u0099Oreal"
+            "LâOreal"
         ]
     }, 
     {
