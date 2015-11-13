@@ -10,7 +10,7 @@
         ]
     }, 
     {
-        "content": "Which statesman uttered these words: âThus, by every device from the stick to the carrot, the emaciated Austrian donkey is made to pull the Nazi barrow up an ever-steepening hillâ?", 
+        "content": "Which statesman uttered these words: “Thus, by every device from the stick to the carrot, the emaciated Austrian donkey is made to pull the Nazi barrow up an ever-steepening hill”?", 
         "correct_answer": 0, 
         "answers": [
             "Winston Churchill", 
@@ -20,7 +20,7 @@
         ]
     }, 
     {
-        "content": "There is no glory in outstripping donkeysâ was a statement by this Greek Emperor.", 
+        "content": "There is no glory in outstripping donkeys” was a statement by this Greek Emperor.", 
         "correct_answer": 1, 
         "answers": [
             "Romulus Augustus", 
@@ -30,7 +30,7 @@
         ]
     }, 
     {
-        "content": "Which modern day comedian annoyed his wife with this saying: âI kept giving her donkey ears.â?", 
+        "content": "Which modern day comedian annoyed his wife with this saying: “I kept giving her donkey ears.”?", 
         "correct_answer": 0, 
         "answers": [
             "Chevy Chase", 
@@ -40,7 +40,7 @@
         ]
     }, 
     {
-        "content": "This Welsh-born English poet said: If a donkey bray at you, dont bray at himâ.", 
+        "content": "This Welsh-born English poet said: If a donkey bray at you, dont bray at him”.", 
         "correct_answer": 0, 
         "answers": [
             "George Herbert", 
@@ -50,7 +50,7 @@
         ]
     }, 
     {
-        "content": "âI lived in the US for donkeys years so it has been a journey back in time for me. If you have had personal experience of something, it is always more authentic.â is a quote by this Australian author.", 
+        "content": "“I lived in the US for donkeys years so it has been a journey back in time for me. If you have had personal experience of something, it is always more authentic.” is a quote by this Australian author.", 
         "correct_answer": 3, 
         "answers": [
             "Isobelle Carmody", 
@@ -60,7 +60,7 @@
         ]
     }, 
     {
-        "content": "âIn school nativity plays I was always the bloody little donkey, I was never Mary.â says this singer-songwriter who is also famous as a member of an all female group. Who is she?", 
+        "content": "“In school nativity plays I was always the bloody little donkey, I was never Mary.” says this singer-songwriter who is also famous as a member of an all female group. Who is she?", 
         "correct_answer": 2, 
         "answers": [
             "Keren Woodward", 
@@ -70,7 +70,7 @@
         ]
     }, 
     {
-        "content": "âThat which is called firmness in a king is called obstinacy in a donkeyâ is a quote by an American author and educator.", 
+        "content": "“That which is called firmness in a king is called obstinacy in a donkey” is a quote by an American author and educator.", 
         "correct_answer": 0, 
         "answers": [
             "John Erskine", 
@@ -80,7 +80,7 @@
         ]
     }, 
     {
-        "content": "âDo you think yourself wise? Then theres a donkey inside your waistcoatâ is a quote from one of the British preacher/theologians of the 19th century.", 
+        "content": "“Do you think yourself wise? Then theres a donkey inside your waistcoat” is a quote from one of the British preacher/theologians of the 19th century.", 
         "correct_answer": 0, 
         "answers": [
             "Charles H. Spurgeon", 
@@ -90,7 +90,7 @@
         ]
     }, 
     {
-        "content": "âI do believe the Democratic party has moved far to the right. I do believe that the party has a bunch of elephants running around in donkey clothes.â is a quote by this outstanding American reverend.", 
+        "content": "“I do believe the Democratic party has moved far to the right. I do believe that the party has a bunch of elephants running around in donkey clothes.” is a quote by this outstanding American reverend.", 
         "correct_answer": 0, 
         "answers": [
             "Al Sharpton", 
@@ -100,7 +100,7 @@
         ]
     }, 
     {
-        "content": "âYeah, blindfolds, just like pin the tail on us. Were the donkey.â is a quote from an American lead vocalist and musician of a heavy metal band. Who is he?", 
+        "content": "“Yeah, blindfolds, just like pin the tail on us. Were the donkey.” is a quote from an American lead vocalist and musician of a heavy metal band. Who is he?", 
         "correct_answer": 0, 
         "answers": [
             "Vince Neil", 
@@ -110,7 +110,7 @@
         ]
     }, 
     {
-        "content": "âLet him not recite the Veda on horseback, nor on a tree, nor on an elephant, nor in a boat ,or ship , nor on a donkey, nor on camel, nor standing on barren ground, nor riding in a carriage.â was spoken by one of the 11 gurus of India. Which one?", 
+        "content": "“Let him not recite the Veda on horseback, nor on a tree, nor on an elephant, nor in a boat ,or ship , nor on a donkey, nor on camel, nor standing on barren ground, nor riding in a carriage.” was spoken by one of the 11 gurus of India. Which one?", 
         "correct_answer": 1, 
         "answers": [
             "Guru Granth Sahib", 
@@ -620,7 +620,7 @@
         ]
     }, 
     {
-        "content": "This John was a writer. He received the Nobel price for literature in 1962 for his realistic and imaginative writing, combining as it does sympathetic humour and keen social perception.", 
+        "content": "This John was a writer. He received the Nobel price for literature in 1962 for his �realistic and imaginative writing, combining as it does sympathetic humour and keen social perception.�", 
         "correct_answer": 1, 
         "answers": [
             "John Tolkien", 
@@ -1158,7 +1158,7 @@
         "correct_answer": 0, 
         "answers": [
             "Charles Lutwidge Dodgson", 
-            "EugĂ¨ne Grindel", 
+            "Eugène Grindel", 
             "D.B. Wyndham-Lewis", 
             "Sue Denim"
         ]
@@ -1167,10 +1167,10 @@
         "content": "Paul Eluard was a major exponent of surrealism.  Many of his poems reflect the hardship after his separation with his first wife Gala, who left him for Salvador Dali.", 
         "correct_answer": 3, 
         "answers": [
-            "Jacques Anatole FranĂ§ois Thibault", 
+            "Jacques Anatole François Thibault", 
             "Lucy Beatrice Malleson", 
             "Harry Hart Frank", 
-            "EugĂ¨ne Grindel"
+            "Eugène Grindel"
         ]
     }, 
     {
@@ -1179,7 +1179,7 @@
         "answers": [
             "Hector Hugh Munro", 
             "Louis Cha", 
-            "Ricardo Eliecer NeftalĂ­ Reyes Basoalto", 
+            "Ricardo Eliecer Neftalí Reyes Basoalto", 
             "Eric Arthur Blair"
         ]
     }, 
@@ -1194,7 +1194,7 @@
         ]
     }, 
     {
-        "content": "Stendhal hated his father so he took the first opportunity to leave for Paris, where he became a lieutenant in Napoleonâs army.  He began his literary career after the fall of Napoleon in 1814.", 
+        "content": "Stendhal hated his father so he took the first opportunity to leave for Paris, where he became a lieutenant in Napoleon’s army.  He began his literary career after the fall of Napoleon in 1814.", 
         "correct_answer": 0, 
         "answers": [
             "Marie Henri Beyle", 
@@ -1210,7 +1210,7 @@
             "Jean Baptiste Poquelin", 
             "Georges Remi", 
             "James Oliver Rigney, Jr.", 
-            "GĂŠrard Labrunie"
+            "Gérard Labrunie"
         ]
     }, 
     {
@@ -1234,7 +1234,7 @@
         ]
     }, 
     {
-        "content": "Both in the year when Mark Twain was born and the year when he died, the Halleys Comet passed by Earth.\n-Mark borrowed his pseudonym from Mississippi riverboat terminology, where calling âmark twainâ? marked safe water.", 
+        "content": "Both in the year when Mark Twain was born and the year when he died, the Halleys Comet passed by Earth.\n-Mark borrowed his pseudonym from Mississippi riverboat terminology, where calling “mark twain�? marked safe water.", 
         "correct_answer": 1, 
         "answers": [
             "Johann Kaspar Schmidt", 
@@ -2534,7 +2534,7 @@
             "Giorgio Chirico", 
             "Max Ernst", 
             "Pablo Picasso", 
-            "Salvador DalĂ­"
+            "Salvador Dalí"
         ]
     }, 
     {
@@ -2624,7 +2624,7 @@
             "General George B. McClellan", 
             "General George G. Meade", 
             "Brig. General Barnard Elliott Bee, Jr.", 
-            "General Thomas âStonewallâ Jackson"
+            "General Thomas “Stonewall” Jackson"
         ]
     }, 
     {
@@ -2824,7 +2824,7 @@
             "Friedrich Nietzsche", 
             "Blaise Pascal", 
             "Jean-Paul Sartre", 
-            "JosĂŠ Ortega y Gasset"
+            "José Ortega y Gasset"
         ]
     }, 
     {
@@ -3638,10 +3638,10 @@
         "content": "1960, Sri Lanka.  She became the worlds first female prime minister.", 
         "correct_answer": 2, 
         "answers": [
-            "Golda MeĂŻr", 
+            "Golda Meïr", 
             "Indira Gandhi", 
             "Sirimavo Bandaranaike", 
-            "Ălisabeth DomitiĂŠn"
+            "Élisabeth Domitién"
         ]
     }, 
     {
@@ -3651,7 +3651,7 @@
             "Lydia Gueiler Tejada", 
             "Isabel Peron", 
             "Agatha Barbara", 
-            "FinnbogadĂłttir"
+            "Finnbogadóttir"
         ]
     }, 
     {
@@ -3668,8 +3668,8 @@
         "content": "Starting in 1966, she was the prime minister of India for 15 years.  Her political career was controversial, as she was viewed by some as a dictator.", 
         "correct_answer": 2, 
         "answers": [
-            "Golda MeĂŻr", 
-            "Ălisabeth DomitiĂŠn", 
+            "Golda Meïr", 
+            "Élisabeth Domitién", 
             "Indira Gandhi", 
             "Sirimavo Bandaranaike"
         ]
@@ -4005,7 +4005,7 @@
             "Brian ODea", 
             "George Jung", 
             "William Jardine", 
-            "Medellín Cartel"
+            "Medell�n Cartel"
         ]
     }, 
     {
@@ -4024,12 +4024,12 @@
         "answers": [
             "Howard Marks", 
             "Pablo Escobar", 
-            "Antônio Mota Graça", 
+            "Ant�nio Mota Gra�a", 
             "Manuel Noriega"
         ]
     }, 
     {
-        "content": "These three brothers were members of the MedellĂ­n Cartel. They were influential cocaine kingpins until they surrendered in 1990.", 
+        "content": "These three brothers were members of the Medellín Cartel. They were influential cocaine kingpins until they surrendered in 1990.", 
         "correct_answer": 2, 
         "answers": [
             "The Howard brothers", 
@@ -4052,9 +4052,9 @@
         "content": "This man led the Cali Cartel and was a rival of Pablo Escobar.  At its height, the cartel controlled over 80% of the cocaine exports from Colombia to the USA.", 
         "correct_answer": 2, 
         "answers": [
-            "AntĂ´nio Mota GraĂ§a", 
+            "Antônio Mota Graça", 
             "Juan Carlos", 
-            "Gilberto RodrĂ­guez Orejuela", 
+            "Gilberto Rodríguez Orejuela", 
             "Manuel Noriega"
         ]
     }, 
@@ -4358,7 +4358,7 @@
         "content": "Which actress played the role of Mary in the 1998 movie Theres Something About Mary?", 
         "correct_answer": 2, 
         "answers": [
-            "RenĂŠe Zellweger", 
+            "Renée Zellweger", 
             "Reese Witherspoon", 
             "Cameron Diaz", 
             "Gwyneth Paltrow"
@@ -4415,7 +4415,7 @@
         ]
     }, 
     {
-        "content": "Which Queen of France was guillotined in 1793 during the French Revolution of 1789â1799?", 
+        "content": "Which Queen of France was guillotined in 1793 during the French Revolution of 1789–1799?", 
         "correct_answer": 2, 
         "answers": [
             "Margrethe II", 
@@ -4738,10 +4738,10 @@
         "content": "In 1492, Christopher Columbus set sail on his first voyage in search of the Indies with which three ships?", 
         "correct_answer": 0, 
         "answers": [
-            "Santa Maria, Pinta and NiĂąa", 
-            "Navidad, Isabella and NiĂąa", 
+            "Santa Maria, Pinta and Niña", 
+            "Navidad, Isabella and Niña", 
             "Santa Maria, Navidad and Pinta", 
-            "Isabella, Castilla and NiĂąa"
+            "Isabella, Castilla and Niña"
         ]
     }, 
     {
@@ -4795,7 +4795,7 @@
         ]
     }, 
     {
-        "content": "In 2002, Venezuelan President Hugo ChĂĄvez changed the name of Columbus Day with what new name of the holiday?", 
+        "content": "In 2002, Venezuelan President Hugo Chávez changed the name of Columbus Day with what new name of the holiday?", 
         "correct_answer": 2, 
         "answers": [
             "The Day of Spain", 
@@ -4821,7 +4821,7 @@
             "Marco Polo", 
             "Ferdinand Magellan", 
             "Francisco Pizarro", 
-            "Leifr EirĂ­ksson"
+            "Leifr Eiríksson"
         ]
     }, 
     {
@@ -4885,7 +4885,7 @@
         ]
     }, 
     {
-        "content": "The popular mechanical puzzle Rubiks Cube, designed by Hungarian sculptor and professor of architecture ErnĹ Rubik, comes in four different versions depending on the number of its squares. In the standard 3Ă3Ă3 version what is the total number of visible cube faces?", 
+        "content": "The popular mechanical puzzle Rubiks Cube, designed by Hungarian sculptor and professor of architecture Ernő Rubik, comes in four different versions depending on the number of its squares. In the standard 3×3×3 version what is the total number of visible cube faces?", 
         "correct_answer": 1, 
         "answers": [
             "72", 
@@ -5187,7 +5187,7 @@
         "content": "What female writer, known for her very personal writings, said: And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.?", 
         "correct_answer": 0, 
         "answers": [
-            "AnaĂŻs Nin", 
+            "Anaïs Nin", 
             "Joan Baez", 
             "Alice Walker", 
             "Maya Angelou"
@@ -5460,7 +5460,7 @@
         ]
     }, 
     {
-        "content": "Which Mediterranean country is the most probable place of birth of a person named Pablo Diego JosĂŠ Francisco de Paula Juan Nepomuceno MarĂ­a de los Remedios Cipriano de la SantĂ­sima Trinidad Clito Ruiz?", 
+        "content": "Which Mediterranean country is the most probable place of birth of a person named Pablo Diego José Francisco de Paula Juan Nepomuceno María de los Remedios Cipriano de la Santísima Trinidad Clito Ruiz?", 
         "correct_answer": 0, 
         "answers": [
             "Spain", 
@@ -5560,7 +5560,7 @@
         ]
     }, 
     {
-        "content": "Naim SĂźleymanoÄlu is a Bulgarian champion in weightlifting. What origin does his last name suggest?", 
+        "content": "Naim Süleymanoğlu is a Bulgarian champion in weightlifting. What origin does his last name suggest?", 
         "correct_answer": 0, 
         "answers": [
             "Turkish", 
@@ -5824,7 +5824,7 @@
         ]
     }, 
     {
-        "content": "This future general  was educated at the expense of King Louis XVI, at Brienne and the Ăcole Militaire in Paris. He graduated in 1785, at the age of 16, and joined the artillery as a second lieutenant.", 
+        "content": "This future general  was educated at the expense of King Louis XVI, at Brienne and the École Militaire in Paris. He graduated in 1785, at the age of 16, and joined the artillery as a second lieutenant.", 
         "correct_answer": 3, 
         "answers": [
             "Napoleon Bonaparte II", 
@@ -5904,12 +5904,12 @@
         ]
     }, 
     {
-        "content": "This future general, born in Tokyo, graduated from the Army Staff College at the top of his class in 1915. He served as a military attachĂŠ in Switzerland and Germany from 1919 to 1922.", 
+        "content": "This future general, born in Tokyo, graduated from the Army Staff College at the top of his class in 1915. He served as a military attaché in Switzerland and Germany from 1919 to 1922.", 
         "correct_answer": 2, 
         "answers": [
             "Yamamoto Isoroku", 
             "Zeng Guofan", 
-            "TĹjĹ Hideki", 
+            "Tōjō Hideki", 
             "Minoru Genda"
         ]
     }, 
@@ -6212,7 +6212,7 @@
         ]
     }, 
     {
-        "content": "The following statement was made by which famous basketball player: What counts is not necessarily the size of the dog in the fight â itâs the size of the fight in the dog?", 
+        "content": "The following statement was made by which famous basketball player: What counts is not necessarily the size of the dog in the fight – it’s the size of the fight in the dog?", 
         "correct_answer": 0, 
         "answers": [
             "Greg Anderson", 
@@ -6852,7 +6852,7 @@
         ]
     }, 
     {
-        "content": "The following citation is taken from this novel of F. Scott Fitzgerald.\nHe wanted not association with glittering things and glittering people â he wanted the glittering things themselves.", 
+        "content": "The following citation is taken from this novel of F. Scott Fitzgerald.\nHe wanted not association with glittering things and glittering people — he wanted the glittering things themselves.", 
         "correct_answer": 1, 
         "answers": [
             "Tender Is the Night", 
@@ -7155,10 +7155,10 @@
         "content": "Identify the line that contains only surnames typical for the Spanish-speaking countries.", 
         "correct_answer": 1, 
         "answers": [
-            "GonzĂĄlez, Patel, Ruiz, Navarro, Ortiz", 
-            "MartĂ­nez, Alonso, Lopez, Gil, Morales", 
-            "PĂŠrez, MĂŠszĂĄros, DĂ­az, Sanz, Molina", 
-            "VĂĄzquez, Serrano, Ortiz, Ferreira, Delgado"
+            "González, Patel, Ruiz, Navarro, Ortiz", 
+            "Martínez, Alonso, Lopez, Gil, Morales", 
+            "Pérez, Mészáros, Díaz, Sanz, Molina", 
+            "Vázquez, Serrano, Ortiz, Ferreira, Delgado"
         ]
     }, 
     {
@@ -8170,7 +8170,7 @@
         ]
     }, 
     {
-        "content": "Standing ovations have become far too commonplace. What we need are ovations where the audience members all punch and kick one another. â was said by which unapologetic satirist?", 
+        "content": "Standing ovations have become far too commonplace. What we need are ovations where the audience members all punch and kick one another. “ was said by which unapologetic satirist?", 
         "correct_answer": 0, 
         "answers": [
             "George Carlin", 
@@ -8606,7 +8606,7 @@
         ]
     }, 
     {
-        "content": "The tagline for this movie was: For over two thousand years, Europe has survived many great disasters. Now for the real test. Chevy Chase  his family are coming from America!â What film is it the quote from?", 
+        "content": "The tagline for this movie was: For over two thousand years, Europe has survived many great disasters. Now for the real test. Chevy Chase  his family are coming from America!“ What film is it the quote from?", 
         "correct_answer": 2, 
         "answers": [
             "Time of Vacation", 
@@ -9230,7 +9230,7 @@
         "correct_answer": 3, 
         "answers": [
             "Pedro Sarmiento de Gamboa", 
-            "HernĂĄn CortĂŠs", 
+            "Hernán Cortés", 
             "Vasco da Gama", 
             "Hernando de Soto"
         ]
@@ -9280,9 +9280,9 @@
         "correct_answer": 2, 
         "answers": [
             "Jacques Cartier", 
-            "HernĂĄn CortĂŠs", 
+            "Hernán Cortés", 
             "Marco Polo", 
-            "Juan SebastiĂĄn Elcano"
+            "Juan Sebastián Elcano"
         ]
     }, 
     {
@@ -9292,7 +9292,7 @@
             "Friar Julian", 
             "Meriwether Lewis", 
             "Jacques Cartier", 
-            "Jean FranĂ§ois La PĂŠrouse"
+            "Jean François La Pérouse"
         ]
     }, 
     {
@@ -9300,9 +9300,9 @@
         "correct_answer": 0, 
         "answers": [
             "Francisco Pizarro", 
-            "Luis VĂĄez de Torres", 
-            "Juan Ponce de LeĂłn", 
-            "HernĂĄn CortĂŠs"
+            "Luis Váez de Torres", 
+            "Juan Ponce de León", 
+            "Hernán Cortés"
         ]
     }, 
     {
@@ -9950,7 +9950,7 @@
         ]
     }, 
     {
-        "content": "Madeleine Albright, the first woman to become United States Secretary of State, was born Marie Jana KorbelovĂĄ in this European country.", 
+        "content": "Madeleine Albright, the first woman to become United States Secretary of State, was born Marie Jana Korbelová in this European country.", 
         "correct_answer": 0, 
         "answers": [
             "Czechoslovakia", 
@@ -10030,7 +10030,7 @@
         ]
     }, 
     {
-        "content": "SĂŠgolĂ¨ne Royal, a prominent Socialist, was the first woman in France to be nominated for President by a major party. Who defeated her in the 2007 presidential election?", 
+        "content": "Ségolène Royal, a prominent Socialist, was the first woman in France to be nominated for President by a major party. Who defeated her in the 2007 presidential election?", 
         "correct_answer": 1, 
         "answers": [
             "Francois Mitterrand", 
@@ -10040,7 +10040,7 @@
         ]
     }, 
     {
-        "content": "2007 mark this dictatorâs 38th year of rule. The people in his North African land seem to disappear whenever they speak out against him. His nation is loaded with oil. He has threatened to invade his neighbor, Chad. Always anti-American, it was reported that he once dressed as a woman when he feared American invasion. Who is this dictator?", 
+        "content": "2007 mark this dictator’s 38th year of rule. The people in his North African land seem to disappear whenever they speak out against him. His nation is loaded with oil. He has threatened to invade his neighbor, Chad. Always anti-American, it was reported that he once dressed as a woman when he feared American invasion. Who is this dictator?", 
         "correct_answer": 2, 
         "answers": [
             "Paul Biya", 
@@ -10100,7 +10100,7 @@
         ]
     }, 
     {
-        "content": "Although he was once considered to be the man who would lead Africa into a new age of freedom and prosperity, in 2007 he was the dictator of the nation with the shortest life expectancy. One-fourth of his nationâs children are orphans. Who is this dictator of Zimbabwe?", 
+        "content": "Although he was once considered to be the man who would lead Africa into a new age of freedom and prosperity, in 2007 he was the dictator of the nation with the shortest life expectancy. One-fourth of his nation’s children are orphans. Who is this dictator of Zimbabwe?", 
         "correct_answer": 1, 
         "answers": [
             "Pervez Musharraf", 
@@ -10120,7 +10120,7 @@
         ]
     }, 
     {
-        "content": "In 2007 this person was the de facto ruler of Saudi Arabia since 1995, king since 2005 and the ruler of the worldâs largest oil reserves.", 
+        "content": "In 2007 this person was the de facto ruler of Saudi Arabia since 1995, king since 2005 and the ruler of the world’s largest oil reserves.", 
         "correct_answer": 3, 
         "answers": [
             "Hugo Chavez", 
@@ -10360,7 +10360,7 @@
         ]
     }, 
     {
-        "content": "What late actor (April 3, 1924 â July 1, 2004), born in Omaha, made his home in Tahiti?", 
+        "content": "What late actor (April 3, 1924 – July 1, 2004), born in Omaha, made his home in Tahiti?", 
         "correct_answer": 3, 
         "answers": [
             "Laurence Olivier", 
@@ -10428,17 +10428,17 @@
         ]
     }, 
     {
-        "content": "Which great scientist said the following humorous statement about love: âGravitation cannot be held responsible for people falling in love.â?", 
+        "content": "Which great scientist said the following humorous statement about love: “Gravitation cannot be held responsible for people falling in love.“?", 
         "correct_answer": 2, 
         "answers": [
             "Isaac Newton", 
             "Plato", 
             "Albert Einstein", 
-            "RenĂŠ Descartes"
+            "René Descartes"
         ]
     }, 
     {
-        "content": "âHe felt now that he was not simply close to her, but that he did not know where he ended and she began.â is an excerpt from a novel by which great 19-century writer?", 
+        "content": "“He felt now that he was not simply close to her, but that he did not know where he ended and she began.” is an excerpt from a novel by which great 19-century writer?", 
         "correct_answer": 3, 
         "answers": [
             "George Eliot", 
@@ -10448,11 +10448,11 @@
         ]
     }, 
     {
-        "content": "Which French author made the following conclusion about the presence of love:â No disguise can long conceal love where it is, nor feign it where it is not.â?", 
+        "content": "Which French author made the following conclusion about the presence of love:” No disguise can long conceal love where it is, nor feign it where it is not.”?", 
         "correct_answer": 1, 
         "answers": [
             "Paul Lafargue", 
-            "FranĂ§ois de La Rochefoucauld", 
+            "François de La Rochefoucauld", 
             "Victor Hugo", 
             "Voltaire"
         ]
@@ -10653,7 +10653,7 @@
         "content": "Which of these is the correct official name of a Canadian province?", 
         "correct_answer": 3, 
         "answers": [
-            "Nouvelle-Ăcosse", 
+            "Nouvelle-Écosse", 
             "New Scotland", 
             "Alba Nuadh", 
             "Nova Scotia"
@@ -10690,7 +10690,7 @@
         ]
     }, 
     {
-        "content": "Which present day territory was NOT part of Nueva EspaĂąa (New Spain)?", 
+        "content": "Which present day territory was NOT part of Nueva España (New Spain)?", 
         "correct_answer": 2, 
         "answers": [
             "Texas", 
@@ -11154,7 +11154,7 @@
         ]
     }, 
     {
-        "content": "What Victorian author is famous for writing the social novel North and South and the biography of fellow novelist Charlotte BrontĂŤ?", 
+        "content": "What Victorian author is famous for writing the social novel North and South and the biography of fellow novelist Charlotte Brontë?", 
         "correct_answer": 3, 
         "answers": [
             "Elizabeth Barrett Browning", 
@@ -11244,7 +11244,7 @@
         ]
     }, 
     {
-        "content": "When did Barack Obamaâs term as Senator in the United States Senate begin?", 
+        "content": "When did Barack Obama’s term as Senator in the United States Senate begin?", 
         "correct_answer": 0, 
         "answers": [
             "2005", 
@@ -11272,7 +11272,7 @@
         ]
     }, 
     {
-        "content": "To which country did Barack Obamaâs family move when he was six?", 
+        "content": "To which country did Barack Obama’s family move when he was six?", 
         "correct_answer": 3, 
         "answers": [
             "Kenya", 
@@ -11312,7 +11312,7 @@
         ]
     }, 
     {
-        "content": "What is the name of Senator Barack Obamaâs 2004 book that became number one bestseller on the New York Times nonfiction list?", 
+        "content": "What is the name of Senator Barack Obama’s 2004 book that became number one bestseller on the New York Times nonfiction list?", 
         "correct_answer": 3, 
         "answers": [
             "The Audacity of a Nation", 
@@ -11686,13 +11686,13 @@
         ]
     }, 
     {
-        "content": "This popular French king who tried to provide his citizens with a âchicken in the pot every Sundayâ became known for his refusal to bathe and mask his odor with cologne after hunting.", 
+        "content": "This popular French king who tried to provide his citizens with a “chicken in the pot every Sunday” became known for his refusal to bathe and mask his odor with cologne after hunting.", 
         "correct_answer": 2, 
         "answers": [
             "Antoine of Navarre", 
             "Louis XIII of France", 
             "Henry IV of France", 
-            "Nicholas Henri, Duke of OrlĂŠans"
+            "Nicholas Henri, Duke of Orléans"
         ]
     }, 
     {
@@ -11988,7 +11988,7 @@
         ]
     }, 
     {
-        "content": "This Canadian Prime Minister is considered to be âthe father of confederation.", 
+        "content": "This Canadian Prime Minister is considered to be “the father of confederation.", 
         "correct_answer": 3, 
         "answers": [
             "Sir John Thompson", 
@@ -12008,12 +12008,12 @@
         ]
     }, 
     {
-        "content": "Which Canadian Prime Ministers was born on October 18, 1919 in MontrĂŠal, Quebec?", 
+        "content": "Which Canadian Prime Ministers was born on October 18, 1919 in Montréal, Quebec?", 
         "correct_answer": 3, 
         "answers": [
             "Joe Clark", 
             "Brian Mulroney", 
-            "Jean ChrĂŠtien", 
+            "Jean Chrétien", 
             "Pierre Elliott Trudeau"
         ]
     }, 
@@ -12028,7 +12028,7 @@
         ]
     }, 
     {
-        "content": "Which Canadian Prime Ministerâs photo is on the Canadian $5 bill?", 
+        "content": "Which Canadian Prime Minister’s photo is on the Canadian $5 bill?", 
         "correct_answer": 3, 
         "answers": [
             "Sir John Thompson", 
@@ -12144,7 +12144,7 @@
         "correct_answer": 2, 
         "answers": [
             "WWII", 
-            "SpanishâAmerican War", 
+            "Spanish–American War", 
             "American Civil War", 
             "Revolutionary War"
         ]
@@ -12578,7 +12578,7 @@
         ]
     }, 
     {
-        "content": "In 1968 George W. Bush obtained a bachelorâs degree in history from which university?", 
+        "content": "In 1968 George W. Bush obtained a bachelor’s degree in history from which university?", 
         "correct_answer": 1, 
         "answers": [
             "Harvard University", 
@@ -12950,7 +12950,7 @@
         ]
     }, 
     {
-        "content": "What was the nickname of the third child of John I of Portugal â Prince Henry, who was responsible for the beginning of the European worldwide explorations?", 
+        "content": "What was the nickname of the third child of John I of Portugal – Prince Henry, who was responsible for the beginning of the European worldwide explorations?", 
         "correct_answer": 0, 
         "answers": [
             "The Navigator", 
@@ -12970,7 +12970,7 @@
         ]
     }, 
     {
-        "content": "In his initial voyage in 1492, in an attempt to find a shorter and more direct trade route to Asia, Christopher Columbus found what was called a âNew Worldâ. What is the territorys present day name?", 
+        "content": "In his initial voyage in 1492, in an attempt to find a shorter and more direct trade route to Asia, Christopher Columbus found what was called a “New World”. What is the territorys present day name?", 
         "correct_answer": 2, 
         "answers": [
             "Asia", 
@@ -12994,13 +12994,13 @@
         "correct_answer": 2, 
         "answers": [
             "Bartolomeu Dias", 
-            "Pedro Ălvares Cabral", 
+            "Pedro Álvares Cabral", 
             "Vasco da Gama", 
             "Ferdinand Magellan"
         ]
     }, 
     {
-        "content": "Commissioned to establish permanent commercial relations and to introduce Christianity wherever he went, Portuguese explorer Pedro Ălvares Cabral left Lisbon on 9 March 1500 with a fleet of thirteen ships and discovered what present day territory?", 
+        "content": "Commissioned to establish permanent commercial relations and to introduce Christianity wherever he went, Portuguese explorer Pedro Álvares Cabral left Lisbon on 9 March 1500 with a fleet of thirteen ships and discovered what present day territory?", 
         "correct_answer": 0, 
         "answers": [
             "Brazil", 
@@ -13010,32 +13010,32 @@
         ]
     }, 
     {
-        "content": "The name of the largest ocean, the Pacific Ocean, is derived from the Latin name âMare Pacificumâ, which means peaceful sea. Who gave the ocean this name?", 
+        "content": "The name of the largest ocean, the Pacific Ocean, is derived from the Latin name “Mare Pacificum”, which means peaceful sea. Who gave the ocean this name?", 
         "correct_answer": 1, 
         "answers": [
             "Charles Darwin", 
             "Ferdinand Magellan", 
             "Mariana Trench", 
-            "Vasco NĂşĂąez de Balboa"
+            "Vasco Núñez de Balboa"
         ]
     }, 
     {
         "content": "Who completed the first circumnavigation of the globe in a single expedition in September 1522?", 
         "correct_answer": 0, 
         "answers": [
-            "Juan SebastiĂĄn Elcano", 
+            "Juan Sebastián Elcano", 
             "Ferdinand Magellan", 
             "Vasco da Gama", 
             "Marco Polo"
         ]
     }, 
     {
-        "content": "In 1519, in search of the Spice Islands, Portuguese navigator Ferdinand Magellan set out on an expedition with 241 men on five ships, called ConcepciĂłn, San Antonio,Trinidad, Victoria and what else?", 
+        "content": "In 1519, in search of the Spice Islands, Portuguese navigator Ferdinand Magellan set out on an expedition with 241 men on five ships, called Concepción, San Antonio,Trinidad, Victoria and what else?", 
         "correct_answer": 3, 
         "answers": [
             "Titanic", 
             "Tobago", 
-            "SĂŁo Gabriel", 
+            "São Gabriel", 
             "Santiago"
         ]
     }, 
@@ -14620,7 +14620,7 @@
         ]
     }, 
     {
-        "content": "After Theodore Rooseveltâs first wife died, he married a childhood sweetheart.", 
+        "content": "After Theodore Roosevelt’s first wife died, he married a childhood sweetheart.", 
         "correct_answer": 0, 
         "answers": [
             "True", 
@@ -14656,7 +14656,7 @@
         ]
     }, 
     {
-        "content": "After his first wifeâs death, Theodore Roosevelt went through another personal tragedy â his favorite son committed suicide. Where did this happen?", 
+        "content": "After his first wife’s death, Theodore Roosevelt went through another personal tragedy – his favorite son committed suicide. Where did this happen?", 
         "correct_answer": 0, 
         "answers": [
             "Alaska", 
@@ -14802,7 +14802,7 @@
         ]
     }, 
     {
-        "content": "What English pirate captain employed in his crew the only two female pirates of the Golden Age of Piracy â Anne Bonny and Mary Read?", 
+        "content": "What English pirate captain employed in his crew the only two female pirates of the Golden Age of Piracy – Anne Bonny and Mary Read?", 
         "correct_answer": 2, 
         "answers": [
             "Black Bart", 
@@ -15372,7 +15372,7 @@
         ]
     }, 
     {
-        "content": "Around the year 1200 AD a chieftain, called TemĂźjin, united tribes between Manchuria and Altai mountains and thus started one of the biggest empires in the world history. By what name is TemĂźjin better known?", 
+        "content": "Around the year 1200 AD a chieftain, called Temüjin, united tribes between Manchuria and Altai mountains and thus started one of the biggest empires in the world history. By what name is Temüjin better known?", 
         "correct_answer": 1, 
         "answers": [
             "Tsar Ivan the Terrible", 
@@ -15978,7 +15978,7 @@
         ]
     }, 
     {
-        "content": "Henry VIII was known as a âRenaissance Manâ.", 
+        "content": "Henry VIII was known as a “Renaissance Man”.", 
         "correct_answer": 1, 
         "answers": [
             "False", 
@@ -16178,7 +16178,7 @@
         ]
     }, 
     {
-        "content": "This Spanish lady came to England in 1371 as part of the retinue accompanying DoĂąa Constanza.", 
+        "content": "This Spanish lady came to England in 1371 as part of the retinue accompanying Doña Constanza.", 
         "correct_answer": 1, 
         "answers": [
             "Isabella II", 
@@ -16234,7 +16234,7 @@
         ]
     }, 
     {
-        "content": "Which of Henry VIIIs daughters became known as âBloody Maryâ?", 
+        "content": "Which of Henry VIIIs daughters became known as “Bloody Mary”?", 
         "correct_answer": 1, 
         "answers": [
             "Mary Queen of Scots", 
@@ -16292,12 +16292,12 @@
         ]
     }, 
     {
-        "content": "This Spanish architect, whose best works include Casa MilĂ  and Casa BatllĂłollowed in Barcelona, was a strict vegetarian from an early age because of his rheumatism.", 
+        "content": "This Spanish architect, whose best works include Casa Milà and Casa Batllóollowed in Barcelona, was a strict vegetarian from an early age because of his rheumatism.", 
         "correct_answer": 0, 
         "answers": [
             "Antonio Gaudi", 
-            "Josep LluĂ­s Sert", 
-            "LluĂ­s DomĂ¨nech i Montaner", 
+            "Josep Lluís Sert", 
+            "Lluís Domènech i Montaner", 
             "Antonio Palacios"
         ]
     }, 
@@ -16348,7 +16348,7 @@
             "Hannes Kolehmainen", 
             "Ville Ritola", 
             "Paavo Nurmi", 
-            "Lasse VirĂŠn"
+            "Lasse Virén"
         ]
     }, 
     {
@@ -16452,10 +16452,10 @@
         ]
     }, 
     {
-        "content": "This famous artist and co-founder of the Cubist movement said, Give me a museum and Ill fill it.â", 
+        "content": "This famous artist and co-founder of the Cubist movement said, Give me a museum and Ill fill it.”", 
         "correct_answer": 2, 
         "answers": [
-            "Paul CĂŠzanne", 
+            "Paul Cézanne", 
             "Henri Matisse", 
             "Pablo Picasso", 
             "Paul Gauguin"
@@ -16682,12 +16682,12 @@
         ]
     }, 
     {
-        "content": "Which of the following was popular as âThe Wondermanâ?", 
+        "content": "Which of the following was popular as “The Wonderman”?", 
         "correct_answer": 1, 
         "answers": [
             "All of these", 
             "Comte St Germain", 
-            "Gil PĂŠrez", 
+            "Gil Pérez", 
             "The Man in the Iron Mask"
         ]
     }, 
@@ -16858,7 +16858,7 @@
         ]
     }, 
     {
-        "content": "What animal is depicted in Leonardo da Vincis portrait of Cecilia Gallerani from around 1489â1490?", 
+        "content": "What animal is depicted in Leonardo da Vincis portrait of Cecilia Gallerani from around 1489–1490?", 
         "correct_answer": 2, 
         "answers": [
             "Dog", 
@@ -17158,7 +17158,7 @@
         ]
     }, 
     {
-        "content": "Name the eighteenth US President who was in office from 1869 â 1877.", 
+        "content": "Name the eighteenth US President who was in office from 1869 – 1877.", 
         "correct_answer": 2, 
         "answers": [
             "Abraham Lincoln", 
@@ -17619,7 +17619,7 @@
         "answers": [
             "Enrico Fermi", 
             "Benito Mussolini", 
-            "Giuseppe Mazziniâ", 
+            "Giuseppe Mazzini‎", 
             "Giuseppe Garibaldi"
         ]
     }, 
@@ -17760,7 +17760,7 @@
         ]
     }, 
     {
-        "content": "William II (or âRufusâ) of England died in which of the following years?", 
+        "content": "William II (or “Rufus”) of England died in which of the following years?", 
         "correct_answer": 3, 
         "answers": [
             "1077", 
@@ -18285,8 +18285,8 @@
         "answers": [
             "Frederic Joliot-Curie", 
             "Pierre Curie", 
-            "Maria SkĹodowska-Curie", 
-            "IrĂ¨ne Joliot-Curie"
+            "Maria Skłodowska-Curie", 
+            "Irène Joliot-Curie"
         ]
     }, 
     {
@@ -18392,7 +18392,7 @@
         ]
     }, 
     {
-        "content": "Which German naturalist, explorer, and geographer introduced a new section in geography called Geography of Plantsâ?", 
+        "content": "Which German naturalist, explorer, and geographer introduced a new section in geography called Geography of Plants”?", 
         "correct_answer": 0, 
         "answers": [
             "Alexander von Humboldt", 
@@ -18462,7 +18462,7 @@
         ]
     }, 
     {
-        "content": "This British officer took part in the Arab revolt against Ottoman Turkish rule of 1916â18.", 
+        "content": "This British officer took part in the Arab revolt against Ottoman Turkish rule of 1916–18.", 
         "correct_answer": 0, 
         "answers": [
             "None of these", 
@@ -18804,7 +18804,7 @@
             "A commando special operations group formed by Sharon in 1953", 
             "A mechanized brigade founded by Sharon to push the Syrians away from Tiberius", 
             "A division of soldiers ordered by Sharon to attack Tyre in Lebanon", 
-            "A secret group of naval operatives similar to the USAâs Navy SEALs"
+            "A secret group of naval operatives similar to the USA’s Navy SEALs"
         ]
     }, 
     {
@@ -19134,7 +19134,7 @@
         ]
     }, 
     {
-        "content": "This American actress and comedian starred in the 1996 movie Fatherâs Day as Carrie Lawrence.", 
+        "content": "This American actress and comedian starred in the 1996 movie Father’s Day as Carrie Lawrence.", 
         "correct_answer": 2, 
         "answers": [
             "Mishel Pheifer", 
@@ -19292,7 +19292,7 @@
         "correct_answer": 3, 
         "answers": [
             "Edward Teach", 
-            "Mishel DâGramon", 
+            "Mishel D’Gramon", 
             "Jan David No", 
             "Robert Surcouf"
         ]
@@ -19338,7 +19338,7 @@
         ]
     }, 
     {
-        "content": "Why were popular female pirates Đnne Bonny and Mary Read not executed after they were captured?", 
+        "content": "Why were popular female pirates Аnne Bonny and Mary Read not executed after they were captured?", 
         "correct_answer": 1, 
         "answers": [
             "because they escaped from prison", 
@@ -20083,7 +20083,7 @@
         "content": "In 624, this priestess led the Arabian Quraish against Muhammad.", 
         "correct_answer": 2, 
         "answers": [
-            "Nusaybah bint Kaâab", 
+            "Nusaybah bint Ka’ab", 
             "Aisyah", 
             "Hind - Al - Hunnud", 
             "Khadijah"
@@ -20150,7 +20150,7 @@
         ]
     }, 
     {
-        "content": "In July 2006, Fidel Castro transferred his duties to his brother RaĂşl, Vice President of the Cuban Council of State for what reason?", 
+        "content": "In July 2006, Fidel Castro transferred his duties to his brother Raúl, Vice President of the Cuban Council of State for what reason?", 
         "correct_answer": 1, 
         "answers": [
             "Fidel Castro retired from the position of President of the Republic of Cuba.", 
@@ -20164,8 +20164,8 @@
         "correct_answer": 3, 
         "answers": [
             "Naty Revuelta", 
-            "Mirta DĂ­az-Balart", 
-            "Alina FernĂĄndez-Revuelta", 
+            "Mirta Díaz-Balart", 
+            "Alina Fernández-Revuelta", 
             "Dalia Soto del Valle"
         ]
     }, 
@@ -20176,7 +20176,7 @@
             "Primer Teniente", 
             "General de Brigada", 
             "Comandante en Jefe", 
-            "General de EjĂŠrcito"
+            "General de Ejército"
         ]
     }, 
     {
@@ -21170,7 +21170,7 @@
         ]
     }, 
     {
-        "content": "Which of these scientists does not have an internationally accepted SI (systĂ¨me internationale) physical unit named after him?", 
+        "content": "Which of these scientists does not have an internationally accepted SI (système internationale) physical unit named after him?", 
         "correct_answer": 2, 
         "answers": [
             "Michael Faraday", 
@@ -21190,13 +21190,13 @@
         ]
     }, 
     {
-        "content": "If a mathematician has an ErdĹs number of 2, what does it mean?", 
+        "content": "If a mathematician has an Erdős number of 2, what does it mean?", 
         "correct_answer": 2, 
         "answers": [
-            "The mathematician was a student of a student of Paul ErdĹs.", 
-            "The mathematician was a student of Paul ErdĹs.", 
-            "The mathematician has written a paper with someone who has written an academic paper with Paul ErdĹs.", 
-            "The mathematician has written an academic paper with Paul ErdĹs."
+            "The mathematician was a student of a student of Paul Erdős.", 
+            "The mathematician was a student of Paul Erdős.", 
+            "The mathematician has written a paper with someone who has written an academic paper with Paul Erdős.", 
+            "The mathematician has written an academic paper with Paul Erdős."
         ]
     }, 
     {
@@ -21442,7 +21442,7 @@
             "Lyudmila Putina", 
             "Sonia Gandhi", 
             "Eva Peron", 
-            "GraĂ§a Machel"
+            "Graça Machel"
         ]
     }, 
     {
@@ -21461,8 +21461,8 @@
         "answers": [
             "Marie-Dominique Culioli", 
             "Bernadette Chirac", 
-            "CĂŠcilia Ciganer-AlbĂŠniz", 
-            "InĂ¨s de la Fressange"
+            "Cécilia Ciganer-Albéniz", 
+            "Inès de la Fressange"
         ]
     }, 
     {
@@ -21479,10 +21479,10 @@
         "content": "In 1974, this first lady of Argentina succeeded her husband as president of the country thus becoming the first non-royal female head of state in the Western Hemisphere.", 
         "correct_answer": 2, 
         "answers": [
-            "Eva PerĂłn", 
+            "Eva Perón", 
             "Corazon Aquino", 
-            "Isabel MartĂ­nez de PerĂłn", 
-            "Cristina FernĂĄndez"
+            "Isabel Martínez de Perón", 
+            "Cristina Fernández"
         ]
     }, 
     {
@@ -21710,7 +21710,7 @@
         "correct_answer": 3, 
         "answers": [
             "Andrea Corr", 
-            "Dolores OâRiordan", 
+            "Dolores O’Riordan", 
             "Sinead OConnor", 
             "Enya"
         ]
@@ -22228,7 +22228,7 @@
             "All of these", 
             "sending millions of livres of treasury money to Austria", 
             "incest with her son", 
-            "plotting to kill the Duke of OrlĂŠans"
+            "plotting to kill the Duke of Orléans"
         ]
     }, 
     {
@@ -23104,7 +23104,7 @@
         ]
     }, 
     {
-        "content": "Isaac Newtonâs mother removed him from school as she wanted him to be which of the following?", 
+        "content": "Isaac Newton’s mother removed him from school as she wanted him to be which of the following?", 
         "correct_answer": 3, 
         "answers": [
             "Painter", 
@@ -23190,7 +23190,7 @@
         ]
     }, 
     {
-        "content": "Victor Hugo is the author of The Hunchback of Notre Dame and Les MisĂŠrables.", 
+        "content": "Victor Hugo is the author of The Hunchback of Notre Dame and Les Misérables.", 
         "correct_answer": 1, 
         "answers": [
             "False", 
@@ -23202,8 +23202,8 @@
         "correct_answer": 1, 
         "answers": [
             "Lui De Fines", 
-            "AndrĂŠ Bourvil", 
-            "GĂŠrard Depardieu", 
+            "André Bourvil", 
+            "Gérard Depardieu", 
             "None of these"
         ]
     }, 
@@ -23211,7 +23211,7 @@
         "content": "What is the stage name of Jean-Baptiste Poquelin, the 17th century satirical author and actor who is considered to be the father of French comedy.", 
         "correct_answer": 0, 
         "answers": [
-            "MoliĂ¨re", 
+            "Molière", 
             "Jean-Paul Sartre", 
             "Stendhal", 
             "None of these"
@@ -23229,10 +23229,10 @@
         "content": "This French singer became universally regarded as a cultural icon and symbol of France. Her nickname is a colloquialism for sparrow.", 
         "correct_answer": 0, 
         "answers": [
-            "Ădith Piaf", 
+            "Édith Piaf", 
             "Marie-France Boyer", 
             "Dalida", 
-            "JosĂŠphine de La Baume"
+            "Joséphine de La Baume"
         ]
     }, 
     {
@@ -23261,7 +23261,7 @@
         "answers": [
             "John Ericsson", 
             "Nils Bohlin", 
-            "Gustaf DalĂŠn", 
+            "Gustaf Dalén", 
             "Oscar Kjellberg"
         ]
     }, 
@@ -23289,10 +23289,10 @@
         "content": "Which of these French chemists invented margarine in 1869?", 
         "correct_answer": 1, 
         "answers": [
-            "Edmond FrĂŠmy", 
-            "Hippolyte MĂ¨ge-MouriĂŠs", 
+            "Edmond Frémy", 
+            "Hippolyte Mège-Mouriés", 
             "Mathieu Orfila", 
-            "Jean FrĂŠchet"
+            "Jean Fréchet"
         ]
     }, 
     {
@@ -23312,7 +23312,7 @@
             "Johan Petter Johansson", 
             "Frans Wilhelm Lindqvist", 
             "Carl Munters", 
-            "Jonas LidstrĂśmer"
+            "Jonas Lidströmer"
         ]
     }, 
     {
@@ -23546,7 +23546,7 @@
         ]
     }, 
     {
-        "content": "What prominent Italian actor starred in Federico Fellinis comedy-drama films La Dolce Vita and 8Â˝?", 
+        "content": "What prominent Italian actor starred in Federico Fellinis comedy-drama films La Dolce Vita and 8½?", 
         "correct_answer": 1, 
         "answers": [
             "Alberto Sordi", 
@@ -23626,7 +23626,7 @@
         ]
     }, 
     {
-        "content": "This Italian actress appeared in some of the most prominent European films of the 1960s and 1970s, including Federico Fellinis 8Â˝ and Sergio Leones epic Once Upon a Time in the West.", 
+        "content": "This Italian actress appeared in some of the most prominent European films of the 1960s and 1970s, including Federico Fellinis 8½ and Sergio Leones epic Once Upon a Time in the West.", 
         "correct_answer": 3, 
         "answers": [
             "Ornella Mutti", 
@@ -23782,7 +23782,7 @@
         ]
     }, 
     {
-        "content": "Who published the book âFour Voyages of Amerigo Vespucciâ in Latin translation?", 
+        "content": "Who published the book “Four Voyages of Amerigo Vespucci” in Latin translation?", 
         "correct_answer": 3, 
         "answers": [
             "Lorenzo de Medici", 
@@ -23854,7 +23854,7 @@
             "Isabelle Adjani", 
             "Eva Green", 
             "Maria Schneider", 
-            "Emmanuelle BĂŠart"
+            "Emmanuelle Béart"
         ]
     }, 
     {
@@ -23902,7 +23902,7 @@
         "correct_answer": 2, 
         "answers": [
             "Laetitia Casta", 
-            "Emmanuelle BĂŠart", 
+            "Emmanuelle Béart", 
             "Sophie Marceau", 
             "Catherine Deneuve"
         ]
@@ -24175,24 +24175,24 @@
         "content": "What is the name of the narrative written by Che Guevara as an account of his journey to Latin America?", 
         "correct_answer": 3, 
         "answers": [
-            "âThe Road to Hellâ", 
-            "âThe Travels of Cheâ", 
-            "âThe Diaries of a Rebelâ", 
-            "âThe Motorcycle Diariesâ"
+            "‘The Road to Hell’", 
+            "‘The Travels of Che’", 
+            "‘The Diaries of a Rebel’", 
+            "‘The Motorcycle Diaries’"
         ]
     }, 
     {
-        "content": "What were Che Guevaraâs last words according to popular belief?", 
+        "content": "What were Che Guevara’s last words according to popular belief?", 
         "correct_answer": 1, 
         "answers": [
             "None of these", 
-            "âShoot, coward, you are only going to kill a man.â", 
-            "âThis is not the end, mark my words.â", 
-            "âIâm not dying in vain.â"
+            "‘Shoot, coward, you are only going to kill a man.’", 
+            "‘This is not the end, mark my words.’", 
+            "‘I’m not dying in vain.’"
         ]
     }, 
     {
-        "content": "The Maryland Institute College of Art gave Che Guevaraâs photo this title.", 
+        "content": "The Maryland Institute College of Art gave Che Guevara’s photo this title.", 
         "correct_answer": 2, 
         "answers": [
             "Most inspiring photograph of the century", 
@@ -24202,7 +24202,7 @@
         ]
     }, 
     {
-        "content": "What is the name of Che Guevaraâs first wife, whom he married in 1955?", 
+        "content": "What is the name of Che Guevara’s first wife, whom he married in 1955?", 
         "correct_answer": 1, 
         "answers": [
             "Maria", 
@@ -24312,7 +24312,7 @@
         ]
     }, 
     {
-        "content": "Eva PerĂłn was the first wife of Juan PerĂłn (1895â1974) who served as President of Argentina.", 
+        "content": "Eva Perón was the first wife of Juan Perón (1895–1974) who served as President of Argentina.", 
         "correct_answer": 1, 
         "answers": [
             "True", 
@@ -24339,9 +24339,9 @@
         "content": "After Juan Peron was arrested in 1945, Evita organized a mass demonstration that led to his release. What happened a few days after his release?", 
         "correct_answer": 0, 
         "answers": [
-            "Eva and Juan PerĂłn were married.", 
+            "Eva and Juan Perón were married.", 
             "Eva became a vice presidential candidate.", 
-            "Juan PerĂłn was convicted.", 
+            "Juan Perón was convicted.", 
             "None of these"
         ]
     }, 
@@ -24362,7 +24362,7 @@
         ]
     }, 
     {
-        "content": "What was the purpose of the MarĂ­a Eva Duarte de PerĂłn Welfare Foundation which was established in June 1947?", 
+        "content": "What was the purpose of the María Eva Duarte de Perón Welfare Foundation which was established in June 1947?", 
         "correct_answer": 2, 
         "answers": [
             "to support people in Latin American countries suffering from disasters", 
@@ -24404,7 +24404,7 @@
             "Jean-Paul Belmondo", 
             "Vincent Cassel", 
             "Jean Reno", 
-            "GĂŠrard Depardieu"
+            "Gérard Depardieu"
         ]
     }, 
     {
@@ -24418,7 +24418,7 @@
         ]
     }, 
     {
-        "content": "In 1944, this French actor and singer was discovered by Ădith Piaf in Paris and she made him part of her act. He was married to Simone Signored and they co-starred in several films.", 
+        "content": "In 1944, this French actor and singer was discovered by Édith Piaf in Paris and she made him part of her act. He was married to Simone Signored and they co-starred in several films.", 
         "correct_answer": 3, 
         "answers": [
             "Pierre Richard", 
@@ -24431,7 +24431,7 @@
         "content": "This French actor is famous for portraying fictional detective Jules Maigret. He also starred in Jean Renoirs acclaimed anti-war film La Grande Illusion.", 
         "correct_answer": 3, 
         "answers": [
-            "Louis de FunĂ¨s", 
+            "Louis de Funès", 
             "Michel Piccoli", 
             "Jean-Paul Belmondo", 
             "Jean Gabin"
@@ -24688,7 +24688,7 @@
         ]
     }, 
     {
-        "content": "What actress said this: âIts going to seem idiotic to say this, but I think that at a given moment we all need a place to ourselves where we can refuge ourselves and cut ourselves off from the world.â", 
+        "content": "What actress said this: “Its going to seem idiotic to say this, but I think that at a given moment we all need a place to ourselves where we can refuge ourselves and cut ourselves off from the world.”", 
         "correct_answer": 1, 
         "answers": [
             "Marilyn Monroe", 
@@ -24698,27 +24698,27 @@
         ]
     }, 
     {
-        "content": "âThe 100% American is 99% an idiot.â was a remark made by this non-American playwright.", 
+        "content": "“The 100% American is 99% an idiot.” was a remark made by this non-American playwright.", 
         "correct_answer": 1, 
         "answers": [
             "John Galsworthy", 
             "George Bernard Shaw", 
             "J. B. Priestley", 
-            "NoĂŤl Coward"
+            "Noël Coward"
         ]
     }, 
     {
-        "content": "âHow can I lose to such an idiot?â was a shout by this master of chess.", 
+        "content": "“How can I lose to such an idiot?” was a shout by this master of chess.", 
         "correct_answer": 3, 
         "answers": [
             "Mikhail Botvinnik", 
-            "JosĂŠ Capablanca", 
+            "José Capablanca", 
             "Alexander Alekhine", 
             "Aaron Nimzovich"
         ]
     }, 
     {
-        "content": "âWhile time, the endless idiot, runs screaming round the world.â was said by this American writer of poetry, plays and essays.", 
+        "content": "“While time, the endless idiot, runs screaming round the world.” was said by this American writer of poetry, plays and essays.", 
         "correct_answer": 1, 
         "answers": [
             "Kathy Acker", 
@@ -24728,7 +24728,7 @@
         ]
     }, 
     {
-        "content": "Which famous comedian of silent films said: âMan as an individual is a genius. But men in the mass form the headless monster, a great, brutish idiot that goes where prodded.â?", 
+        "content": "Which famous comedian of silent films said: “Man as an individual is a genius. But men in the mass form the headless monster, a great, brutish idiot that goes where prodded.”?", 
         "correct_answer": 1, 
         "answers": [
             "Buster Keaton", 
@@ -24738,7 +24738,7 @@
         ]
     }, 
     {
-        "content": "Name the Austrian journalist, writer, satirist, essayist, aphorist, playwright and poet who said, âEducation is a crutch with which the foolish attack the wise to prove that they are not idiots.â", 
+        "content": "Name the Austrian journalist, writer, satirist, essayist, aphorist, playwright and poet who said, “Education is a crutch with which the foolish attack the wise to prove that they are not idiots.”", 
         "correct_answer": 2, 
         "answers": [
             "Franz Kafka", 
@@ -24748,7 +24748,7 @@
         ]
     }, 
     {
-        "content": "Which famous composer of the 17th  18th century said âIf I decide to be an idiot, then Ill be an idiot on my own accord.â?", 
+        "content": "Which famous composer of the 17th  18th century said “If I decide to be an idiot, then Ill be an idiot on my own accord.”?", 
         "correct_answer": 1, 
         "answers": [
             "Antonio Vivaldi", 
@@ -24758,7 +24758,7 @@
         ]
     }, 
     {
-        "content": "âHalf the world is composed of idiots, the other half of people clever enough to take indecent advantage of themâ was uttered by this writer and Broadway critic.", 
+        "content": "“Half the world is composed of idiots, the other half of people clever enough to take indecent advantage of them” was uttered by this writer and Broadway critic.", 
         "correct_answer": 3, 
         "answers": [
             "Charles Isherwood", 
@@ -24768,7 +24768,7 @@
         ]
     }, 
     {
-        "content": "Which one of the Beatles said this: âI resent performing for frisking idiots who dont know anything.â?", 
+        "content": "Which one of the Beatles said this: “I resent performing for frisking idiots who dont know anything.”?", 
         "correct_answer": 2, 
         "answers": [
             "Ringo Starr", 
@@ -24778,7 +24778,7 @@
         ]
     }, 
     {
-        "content": "Which American lyrical poet, playwright and feminist wrote âApril comes like an idiot, babbling and stewing flowers.â", 
+        "content": "Which American lyrical poet, playwright and feminist wrote “April comes like an idiot, babbling and stewing flowers.”", 
         "correct_answer": 2, 
         "answers": [
             "Emily Dickinson", 
@@ -24788,7 +24788,7 @@
         ]
     }, 
     {
-        "content": "This poet, painter and printmaker said, âWhat is grand is necessarily obscure to weak men. That which can be made explicit to the idiot is not worth my care.â", 
+        "content": "This poet, painter and printmaker said, “What is grand is necessarily obscure to weak men. That which can be made explicit to the idiot is not worth my care.”", 
         "correct_answer": 3, 
         "answers": [
             "Washington Irving", 
@@ -24798,7 +24798,7 @@
         ]
     }, 
     {
-        "content": "What famous playwright wrote: âLife is a tale told by an idiot -- full of sound and fury, signifying nothing.â?", 
+        "content": "What famous playwright wrote: “Life is a tale told by an idiot -- full of sound and fury, signifying nothing.”?", 
         "correct_answer": 0, 
         "answers": [
             "William Shakespeare", 
@@ -24808,7 +24808,7 @@
         ]
     }, 
     {
-        "content": "âCluelessness - There are no stupid questions, but there are a LOT of inquisitive idiots.â is a quote by this American sociologist and author.", 
+        "content": "“Cluelessness - There are no stupid questions, but there are a LOT of inquisitive idiots.” is a quote by this American sociologist and author.", 
         "correct_answer": 2, 
         "answers": [
             "James Hughes", 
@@ -24818,7 +24818,7 @@
         ]
     }, 
     {
-        "content": "âThe word user is the word used by the computer professional when they mean idiot.â is a quote from this winner of a Pulitzer Prize for Commentary.", 
+        "content": "“The word user is the word used by the computer professional when they mean idiot.” is a quote from this winner of a Pulitzer Prize for Commentary.", 
         "correct_answer": 1, 
         "answers": [
             "Jimmy Breslin", 
@@ -24848,7 +24848,7 @@
         ]
     }, 
     {
-        "content": "In Platoâs opinion, human society should be governed by people who possess these main virtues.", 
+        "content": "In Plato’s opinion, human society should be governed by people who possess these main virtues.", 
         "correct_answer": 2, 
         "answers": [
             "Compassion and charity", 
@@ -24962,7 +24962,7 @@
         ]
     }, 
     {
-        "content": "Which of these women is the mother of Aristotle Onassisâ two children?", 
+        "content": "Which of these women is the mother of Aristotle Onassis’ two children?", 
         "correct_answer": 1, 
         "answers": [
             "Jacqueline Kennedy", 
@@ -26503,10 +26503,10 @@
         "content": "What was Al Capones nickname?", 
         "correct_answer": 1, 
         "answers": [
-            "âBig Alâ", 
+            "“Big Al”", 
             "Scarface", 
-            "âThe Barberâ", 
-            "âThe Foxâ"
+            "“The Barber”", 
+            "“The Fox”"
         ]
     }, 
     {
@@ -26529,10 +26529,10 @@
         "content": "The North Side gang shot into Al Capones entourage while he was having lunch at this place?", 
         "correct_answer": 0, 
         "answers": [
-            "The restaurant of  âHawthorne Hotelâ", 
-            "The restaurant of  âHotel Uticaâ", 
-            "The restaurant of âWarwick New York Hotelâ", 
-            "The restaurant of  âJefferson Clinton Hotelâ"
+            "The restaurant of  “Hawthorne Hotel”", 
+            "The restaurant of  “Hotel Utica”", 
+            "The restaurant of “Warwick New York Hotel”", 
+            "The restaurant of  “Jefferson Clinton Hotel”"
         ]
     }, 
     {

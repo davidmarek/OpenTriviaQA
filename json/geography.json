@@ -704,7 +704,7 @@
         ]
     }, 
     {
-        "content": "This freshwater-lake island, with a surface area of 2,766 kmÂ˛, is the biggest on Earth.", 
+        "content": "This freshwater-lake island, with a surface area of 2,766 km², is the biggest on Earth.", 
         "correct_answer": 2, 
         "answers": [
             "Islandlake", 
@@ -744,7 +744,7 @@
         ]
     }, 
     {
-        "content": "With a surface area of about 82,000 kmÂ˛, this lake between Ontario and Minnesota is the largest single freshwater lake in the world.", 
+        "content": "With a surface area of about 82,000 km², this lake between Ontario and Minnesota is the largest single freshwater lake in the world.", 
         "correct_answer": 2, 
         "answers": [
             "Turkana", 
@@ -912,7 +912,7 @@
         ]
     }, 
     {
-        "content": "PopocatĂŠpetl, a volcano whose name means Smoking Mountain, is 70 km away from the capital of which American country?", 
+        "content": "Popocatépetl, a volcano whose name means Smoking Mountain, is 70 km away from the capital of which American country?", 
         "correct_answer": 0, 
         "answers": [
             "Mexico", 
@@ -1178,7 +1178,7 @@
         "correct_answer": 1, 
         "answers": [
             "Qipao", 
-            "Ăo dĂ i", 
+            "Áo dài", 
             "Nhu", 
             "Raglan"
         ]
@@ -1650,7 +1650,7 @@
         ]
     }, 
     {
-        "content": "Which country is known as Ăsterreich in their native language?", 
+        "content": "Which country is known as Österreich in their native language?", 
         "correct_answer": 2, 
         "answers": [
             "Bulgaria", 
@@ -1690,7 +1690,7 @@
         ]
     }, 
     {
-        "content": "Which countrys first president was VĂĄclav Havel, a writer and dramatist?", 
+        "content": "Which countrys first president was Václav Havel, a writer and dramatist?", 
         "correct_answer": 2, 
         "answers": [
             "Hungary", 
@@ -1720,7 +1720,7 @@
         ]
     }, 
     {
-        "content": "Which of the EU founding members is the country of LibertĂŠ, ĂgalitĂŠ, FraternitĂŠ?", 
+        "content": "Which of the EU founding members is the country of Liberté, Égalité, Fraternité?", 
         "correct_answer": 0, 
         "answers": [
             "France", 
@@ -1890,7 +1890,7 @@
         ]
     }, 
     {
-        "content": "In which country is the European Unionâs biggest lake located?", 
+        "content": "In which country is the European Union’s biggest lake located?", 
         "correct_answer": 2, 
         "answers": [
             "In Finland", 
@@ -2138,7 +2138,7 @@
         ]
     }, 
     {
-        "content": "Which French Mediterranean island is the birthplace of NapolĂŠon Bonaparte?", 
+        "content": "Which French Mediterranean island is the birthplace of Napoléon Bonaparte?", 
         "correct_answer": 2, 
         "answers": [
             "Cyprus", 
@@ -2358,7 +2358,7 @@
         ]
     }, 
     {
-        "content": "Name Asias most densely populated country which has about three million people and an area of less than 250 square miles (402 kmÂ˛).", 
+        "content": "Name Asias most densely populated country which has about three million people and an area of less than 250 square miles (402 km²).", 
         "correct_answer": 3, 
         "answers": [
             "Hokkaido", 
@@ -2636,7 +2636,7 @@
         ]
     }, 
     {
-        "content": "What former president has addressed more than a million people on many occasions on Plaza de la RevoluciĂłn in Havana?", 
+        "content": "What former president has addressed more than a million people on many occasions on Plaza de la Revolución in Havana?", 
         "correct_answer": 1, 
         "answers": [
             "Benito Mussolini", 
@@ -2702,7 +2702,7 @@
         ]
     }, 
     {
-        "content": "The name âHollandâ is equivalent to the name the Netherlands.", 
+        "content": "The name “Holland” is equivalent to the name the Netherlands.", 
         "correct_answer": 1, 
         "answers": [
             "True", 
@@ -2810,7 +2810,7 @@
         ]
     }, 
     {
-        "content": "The tiny island of MĂ¤rket / MĂ¤rketin in the Baltic Sea is shared by these two nations.", 
+        "content": "The tiny island of Märket / Märketin in the Baltic Sea is shared by these two nations.", 
         "correct_answer": 3, 
         "answers": [
             "Sweden and Denmark", 
@@ -2830,7 +2830,7 @@
         ]
     }, 
     {
-        "content": "The word âoceanâ is of Greek origin.", 
+        "content": "The word ‘ocean’ is of Greek origin.", 
         "correct_answer": 1, 
         "answers": [
             "False", 
@@ -2848,7 +2848,7 @@
         ]
     }, 
     {
-        "content": "What portion of the Earthâs surface do oceans cover?", 
+        "content": "What portion of the Earth’s surface do oceans cover?", 
         "correct_answer": 0, 
         "answers": [
             "More than two thirds", 
@@ -2926,7 +2926,7 @@
         ]
     }, 
     {
-        "content": "The famous Ăle Notre-Dame, an artificial island built from earth excavated for a metropolitan railway, is located in which country?", 
+        "content": "The famous Île Notre-Dame, an artificial island built from earth excavated for a metropolitan railway, is located in which country?", 
         "correct_answer": 1, 
         "answers": [
             "England", 
@@ -2999,7 +2999,7 @@
         "content": "Which artificial island is situated in San Francisco Bay, between San Francisco and Oakland?", 
         "correct_answer": 1, 
         "answers": [
-            "HulhumalĂŠ", 
+            "Hulhumalé", 
             "Treasure Island", 
             "Port Island", 
             "Flakfortet"
@@ -4290,7 +4290,7 @@
             "Annapolis", 
             "Port Tobacco", 
             "Baltimore", 
-            "St. Maryâs City"
+            "St. Mary’s City"
         ]
     }, 
     {
@@ -4304,13 +4304,13 @@
         ]
     }, 
     {
-        "content": "What are Marylandâs two official state nicknames?", 
+        "content": "What are Maryland’s two official state nicknames?", 
         "correct_answer": 0, 
         "answers": [
-            "âThe Old Line Stateâ and âThe Free Stateâ", 
-            "âThe Crab Stateâ and âOur Chesapeake Heritageâ", 
-            "âThe Crab Stateâ and âThe Old Line Stateâ", 
-            "âThe Free Stateâ and âOur Chesapeake Heritageâ"
+            "“The Old Line State” and “The Free State”", 
+            "“The Crab State” and “Our Chesapeake Heritage”", 
+            "“The Crab State” and “The Old Line State”", 
+            "“The Free State” and “Our Chesapeake Heritage”"
         ]
     }, 
     {
@@ -4528,7 +4528,7 @@
         ]
     }, 
     {
-        "content": "What islands are knows as âThe beautiful garland in the Indian Oceanâ?", 
+        "content": "What islands are knows as “The beautiful garland in the Indian Ocean”?", 
         "correct_answer": 3, 
         "answers": [
             "Aeolian Islands", 
@@ -4936,7 +4936,7 @@
         ]
     }, 
     {
-        "content": "Around the year 1859, Jean-FranĂ§ois Blondin crossed the gorge below Niagara Falls on a tightrope 1100 feet (335 m) long, 160 feet (50 m) above the water. He made this accomplishment several times including which of the following theatrical variations?", 
+        "content": "Around the year 1859, Jean-François Blondin crossed the gorge below Niagara Falls on a tightrope 1100 feet (335 m) long, 160 feet (50 m) above the water. He made this accomplishment several times including which of the following theatrical variations?", 
         "correct_answer": 0, 
         "answers": [
             "All of these", 
@@ -5801,10 +5801,10 @@
         "content": "What is the name of the leader of the first squad of Shinsengumi?", 
         "correct_answer": 0, 
         "answers": [
-            "Okita SĹji", 
-            "Inoue GenzaburĹ", 
+            "Okita Sōji", 
+            "Inoue Genzaburō", 
             "Harada Sanosuke", 
-            "TĹdĹ Heisuke"
+            "Tōdō Heisuke"
         ]
     }, 
     {
@@ -5843,8 +5843,8 @@
         "answers": [
             "Nagakura Shinpachi", 
             "Harada Sanosuke", 
-            "TĹdĹ Heisuke", 
-            "KondĹ Isami"
+            "Tōdō Heisuke", 
+            "Kondō Isami"
         ]
     }, 
     {
@@ -7453,7 +7453,7 @@
         ]
     }, 
     {
-        "content": "Name Moroccos capital that is also the capital of the Rabat-SalĂŠ-Zemmour-Zaer region.", 
+        "content": "Name Moroccos capital that is also the capital of the Rabat-Salé-Zemmour-Zaer region.", 
         "correct_answer": 3, 
         "answers": [
             "Casablanca", 
@@ -7671,7 +7671,7 @@
         ]
     }, 
     {
-        "content": "When RenĂŠ-Robert Cavelier, Sieur de La Salle (Yikes!) claimed the territory he named it La Louisiane, which means....", 
+        "content": "When René-Robert Cavelier, Sieur de La Salle (Yikes!) claimed the territory he named it La Louisiane, which means....", 
         "correct_answer": 3, 
         "answers": [
             "Land of Lords or Land of the Lords.", 
@@ -7721,7 +7721,7 @@
         ]
     }, 
     {
-        "content": "The ore and coal rich region of Silesia (pol.: Ĺlask, ger.: Schliesien, cz.: Slezsko) was ruled by Germans, Poles, Czechs and Austrians. To which country does it mostly belong today?", 
+        "content": "The ore and coal rich region of Silesia (pol.: Ślask, ger.: Schliesien, cz.: Slezsko) was ruled by Germans, Poles, Czechs and Austrians. To which country does it mostly belong today?", 
         "correct_answer": 2, 
         "answers": [
             "Slovakia", 

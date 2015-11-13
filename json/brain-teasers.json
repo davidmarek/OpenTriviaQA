@@ -1343,7 +1343,7 @@
         ]
     }, 
     {
-        "content": "A bar of soap is placed on one of the sides of a pair of scales. On the other side there is 3/4 of a bar of the same soap and Đ° 3/4 kg metal weight. The scales are in balance. How much does a bar of soap weigh?", 
+        "content": "A bar of soap is placed on one of the sides of a pair of scales. On the other side there is 3/4 of a bar of the same soap and а 3/4 kg metal weight. The scales are in balance. How much does a bar of soap weigh?", 
         "correct_answer": 3, 
         "answers": [
             "2 kg", 
@@ -1571,7 +1571,7 @@
         ]
     }, 
     {
-        "content": "Were X-rays at one time proposed to be called RĂśntgen rays?", 
+        "content": "Were X-rays at one time proposed to be called Röntgen rays?", 
         "correct_answer": 0, 
         "answers": [
             "Yes", 

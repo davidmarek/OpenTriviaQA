@@ -1725,7 +1725,7 @@
         ]
     }, 
     {
-        "content": "Who rides Nightsabre Panthers?", 
+        "content": "Who rides �Nightsabre Panthers�?", 
         "correct_answer": 2, 
         "answers": [
             "Wind Druids", 
@@ -1735,7 +1735,7 @@
         ]
     }, 
     {
-        "content": "What unit or hero does the phrase I can see clearly, now the rain has gone belong to?", 
+        "content": "What unit or hero does the phrase �I can see clearly, now the rain has gone� belong to?", 
         "correct_answer": 2, 
         "answers": [
             "Thrall", 
@@ -2288,7 +2288,7 @@
         "answers": [
             "Kilika", 
             "Besaid", 
-            "DjosĂŠ", 
+            "Djosé", 
             "Home"
         ]
     }, 
@@ -3687,7 +3687,7 @@
         ]
     }, 
     {
-        "content": "Ash Ketchum, the main protagonist in the PokĂŠmon anime, is loosely based on what other character?", 
+        "content": "Ash Ketchum, the main protagonist in the Pokémon anime, is loosely based on what other character?", 
         "correct_answer": 2, 
         "answers": [
             "Blue", 
@@ -5371,7 +5371,7 @@
         ]
     }, 
     {
-        "content": "In Killer7, what is the character Con Smithsâ age?", 
+        "content": "In Killer7, what is the character Con Smiths’ age?", 
         "correct_answer": 1, 
         "answers": [
             "17", 
@@ -5421,7 +5421,7 @@
         ]
     }, 
     {
-        "content": "What was Mask De Smithâs profession before coming apart of the killersâ team in Killer7?", 
+        "content": "What was Mask De Smith’s profession before coming apart of the killers’ team in Killer7?", 
         "correct_answer": 3, 
         "answers": [
             "Costume artist", 

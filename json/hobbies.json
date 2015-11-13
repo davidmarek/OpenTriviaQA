@@ -882,7 +882,7 @@
         ]
     }, 
     {
-        "content": "In which country does the typical breakfast consist of CaffĂ¨ e latte and a pastry?", 
+        "content": "In which country does the typical breakfast consist of Caffè e latte and a pastry?", 
         "correct_answer": 0, 
         "answers": [
             "Italy", 
@@ -1578,7 +1578,7 @@
         ]
     }, 
     {
-        "content": "This is a traditional Scottish dish, boiled in a sheepâs stomach. Some of the main ingredients are sheepâs pluck, onion, salt and spices.", 
+        "content": "This is a traditional Scottish dish, boiled in a sheep’s stomach. Some of the main ingredients are sheep’s pluck, onion, salt and spices.", 
         "correct_answer": 1, 
         "answers": [
             "Ratatouille", 
@@ -1622,13 +1622,13 @@
         "correct_answer": 1, 
         "answers": [
             "Vesalica", 
-            "MÄmÄligÄ", 
+            "Mămăligă", 
             "Hornazo", 
             "Pilaf"
         ]
     }, 
     {
-        "content": "This delicacy, typical for âThe Country of the Rising Sunâ, usually only consists of thinly sliced raw seafood, dipping sauce and garnish.", 
+        "content": "This delicacy, typical for ‘The Country of the Rising Sun’, usually only consists of thinly sliced raw seafood, dipping sauce and garnish.", 
         "correct_answer": 0, 
         "answers": [
             "Sashimi", 
@@ -1658,7 +1658,7 @@
         ]
     }, 
     {
-        "content": "This German dish, whose name means sowâs stomach is popular in Palatinate, a region in south-western Germany.", 
+        "content": "This German dish, whose name means sow’s stomach is popular in Palatinate, a region in south-western Germany.", 
         "correct_answer": 0, 
         "answers": [
             "Saumagen", 
@@ -1768,7 +1768,7 @@
         ]
     }, 
     {
-        "content": "This undergarment was originally introduced in 1968 by Gossard, with the byline âmakes 34 look 36, makes 36 look powâŚâ.", 
+        "content": "This undergarment was originally introduced in 1968 by Gossard, with the byline “makes 34 look 36, makes 36 look pow…”.", 
         "correct_answer": 1, 
         "answers": [
             "Lingerie", 
@@ -1954,7 +1954,7 @@
         ]
     }, 
     {
-        "content": "The federal tax on liquor and distilled drinks imposed in 1791 by Alexander Hamilton caused public protests and an uprising, known as the Whiskey Rebellionâ, which culminated in 1794. In which US state did the riot break out?", 
+        "content": "The federal tax on liquor and distilled drinks imposed in 1791 by Alexander Hamilton caused public protests and an uprising, known as the Whiskey Rebellion’, which culminated in 1794. In which US state did the riot break out?", 
         "correct_answer": 3, 
         "answers": [
             "Florida", 
@@ -1974,7 +1974,7 @@
         ]
     }, 
     {
-        "content": "âGive an Irishman lager for a month, and hes a dead man. An Irishman is lined with copper, and the beer corrodes it. But whiskey polishes the copper and is the saving of him.â These words were written by an American novelist and humorist, who used a pseudonym. The Mississippi river has a central role in some of his stories.  Name him.", 
+        "content": "‘Give an Irishman lager for a month, and hes a dead man. An Irishman is lined with copper, and the beer corrodes it. But whiskey polishes the copper and is the saving of him.’ These words were written by an American novelist and humorist, who used a pseudonym. The Mississippi river has a central role in some of his stories.  Name him.", 
         "correct_answer": 0, 
         "answers": [
             "Mark Twain", 
@@ -2014,7 +2014,7 @@
         ]
     }, 
     {
-        "content": "The âScotch Whisky Act 1988â legally defines Scotch whisky. Which of these is the standard that whisky must meet in order to be called, Scotch Whisky?", 
+        "content": "The ‘Scotch Whisky Act 1988’ legally defines Scotch whisky. Which of these is the standard that whisky must meet in order to be called, Scotch Whisky?", 
         "correct_answer": 1, 
         "answers": [
             "It must be distilled at a Scottish distillery.", 
@@ -2244,7 +2244,7 @@
         ]
     }, 
     {
-        "content": "Name the American author of childrenâs literature, poetry and prose who made the following observation regarding chocolate: Strength is the capacity to break a chocolate bar into four pieces with your bare hands - and then eat just one of the pieces.", 
+        "content": "Name the American author of children’s literature, poetry and prose who made the following observation regarding chocolate: Strength is the capacity to break a chocolate bar into four pieces with your bare hands - and then eat just one of the pieces.", 
         "correct_answer": 2, 
         "answers": [
             "Anne Sexton", 
@@ -2259,18 +2259,18 @@
         "answers": [
             "What Lies Beneath", 
             "Charlie and the Chocolate Factory", 
-            "âForrest Gumpâ", 
+            "‘Forrest Gump’", 
             "Cast Away"
         ]
     }, 
     {
-        "content": "The scientific name of the evergreen tree cacao, the source of cocoa and chocolate, is Theobroma Cacao. What does âTheobromaâ mean in Greek?", 
+        "content": "The scientific name of the evergreen tree cacao, the source of cocoa and chocolate, is Theobroma Cacao. What does ‘Theobroma’ mean in Greek?", 
         "correct_answer": 1, 
         "answers": [
-            "âcurse of the godsâ", 
-            "âfood of the godsâ", 
-            "âmade by the godsâ", 
-            "âforbidden by the godsâ"
+            "‘curse of the gods’", 
+            "‘food of the gods’", 
+            "‘made by the gods’", 
+            "‘forbidden by the gods’"
         ]
     }, 
     {
@@ -2304,7 +2304,7 @@
         ]
     }, 
     {
-        "content": "A lilac colored cow is the symbol of this brand of chocolate, a best-seller for Kraft Foods, created in 1901 in NeuchĂ˘tel, Switzerland by chocolatier Philippe Suchard.", 
+        "content": "A lilac colored cow is the symbol of this brand of chocolate, a best-seller for Kraft Foods, created in 1901 in Neuchâtel, Switzerland by chocolatier Philippe Suchard.", 
         "correct_answer": 1, 
         "answers": [
             "Nestle", 
@@ -2624,7 +2624,7 @@
         ]
     }, 
     {
-        "content": "Complete the advertising slogan of a peanut butter brand: âChoosy mothers choose ______", 
+        "content": "Complete the advertising slogan of a peanut butter brand: “Choosy mothers choose ______", 
         "correct_answer": 1, 
         "answers": [
             "Peter Pan", 
@@ -2634,7 +2634,7 @@
         ]
     }, 
     {
-        "content": "Who was the creator of the âPeanutsâ cartoon, that featured characters like Lucy, Linus, Snoopy and Charlie Brown?", 
+        "content": "Who was the creator of the “Peanuts” cartoon, that featured characters like Lucy, Linus, Snoopy and Charlie Brown?", 
         "correct_answer": 1, 
         "answers": [
             "Charles Addams", 
@@ -2802,7 +2802,7 @@
             "To draw away the attention of Nazi soldiers", 
             "To code secret information about key German targets and send it to GB disguised as a Monopoly game", 
             "None of these", 
-            "To secretly provide prisoners of war held by the Nazis with useful objects â maps, compasses, real money, etc."
+            "To secretly provide prisoners of war held by the Nazis with useful objects – maps, compasses, real money, etc."
         ]
     }, 
     {
@@ -3592,7 +3592,7 @@
         "correct_answer": 3, 
         "answers": [
             "Apfelstrudel", 
-            "HeiĂe Schokolade", 
+            "Heiße Schokolade", 
             "Sachertorte", 
             "Marzipan"
         ]
@@ -3664,7 +3664,7 @@
             "Beans, onions, tomatoes, spearmint and carrots", 
             "Stale bread, garlic, olive oil, salt, tomato and vinegar", 
             "Beef, onions, red peppers, and paprika powder", 
-            "PurĂŠed leeks, onions, potatoes, cream and chicken stock"
+            "Puréed leeks, onions, potatoes, cream and chicken stock"
         ]
     }, 
     {
@@ -3681,7 +3681,7 @@
         "content": "What is the executive chef of the kitchen called?", 
         "correct_answer": 1, 
         "answers": [
-            "SautĂŠ Chef", 
+            "Sauté Chef", 
             "Chef de Cuisine", 
             "Chef de Partie", 
             "Sous Chef"
@@ -3877,10 +3877,10 @@
         "content": "What is the ideal popping temperature for popcorn?", 
         "correct_answer": 2, 
         "answers": [
-            "500Â°-560Â° F(260Â°-293Â°C)", 
-            "260Â°-310Â° F(127Â°-154Â°C)", 
-            "330Â°-380Â° F (165Â°-193Â°C)", 
-            "400Â°-460Â° F(204Â°-238Â°C)"
+            "500°-560° F(260°-293°C)", 
+            "260°-310° F(127°-154°C)", 
+            "330°-380° F (165°-193°C)", 
+            "400°-460° F(204°-238°C)"
         ]
     }, 
     {
@@ -4698,7 +4698,7 @@
         "correct_answer": 1, 
         "answers": [
             "Gentlemen, in the little moment that remains to us between the crisis and the catastrophe, we may as well drink a glass of champagne.", 
-            "Remember gentlemen, itâs not just France we are fighting for, itâs Champagne!", 
+            "Remember gentlemen, it’s not just France we are fighting for, it’s Champagne!", 
             "In victory, you deserve Champagne, in defeat, you need it.", 
             "Some people wanted Champagne and caviar when they should have had beer and hot dogs."
         ]
@@ -4709,7 +4709,7 @@
         "answers": [
             "Bollinger", 
             "Ruinart", 
-            "Dom PĂŠrignon", 
+            "Dom Pérignon", 
             "Moet et Chandon"
         ]
     }, 
@@ -4717,10 +4717,10 @@
         "content": "Champagne is usually served in a champagne flute at what temperature?", 
         "correct_answer": 0, 
         "answers": [
-            "7 to 9 Â°C", 
-            "13 to 15 Â°C", 
-            "10 to 12 Â°C", 
-            "1 to 5 Â°C"
+            "7 to 9 °C", 
+            "13 to 15 °C", 
+            "10 to 12 °C", 
+            "1 to 5 °C"
         ]
     }, 
     {
@@ -5092,7 +5092,7 @@
         ]
     }, 
     {
-        "content": "What card combination is called âSoft 17â in Blackjack?", 
+        "content": "What card combination is called “Soft 17” in Blackjack?", 
         "correct_answer": 2, 
         "answers": [
             "Two aces", 
@@ -5112,7 +5112,7 @@
         ]
     }, 
     {
-        "content": "When the player âsurrendersâ in Blackjack, what part of his/her bet does he/she lose?", 
+        "content": "When the player “surrenders” in Blackjack, what part of his/her bet does he/she lose?", 
         "correct_answer": 1, 
         "answers": [
             "One fifth", 
@@ -5140,7 +5140,7 @@
         ]
     }, 
     {
-        "content": "If you see the characters âS17â printed on a Blackjack table what valuable information do you get about the rules of the game in this casino?", 
+        "content": "If you see the characters “S17” printed on a Blackjack table what valuable information do you get about the rules of the game in this casino?", 
         "correct_answer": 3, 
         "answers": [
             "Soft 17s are considered eights by the dealer", 
@@ -5150,7 +5150,7 @@
         ]
     }, 
     {
-        "content": "In the casino version of Blackjack, what is a âshoeâ?", 
+        "content": "In the casino version of Blackjack, what is a “shoe”?", 
         "correct_answer": 1, 
         "answers": [
             "The edge of the playing table", 
@@ -5188,7 +5188,7 @@
         ]
     }, 
     {
-        "content": "If you play Blackjack with handheld cards in a casino, with which one of these non-verbal signs can you tell the dealer you want to âhitâ (have one more card)?", 
+        "content": "If you play Blackjack with handheld cards in a casino, with which one of these non-verbal signs can you tell the dealer you want to “hit” (have one more card)?", 
         "correct_answer": 0, 
         "answers": [
             "Scrape the cards against the table", 
@@ -5198,7 +5198,7 @@
         ]
     }, 
     {
-        "content": "When playing Blackjack in a casino, there are two proper ways to announce your decision after youâve received a card â either say it aloud or use some of the commonly accepted non-verbal signs.", 
+        "content": "When playing Blackjack in a casino, there are two proper ways to announce your decision after you’ve received a card – either say it aloud or use some of the commonly accepted non-verbal signs.", 
         "correct_answer": 1, 
         "answers": [
             "True", 
@@ -5246,7 +5246,7 @@
         ]
     }, 
     {
-        "content": "In Blackjack, what does a ânaturalâ hand consist of?", 
+        "content": "In Blackjack, what does a “natural” hand consist of?", 
         "correct_answer": 0, 
         "answers": [
             "Ace and a ten-valued card", 
@@ -5366,7 +5366,7 @@
         ]
     }, 
     {
-        "content": "What is LattĂŠ?", 
+        "content": "What is Latté?", 
         "correct_answer": 2, 
         "answers": [
             "Coffee plus aerated milk", 
@@ -6160,7 +6160,7 @@
         ]
     }, 
     {
-        "content": "This is a variety of ring-shaped pasta, typically stuffed with a mix of meat and usually served in broth, with cream, or sometimes with a ragĂš. It originated in the Italian region of Emilia.", 
+        "content": "This is a variety of ring-shaped pasta, typically stuffed with a mix of meat and usually served in broth, with cream, or sometimes with a ragù. It originated in the Italian region of Emilia.", 
         "correct_answer": 1, 
         "answers": [
             "cannelloni", 
@@ -6794,7 +6794,7 @@
         ]
     }, 
     {
-        "content": "What kind of alcohol is traditionally used for the preparation of PiĂąa Colada?", 
+        "content": "What kind of alcohol is traditionally used for the preparation of Piña Colada?", 
         "correct_answer": 1, 
         "answers": [
             "Tequila", 
@@ -9800,7 +9800,7 @@
         ]
     }, 
     {
-        "content": "Chanh muĐži is a type of Vietnamese pickles. What is it made of?", 
+        "content": "Chanh muоi is a type of Vietnamese pickles. What is it made of?", 
         "correct_answer": 0, 
         "answers": [
             "Lime", 
@@ -9910,7 +9910,7 @@
         ]
     }, 
     {
-        "content": "Since 1977, there has been an annual world championship of this game, which requires a strategy of much planning and looking further ahead in your opponentâs possible moves.  Goro Hasegawa popularized the game in Japan in 1975.", 
+        "content": "Since 1977, there has been an annual world championship of this game, which requires a strategy of much planning and looking further ahead in your opponent’s possible moves.  Goro Hasegawa popularized the game in Japan in 1975.", 
         "correct_answer": 0, 
         "answers": [
             "Othello", 
@@ -10438,7 +10438,7 @@
         ]
     }, 
     {
-        "content": "Stir frying is a term used to describe two fast Chinese cooking techniques: chÇo and bĂ o.", 
+        "content": "Stir frying is a term used to describe two fast Chinese cooking techniques: chǎo and bào.", 
         "correct_answer": 0, 
         "answers": [
             "True", 
@@ -10486,7 +10486,7 @@
         "correct_answer": 1, 
         "answers": [
             "Wolfgang Puck", 
-            "Marie-Antoine CarĂŞme", 
+            "Marie-Antoine Carême", 
             "Jeff Smith", 
             "Paul Bocuse"
         ]
@@ -11208,7 +11208,7 @@
         ]
     }, 
     {
-        "content": "The worldâs most expensive coffee, Kopi Luwak, goes through a unique harvesting process. In Indonesian, âkopiâ means coffee and âluwakâ means what?", 
+        "content": "The world’s most expensive coffee, Kopi Luwak, goes through a unique harvesting process. In Indonesian, “kopi” means coffee and “luwak” means what?", 
         "correct_answer": 2, 
         "answers": [
             "Mountain", 
@@ -11233,7 +11233,7 @@
         "answers": [
             "Pierre Lacoste", 
             "Johnathon P. Lacoste", 
-            "RenĂŠ Lacoste", 
+            "René Lacoste", 
             "Marc L. M. Smith"
         ]
     }, 

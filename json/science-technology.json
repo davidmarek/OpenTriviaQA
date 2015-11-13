@@ -1,6 +1,6 @@
 [
     {
-        "content": "Immanuel Kant criticized Emanuel Swedenborg and termed him a âspook hunterâ.", 
+        "content": "Immanuel Kant criticized Emanuel Swedenborg and termed him a “spook hunter”.", 
         "correct_answer": 0, 
         "answers": [
             "True", 
@@ -1012,7 +1012,7 @@
         ]
     }, 
     {
-        "content": "DĂŠjĂ  Vu is one of the curios brain phenomenon. Which of these most accurately describes the term?", 
+        "content": "Déjà Vu is one of the curios brain phenomenon. Which of these most accurately describes the term?", 
         "correct_answer": 0, 
         "answers": [
             "A sensation of something seen or experienced before", 
@@ -3346,7 +3346,7 @@
         ]
     }, 
     {
-        "content": "The word physics derives from the Greek - ĎĎ?ĎÎšĎ (phusis), which means this.", 
+        "content": "The word physics derives from the Greek - φ�?σις (phusis), which means this.", 
         "correct_answer": 0, 
         "answers": [
             "Nature", 
@@ -3397,7 +3397,7 @@
         "content": "Plancks constant (h) is equal to this.", 
         "correct_answer": 0, 
         "answers": [
-            "6.626068 Ă 10^(-34) m^2 kg / s", 
+            "6.626068 × 10^(-34) m^2 kg / s", 
             "1.67262171 x 10^(-27) kg", 
             "1.05457168 x 10^(-34) J s", 
             "10973731.568 525 m^(-1)"
@@ -3896,7 +3896,7 @@
         ]
     }, 
     {
-        "content": "Which planet was named after the ancient Romansâ king of the gods?", 
+        "content": "Which planet was named after the ancient Romans’ king of the gods?", 
         "correct_answer": 1, 
         "answers": [
             "Mars", 
@@ -5292,7 +5292,7 @@
         ]
     }, 
     {
-        "content": "After Hurricane Katrinaâs strike, reverend Jesse Lee Peterson, a nationally syndicated African American host of a radio talk show, criticized New Orleans African Americans for both blaming the federal government and expecting handouts from it.", 
+        "content": "After Hurricane Katrina’s strike, reverend Jesse Lee Peterson, a nationally syndicated African American host of a radio talk show, criticized New Orleans African Americans for both blaming the federal government and expecting handouts from it.", 
         "correct_answer": 1, 
         "answers": [
             "False", 
@@ -5750,13 +5750,13 @@
         "correct_answer": 1, 
         "answers": [
             "The Royal Scottish Academy", 
-            "St Peterâs Basilica", 
+            "St Peter’s Basilica", 
             "Solitude Palace", 
             "Lincoln Memorial"
         ]
     }, 
     {
-        "content": "When a client complained that the roof in his building leaks, this famous architect who had designed the building replied: âThatâs how you can tell itâs a roofâ.  Another work of his was the Guggenheim Museum in New York.", 
+        "content": "When a client complained that the roof in his building leaks, this famous architect who had designed the building replied: ‘That’s how you can tell it’s a roof’.  Another work of his was the Guggenheim Museum in New York.", 
         "correct_answer": 1, 
         "answers": [
             "Aldo Rossi", 
@@ -5766,7 +5766,7 @@
         ]
     }, 
     {
-        "content": "This annually awarded architecture prize is usually referred to as âThe Nobel Prize for Architectureâ.", 
+        "content": "This annually awarded architecture prize is usually referred to as ‘The Nobel Prize for Architecture’.", 
         "correct_answer": 2, 
         "answers": [
             "Thomas Jefferson Medal", 
@@ -5776,7 +5776,7 @@
         ]
     }, 
     {
-        "content": "This architecture style is characterized by the use of materials such as stainless steel and aluminium. It aimed at nontraditional elegance that symbolizes wealth and sophistication.  It originated in Europe in 1920s and formed its name in 1925 at the Worldâs Fair, held in Paris.", 
+        "content": "This architecture style is characterized by the use of materials such as stainless steel and aluminium. It aimed at nontraditional elegance that symbolizes wealth and sophistication.  It originated in Europe in 1920s and formed its name in 1925 at the World’s Fair, held in Paris.", 
         "correct_answer": 2, 
         "answers": [
             "Archigram", 
@@ -5809,10 +5809,10 @@
         "content": "There are seven tall buildings in Moscow, regarded as typical examples of Stalinist Architecture. What are these similarly designed buildings referred to?", 
         "correct_answer": 3, 
         "answers": [
-            "âStalinâs Seven Wondersâ", 
-            "âStalinâs Seven Giantsâ", 
-            "âStalinâs Seven Brothersâ", 
-            "âStalinâs Seven Sistersâ"
+            "‘Stalin’s Seven Wonders’", 
+            "‘Stalin’s Seven Giants’", 
+            "‘Stalin’s Seven Brothers’", 
+            "‘Stalin’s Seven Sisters’"
         ]
     }, 
     {
@@ -5896,7 +5896,7 @@
         ]
     }, 
     {
-        "content": "In which movie does Bud Abbott âprove to Lou Costello that 13 x 7 = 28?", 
+        "content": "In which movie does Bud Abbott “prove to Lou Costello that 13 x 7 = 28?", 
         "correct_answer": 3, 
         "answers": [
             "Splinters in the Navy", 
@@ -5936,7 +5936,7 @@
         ]
     }, 
     {
-        "content": "In the movie âLittle Big League, the hero must solve this problem: John can finish a job in five hours. Mary can finish the same job in three hours. If they work together, how long will it take to finish the job? What is the answer?", 
+        "content": "In the movie “Little Big League, the hero must solve this problem: John can finish a job in five hours. Mary can finish the same job in three hours. If they work together, how long will it take to finish the job? What is the answer?", 
         "correct_answer": 0, 
         "answers": [
             "1 and 7/8 hours", 
@@ -6004,7 +6004,7 @@
         ]
     }, 
     {
-        "content": "Which of Santa Klaus reindeersâ name means lightning?", 
+        "content": "Which of Santa Klaus reindeers’ name means lightning?", 
         "correct_answer": 2, 
         "answers": [
             "Dasher", 
@@ -6496,7 +6496,7 @@
         ]
     }, 
     {
-        "content": "This term refers to the distance between repeating units of a wave pattern and is commonly designated by the Greek letter lambda (Îť).", 
+        "content": "This term refers to the distance between repeating units of a wave pattern and is commonly designated by the Greek letter lambda (λ).", 
         "correct_answer": 3, 
         "answers": [
             "Amp", 
@@ -6534,7 +6534,7 @@
         ]
     }, 
     {
-        "content": "The members of which profession used to be called leechersâ because of the methods they used in the past?", 
+        "content": "The members of which profession used to be called leechers” because of the methods they used in the past?", 
         "correct_answer": 1, 
         "answers": [
             "Pharmacists", 
@@ -6662,7 +6662,7 @@
         ]
     }, 
     {
-        "content": "Which of these statements about Petroleum, sometimes called âblack goldâ, is not true?", 
+        "content": "Which of these statements about Petroleum, sometimes called ‘black gold’, is not true?", 
         "correct_answer": 3, 
         "answers": [
             "It is used for the production of solvents, fertilizers and plastics.", 
@@ -6722,7 +6722,7 @@
         ]
     }, 
     {
-        "content": "The term âpetrodollarâ, a dollar earned by a country through the sale of oil, was invented in 1973 by this Egyptian-born American professor and economist.", 
+        "content": "The term ‘petrodollar’, a dollar earned by a country through the sale of oil, was invented in 1973 by this Egyptian-born American professor and economist.", 
         "correct_answer": 0, 
         "answers": [
             "Ibrahim Oweiss", 
@@ -6732,7 +6732,7 @@
         ]
     }, 
     {
-        "content": "This industrial facility, sometimes called a âtank farmâ or a âterminalâ, is used for the storage of oil.", 
+        "content": "This industrial facility, sometimes called a ‘tank farm’ or a ‘terminal’, is used for the storage of oil.", 
         "correct_answer": 1, 
         "answers": [
             "Oil gusher", 
@@ -6752,7 +6752,7 @@
         ]
     }, 
     {
-        "content": "The Arab-Israeli War in 1973, known as Yom Kippur War, triggered the â1973 oil crisisâ. What action did the Arab members of OPEC undertake as part of their strategy?", 
+        "content": "The Arab-Israeli War in 1973, known as Yom Kippur War, triggered the ‘1973 oil crisis’. What action did the Arab members of OPEC undertake as part of their strategy?", 
         "correct_answer": 2, 
         "answers": [
             "They raised the price of oil", 
@@ -7102,7 +7102,7 @@
         ]
     }, 
     {
-        "content": "Whose was the proposal to use the 16th letter of the Greek alphabet, Ď, as a symbol for Archimedes constant, also known as Ludolphs number?", 
+        "content": "Whose was the proposal to use the 16th letter of the Greek alphabet, π, as a symbol for Archimedes constant, also known as Ludolphs number?", 
         "correct_answer": 2, 
         "answers": [
             "Isaac Newton", 
@@ -7112,7 +7112,7 @@
         ]
     }, 
     {
-        "content": "Pi Day is celebrated by many lovers of the mathematical constant, Ď, on what date?", 
+        "content": "Pi Day is celebrated by many lovers of the mathematical constant, π, on what date?", 
         "correct_answer": 3, 
         "answers": [
             "May 5th", 
@@ -8306,7 +8306,7 @@
         ]
     }, 
     {
-        "content": "This famous mathematicianâs main interest was set theory. He is famous for his diagonal methodâ of proof.", 
+        "content": "This famous mathematician’s main interest was set theory. He is famous for his diagonal method” of proof.", 
         "correct_answer": 2, 
         "answers": [
             "Euler", 
@@ -8336,7 +8336,7 @@
         ]
     }, 
     {
-        "content": "In mathematics, 6!â is read as six factorialâ. Calculate 6!", 
+        "content": "In mathematics, 6!” is read as six factorial”. Calculate 6!", 
         "correct_answer": 1, 
         "answers": [
             "24", 
@@ -8346,7 +8346,7 @@
         ]
     }, 
     {
-        "content": "A âcombination lockâ has three integers. Each integer is a member of this set: {0, 1, 2, 3, 4,}. How many such locks with different combinations can be made?", 
+        "content": "A “combination lock“ has three integers. Each integer is a member of this set: {0, 1, 2, 3, 4,}. How many such locks with different combinations can be made?", 
         "correct_answer": 1, 
         "answers": [
             "21", 
@@ -8404,13 +8404,13 @@
         ]
     }, 
     {
-        "content": "Both Newton and Leibnitz claimed credit for inventingâ calculus. Which statement about calculus is true?", 
+        "content": "Both Newton and Leibnitz claimed credit for inventing” calculus. Which statement about calculus is true?", 
         "correct_answer": 0, 
         "answers": [
             "Whoever invented it, we use Leibnitz notation.", 
             "Gauss really invented it.", 
             "Euler really invented it.", 
-            "Whoever invented it, we use Newtonâs notation."
+            "Whoever invented it, we use Newton’s notation."
         ]
     }, 
     {
@@ -9454,7 +9454,7 @@
         ]
     }, 
     {
-        "content": "What capabilities are indicated when the specifications read DVDÂąRW/CD-RW?", 
+        "content": "What capabilities are indicated when the specifications read DVD±RW/CD-RW?", 
         "correct_answer": 2, 
         "answers": [
             "No capabilities are indicated. This is a programming language.", 
@@ -9626,7 +9626,7 @@
         ]
     }, 
     {
-        "content": "This three million year old skeleton known as âLucyâ was discovered in 1974 and is almost 40% complete. Lucy was a small, chimp-like hominid but walked upright like modern humans. She is a member of this species.", 
+        "content": "This three million year old skeleton known as “Lucy” was discovered in 1974 and is almost 40% complete. Lucy was a small, chimp-like hominid but walked upright like modern humans. She is a member of this species.", 
         "correct_answer": 1, 
         "answers": [
             "Homo Floresiensis", 
@@ -9646,7 +9646,7 @@
         ]
     }, 
     {
-        "content": "In 1912, a jawbone and fragments of a skull were discovered and originally named âdawn-manâ.  It wasnât until 41 years later that it was exposed as a hoax. This darling of creationist skepticism is known as what?", 
+        "content": "In 1912, a jawbone and fragments of a skull were discovered and originally named “dawn-man”.  It wasn’t until 41 years later that it was exposed as a hoax. This darling of creationist skepticism is known as what?", 
         "correct_answer": 3, 
         "answers": [
             "Neanderthal", 
@@ -9656,7 +9656,7 @@
         ]
     }, 
     {
-        "content": "Prior to Darwinâs theory, the most influential line of thought regarding the variety of life forms was a creationist doctrine that likened the biological functions in an organism to the intricate workings of a watch. Which Christian apologist put forth the âWatchmaker Analogy?", 
+        "content": "Prior to Darwin’s theory, the most influential line of thought regarding the variety of life forms was a creationist doctrine that likened the biological functions in an organism to the intricate workings of a watch. Which Christian apologist put forth the “Watchmaker Analogy?", 
         "correct_answer": 0, 
         "answers": [
             "William Paley", 
@@ -9676,7 +9676,7 @@
         ]
     }, 
     {
-        "content": "This monastic egghead pioneered the study of genetics, which eventually explained the mechanisms of speciation through genetic mutation. Who is the âfather of modern genetics?â", 
+        "content": "This monastic egghead pioneered the study of genetics, which eventually explained the mechanisms of speciation through genetic mutation. Who is the “father of modern genetics?”", 
         "correct_answer": 1, 
         "answers": [
             "James Watson", 
@@ -9686,7 +9686,7 @@
         ]
     }, 
     {
-        "content": "The âpeppered mothâ is a prime example of micro evolution, where the mothâs color changed over a span of 200 years to match the soot-darkened trunks of the trees it inhabits. The darker moths survived because they were less conspicuous than their white counterparts to the birds that preyed on them.  What is the term associated with the coloration change demonstrated in the peppered moth?", 
+        "content": "The “peppered moth” is a prime example of micro evolution, where the moth’s color changed over a span of 200 years to match the soot-darkened trunks of the trees it inhabits. The darker moths survived because they were less conspicuous than their white counterparts to the birds that preyed on them.  What is the term associated with the coloration change demonstrated in the peppered moth?", 
         "correct_answer": 0, 
         "answers": [
             "Industrial Melanism", 
@@ -9706,7 +9706,7 @@
         ]
     }, 
     {
-        "content": "During his famous voyage to the Galapagos Islands, Charles Darwin studied differences in a specific animalâs anatomy, his observations setting the stage for his eventual theory of evolution. What animalâs anatomy did Darwin study?", 
+        "content": "During his famous voyage to the Galapagos Islands, Charles Darwin studied differences in a specific animal’s anatomy, his observations setting the stage for his eventual theory of evolution. What animal’s anatomy did Darwin study?", 
         "correct_answer": 2, 
         "answers": [
             "Mockingbird talons", 
@@ -9838,7 +9838,7 @@
         ]
     }, 
     {
-        "content": "In geometry, what is the value of the number which is represented by the Greek letter pi (Ď)?", 
+        "content": "In geometry, what is the value of the number which is represented by the Greek letter pi (π)?", 
         "correct_answer": 1, 
         "answers": [
             "The ratio of the circumference of a circle to its radius", 
@@ -9928,7 +9928,7 @@
         ]
     }, 
     {
-        "content": "This celestial body is the darkest of Uranus larger moons and its most distinctive feature is a large equatorial ring of bright material (supposedly a crater) named Wunda, which contrasts with the rest of the planetâs dark surface.", 
+        "content": "This celestial body is the darkest of Uranus larger moons and its most distinctive feature is a large equatorial ring of bright material (supposedly a crater) named Wunda, which contrasts with the rest of the planet’s dark surface.", 
         "correct_answer": 0, 
         "answers": [
             "Umbriel", 
@@ -10370,7 +10370,7 @@
         ]
     }, 
     {
-        "content": "Ice caps and glaciers are the second largest water reservoirs on Earth after oceans. What percent of the planetâs water do they hold?", 
+        "content": "Ice caps and glaciers are the second largest water reservoirs on Earth after oceans. What percent of the planet’s water do they hold?", 
         "correct_answer": 2, 
         "answers": [
             "18 %", 
@@ -10906,7 +10906,7 @@
         ]
     }, 
     {
-        "content": "Blimpieâs Best 12-inch Sub on wheat is higher in total calories, carbohydrates, and fats than a McDonalds Big Mac.", 
+        "content": "Blimpie’s Best 12-inch Sub on wheat is higher in total calories, carbohydrates, and fats than a McDonalds Big Mac.", 
         "correct_answer": 0, 
         "answers": [
             "True", 
@@ -11048,7 +11048,7 @@
         ]
     }, 
     {
-        "content": "Why was the letter eâ chosen to denote the important mathematical constant e?", 
+        "content": "Why was the letter e” chosen to denote the important mathematical constant e?", 
         "correct_answer": 2, 
         "answers": [
             "It was arbitrarily chosen by Latin scholars.", 
@@ -11844,7 +11844,7 @@
         ]
     }, 
     {
-        "content": "Molecular electronic transitions (n to Î * or Î  to Î *) are are usually caused by the input of infrared radiation.", 
+        "content": "Molecular electronic transitions (n to Π* or Π to Π*) are are usually caused by the input of infrared radiation.", 
         "correct_answer": 1, 
         "answers": [
             "True", 
@@ -12822,7 +12822,7 @@
         ]
     }, 
     {
-        "content": "âWattle and daub is a method of construction.", 
+        "content": "“Wattle and daub is a method of construction.", 
         "correct_answer": 0, 
         "answers": [
             "True", 
@@ -12970,7 +12970,7 @@
             "LightScribe", 
             "SATA 3.0Gb/s", 
             "Sharpie enabled", 
-            "DL DVDÂąRW/CD-RW"
+            "DL DVD±RW/CD-RW"
         ]
     }, 
     {
@@ -14394,7 +14394,7 @@
         ]
     }, 
     {
-        "content": "The USA leadsâ the world in per capita consumption of water. Which country is second?", 
+        "content": "The USA leads” the world in per capita consumption of water. Which country is second?", 
         "correct_answer": 2, 
         "answers": [
             "China", 
@@ -14830,7 +14830,7 @@
         ]
     }, 
     {
-        "content": "Which is the highest layer of the Earthâs atmosphere?", 
+        "content": "Which is the highest layer of the Earth’s atmosphere?", 
         "correct_answer": 2, 
         "answers": [
             "Iconosphere", 
@@ -14900,7 +14900,7 @@
         ]
     }, 
     {
-        "content": "The poles of magnets are able to point the way because of ferromagnetic materials deep inside the Earthâs core.", 
+        "content": "The poles of magnets are able to point the way because of ferromagnetic materials deep inside the Earth’s core.", 
         "correct_answer": 0, 
         "answers": [
             "False", 
@@ -14928,7 +14928,7 @@
         ]
     }, 
     {
-        "content": "The first fly byâ for the planet Mars occurred in this year.", 
+        "content": "The first fly by” for the planet Mars occurred in this year.", 
         "correct_answer": 3, 
         "answers": [
             "1975", 
@@ -15054,7 +15054,7 @@
             "About 60 minutes", 
             "5 hours", 
             "35 minutes", 
-            "2Â˝ hours"
+            "2½ hours"
         ]
     }, 
     {
@@ -15308,7 +15308,7 @@
         ]
     }, 
     {
-        "content": "What is the name of the star cluster that is also known as âThe Seven Sistersâ?", 
+        "content": "What is the name of the star cluster that is also known as “The Seven Sisters”?", 
         "correct_answer": 3, 
         "answers": [
             "Bennekryse", 
@@ -15368,7 +15368,7 @@
         ]
     }, 
     {
-        "content": "How many recognized constellations are there in Earthâs entire view?", 
+        "content": "How many recognized constellations are there in Earth’s entire view?", 
         "correct_answer": 1, 
         "answers": [
             "244", 
@@ -15472,7 +15472,7 @@
         ]
     }, 
     {
-        "content": "Viruses are so small that you need a special light microscopĐľ to observe most of them.", 
+        "content": "Viruses are so small that you need a special light microscopе to observe most of them.", 
         "correct_answer": 1, 
         "answers": [
             "True", 
@@ -15847,9 +15847,9 @@
         "correct_answer": 2, 
         "answers": [
             "1 mm per day", 
-            "100 Âľm per day", 
-            "400 Âľm per day", 
-            "800 Âľm per day"
+            "100 µm per day", 
+            "400 µm per day", 
+            "800 µm per day"
         ]
     }, 
     {
@@ -16529,7 +16529,7 @@
         ]
     }, 
     {
-        "content": "The temperature on the Moon reaches 243Â° F at midday on the lunar equator.", 
+        "content": "The temperature on the Moon reaches 243° F at midday on the lunar equator.", 
         "correct_answer": 1, 
         "answers": [
             "False", 
@@ -16889,7 +16889,7 @@
         ]
     }, 
     {
-        "content": "Which of these commands will return a WindowsÂŽ computers node IP address, Subnet mask and information on whether it was assigned via DHCP and how long the lease is?", 
+        "content": "Which of these commands will return a Windows® computers node IP address, Subnet mask and information on whether it was assigned via DHCP and how long the lease is?", 
         "correct_answer": 2, 
         "answers": [
             "ifconfig /all", 
@@ -17801,7 +17801,7 @@
         ]
     }, 
     {
-        "content": "Did Isaac Newton formulate the famous equation E=mcÂ˛?", 
+        "content": "Did Isaac Newton formulate the famous equation E=mc²?", 
         "correct_answer": 0, 
         "answers": [
             "No", 
@@ -18215,7 +18215,7 @@
         ]
     }, 
     {
-        "content": "This food is rich in omega â 3 fatty acids, magnesium and potassium.", 
+        "content": "This food is rich in omega – 3 fatty acids, magnesium and potassium.", 
         "correct_answer": 3, 
         "answers": [
             "Salmon", 
@@ -18894,7 +18894,7 @@
         "answers": [
             "Oklahoma City Tornado", 
             "Great Natchez Tornado", 
-            "1896 St. Louis â East St. Louis tornado", 
+            "1896 St. Louis – East St. Louis tornado", 
             "Tri-State Tornado"
         ]
     }, 
@@ -19459,13 +19459,13 @@
         ]
     }, 
     {
-        "content": "Alchemists were in search of âpanaceaâ. What is panacea?", 
+        "content": "Alchemists were in search of ‘panacea’. What is panacea?", 
         "correct_answer": 1, 
         "answers": [
             "The meaning of life", 
             "Remedy for all ailments", 
             "The Holy Grail", 
-            "A piece of Jesus Christâs cross"
+            "A piece of Jesus Christ’s cross"
         ]
     }, 
     {
@@ -19489,7 +19489,7 @@
         ]
     }, 
     {
-        "content": "What is the word âalchemyâ generally believed to mean literally?", 
+        "content": "What is the word ‘alchemy’ generally believed to mean literally?", 
         "correct_answer": 0, 
         "answers": [
             "The art of transformation", 
@@ -19519,7 +19519,7 @@
         ]
     }, 
     {
-        "content": "Who is the author of the 1988 book âThe Alchemistâ?", 
+        "content": "Who is the author of the 1988 book ‘The Alchemist’?", 
         "correct_answer": 3, 
         "answers": [
             "J. K. Rowling", 
@@ -19736,7 +19736,7 @@
         "answers": [
             "All of these", 
             "Blindness", 
-            "Alzheimerâs Disease", 
+            "Alzheimer’s Disease", 
             "Melanoma"
         ]
     }, 
@@ -20323,7 +20323,7 @@
         ]
     }, 
     {
-        "content": "What was the most important occupation to Socrates according to Xenophons âSymposiumâ?", 
+        "content": "What was the most important occupation to Socrates according to Xenophons ‘Symposium’?", 
         "correct_answer": 0, 
         "answers": [
             "Discussing philosophy", 
@@ -20373,7 +20373,7 @@
         ]
     }, 
     {
-        "content": "How did Socrates describe the so-called âdemonic signâ that he claimed to appear to him when he was about to make a mistake?", 
+        "content": "How did Socrates describe the so-called ‘demonic sign’ that he claimed to appear to him when he was about to make a mistake?", 
         "correct_answer": 0, 
         "answers": [
             "Inner voice", 
@@ -20413,7 +20413,7 @@
         ]
     }, 
     {
-        "content": "Finish the popular quote by the great Greek philosopher Aristotle: âThere was never a genius without a tincture ofâŚâ.", 
+        "content": "Finish the popular quote by the great Greek philosopher Aristotle: ‘There was never a genius without a tincture of…’.", 
         "correct_answer": 3, 
         "answers": [
             "Sorrow", 
@@ -21657,7 +21657,7 @@
         "correct_answer": 1, 
         "answers": [
             "Peter Egg", 
-            "FabergĂŠ Egg", 
+            "Fabergé Egg", 
             "Russian Egg", 
             "Bunny Egg"
         ]
@@ -21893,7 +21893,7 @@
         ]
     }, 
     {
-        "content": "Despite a hurricaneâs destructive nature and its toll on both lives and property, there are some beneficial effects of tropical cyclones.", 
+        "content": "Despite a hurricane’s destructive nature and its toll on both lives and property, there are some beneficial effects of tropical cyclones.", 
         "correct_answer": 0, 
         "answers": [
             "True", 
@@ -21901,7 +21901,7 @@
         ]
     }, 
     {
-        "content": "The word hurricaneâ comes from the name of a Caribbean god - Huracan. Huracan was god of what?", 
+        "content": "The word hurricane” comes from the name of a Caribbean god - Huracan. Huracan was god of what?", 
         "correct_answer": 3, 
         "answers": [
             "The sea", 
@@ -23325,7 +23325,7 @@
         ]
     }, 
     {
-        "content": "This type of alternative medicine is based on the assumption that if large amounts of a certain substance cause symptoms of illness, then small amounts of this same substance can alleviate symptoms by activating the bodyâs self-healing abilities.", 
+        "content": "This type of alternative medicine is based on the assumption that if large amounts of a certain substance cause symptoms of illness, then small amounts of this same substance can alleviate symptoms by activating the body’s self-healing abilities.", 
         "correct_answer": 2, 
         "answers": [
             "Reiki", 
@@ -23570,7 +23570,7 @@
         "content": "A joint NASA/ESA/ASI robotic spacecraft mission to Saturn and its moons was launched in 1997. What is the spacecraft known as?", 
         "correct_answer": 0, 
         "answers": [
-            "CassiniâHuygens", 
+            "Cassini–Huygens", 
             "Voyager 15", 
             "Titan IV", 
             "Ulysses"
@@ -23625,7 +23625,7 @@
         ]
     }, 
     {
-        "content": "What is the average number of sweat glands in the skin per square inch (6.5cmÂ˛)?", 
+        "content": "What is the average number of sweat glands in the skin per square inch (6.5cm²)?", 
         "correct_answer": 1, 
         "answers": [
             "1100", 

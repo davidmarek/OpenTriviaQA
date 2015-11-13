@@ -5,7 +5,7 @@ import codecs
 def parse_file(filename, output_filename):
     file_content = []
     print filename
-    with codecs.open(filename, encoding='iso-8859-2') as file:
+    with open(filename) as file:
         file_content = file.readlines()
     questions = []
     last_question = None
@@ -13,7 +13,7 @@ def parse_file(filename, output_filename):
     correct_answer = None
     for line in file_content:
         try:
-            line = line.rstrip()   
+            line = line.decode('iso-8859-2').rstrip()   
             if line == "":
                 continue
             elif line[0] == "#":
@@ -44,8 +44,8 @@ def parse_file(filename, output_filename):
         last_question["correct_answer"] = last_question["answers"].index(correct_answer)
         questions.append(last_question)
 
-    with codecs.open(output_filename, 'w', encoding='utf8') as output_file:
-        output_file.write(json.dumps(questions, indent=4, ensure_ascii=False, encoding='utf8'))
+    with codecs.open(output_filename, 'w', encoding='iso-8859-2') as output_file:
+        json.dump(questions, output_file, indent=4, ensure_ascii=False, encoding='iso-8859-2')
 
 if __name__ == "__main__":
     directory = 'categories'

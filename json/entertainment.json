@@ -907,7 +907,7 @@
         ]
     }, 
     {
-        "content": "In Guitar Hero 3, âBulls on Parade by Rage Against the Machine is the third encore song.", 
+        "content": "In Guitar Hero 3, “Bulls on Parade by Rage Against the Machine is the third encore song.", 
         "correct_answer": 1, 
         "answers": [
             "True", 
@@ -1131,7 +1131,7 @@
         ]
     }, 
     {
-        "content": "Which of the following best describes Andy and Rogerâs youngest child in the comics FoxTrot?", 
+        "content": "Which of the following best describes Andy and Roger’s youngest child in the comics FoxTrot?", 
         "correct_answer": 1, 
         "answers": [
             "A jock", 
@@ -1619,7 +1619,7 @@
         "correct_answer": 3, 
         "answers": [
             "Monty Python", 
-            "Guy LalibertĂŠ", 
+            "Guy Laliberté", 
             "Daniel Gauthier", 
             "Jules Leotard"
         ]
